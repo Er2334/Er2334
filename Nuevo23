@@ -579,9 +579,6 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA", PlanetaTV Music
 https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE", PlanetaTV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="INFANTILES", PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
@@ -636,7 +633,7 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3U
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="MUSICA", Retro Plus Music 1
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1074_Eva_Retro.png" group-title="SERIES", Eva Retro
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1074_Eva_Retro.png" group-title="CINE", Eva Retro
 https://stmv5.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus TV
