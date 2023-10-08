@@ -1,19 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="DEPORTES", SPORTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZulWy1MaANFj2kdlNbkDOQ", "kid":"8taox8lbN222SwaJbXMKLw" } ], "type":"temporary" }
-https://0069-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="DEPORTES", SPORTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AwYB5gXCiWpELHPVdaMjqA", "kid":"CKQndCQHOhW62v73AaQriw" } ], "type":"temporary" }
-https://0070-vos.dtvott.com/DASH/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uustvp1437614684.png" group-title="DEPORTES", PREMIERE
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -33,16 +19,6 @@ https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=9fc08bc02c90500ba511d93a54d261c4:184832a5c70ebffcbc42c0243df398f3
 https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uustvp1437614684.png" group-title="DEPORTES", PREMIERE 3
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=34dc14b5497f3a0faca742240cac20c8:0a6e1d0ba9f6b467f39cc51ba4cc9794
-https://0108-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qzobqn1660760939.png", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -588,7 +564,7 @@ http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4181
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DGRNNOM.png" group-title="DEPORTES", Directv Sports HD
 http://sudaka.link:25461/exequiel/exequiel/17326
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA", VClassicTV * | CL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xciSx3.png" group-title="CINE", DHE HD
@@ -648,8 +624,32 @@ http://45.159.95.33:8080/play/mpegts/eyJpdiI6ImlFbXBjbDVRZDNmdFpYZ1Y3V3NyYUE9PSI
 #EXTINF:-1 tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/Tigo-Sport.png" group-title="PARAGUAY", EVENTOS 4
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/_AhgcJklU5W-jI7JowDifXkjubFSBNts0vprj7es_GE0eadsqiral4IVl5ghdYTSSyv9xux9sNVHGSvMF2lX-A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="INFANTILES", Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="MUSICA", Recuerdos Retro Radio TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/21_Retro_Music_Television.png" group-title="MUSICA", Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="MUSICA", Retro Plus Music 1
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1074_Eva_Retro.png" group-title="SERIES", Eva Retro
+https://stmv5.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus TV
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +Cine
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/836_ABC_TV.png" group-title="PARAGUAY", ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="MUSICA", Retro Plus Music 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 
 
 
