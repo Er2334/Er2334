@@ -593,5 +593,32 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="MUSICA", Retro Plus Music 2
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE", PlanetaTV Movies
+http://sudaka.link:25461/exequiel/exequiel/31046.ts
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png" group-title="CINE", FM TV
+http://sudaka.link:25461/exequiel/exequiel/31100.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qtzY5Ea.png" group-title="CINE", Kanal D HD
+http://sudaka.link:25461/exequiel/exequiel/19916.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="INFANTILES", Latino Kids TV
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="INFANTILES", Pandamax TV
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="INFANTILES", Varied TV
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="CINE", Classic Channel
+https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
 
 
