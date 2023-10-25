@@ -644,6 +644,17 @@ https://amc-cortos-1-us.plex.wurl.tv:443/6dbbaa2db12ab50781c9147553a6f01d.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/Tigo-Sport.png" group-title="PARAGUAY", EVENTOS 1
+https://tgn.bozztv.com/ssh101/ssh101/usalo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/Tigo-Sport.png" group-title="PARAGUAY", EVENTOS 2
+https://tgn.bozztv.com/ssh101/ssh101/video/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/Tigo-Sport.png" group-title="PARAGUAY", EVENTOS 3
+http://45.159.95.33:8080/play/mpegts/eyJpdiI6ImlFbXBjbDVRZDNmdFpYZ1Y3V3NyYUE9PSIsInZhbHVlIjoidE9LZHFPVmUwd200Z0pZWDRWLzRnVEgyNlhVUTJoVVlvVjFiUXN3U285bHhQTVkwRnVpTFpNZ3A0b0RtU1gvbiIsIm1hYyI6ImJlOWYzM2M5MjExYmIzOTE4ZDQyNTQ1ODQ1OTAyMTI4ZTZkYWNkZjZhY2M4MjY1MTVkMDNhOTAxZmUwNzRmNGMiLCJ0YWciOiIifQ==/386070d7-55b7-4295-8e21-1765c6ea504d.ts?lvtoken=eyJpdiI6Ii82LzFXL3g2c25ET2VPdUtZb3h4cXc9PSIsInZhbHVlIjoidnBNeWZvQ3gzS01yeXJZQXpMblZTUDkrQUVISS91R2pTTTRvMEt2emF0a0hjNnVqQWdaWDNBUzNPUVNycTJ1eVRscnVvdGN4V0RPS0RHeHRpTGJqUURnTEZkb1ZrNjZYb2IvREVHampxMWl3WFcveWRTY01IaFlxM2pobFYvNDJNTTJnc212dUovaHk5Sk55RkEvenkyNGZlWXRjbDFrdnkzdEprc3M4ZnQzOTRWNE5NT1Q5M3pDQm5KLzg3NlB4K1NvdDQzUk9NN0tjY2FEcDhBbjRpQT09IiwibWFjIjoiYmFlMzRiOTYwZTYxYjA5MjU5MzFkYzljZTRkNTRhNTc1NGYzOTU5OTY0MzA2NTgxOTJjN2M2YWRkMGJlOWI3MCIsInRhZyI6IiJ9&r=b8f1fa&rt=d4fff5e848611989ab6981dd1dd3e16b
+
+#EXTINF:-1 tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/Tigo-Sport.png" group-title="PARAGUAY", EVENTOS 4
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/_AhgcJklU5W-jI7JowDifXkjubFSBNts0vprj7es_GE0eadsqiral4IVl5ghdYTSSyv9xux9sNVHGSvMF2lX-A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 
 
 
