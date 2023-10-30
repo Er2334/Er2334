@@ -605,9 +605,6 @@ http://45.159.95.33:8080/play/mpegts/eyJpdiI6ImlFbXBjbDVRZDNmdFpYZ1Y3V3NyYUE9PSI
 #EXTINF:-1 tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/Tigo-Sport.png" group-title="EVENTOS", EVENTOS 4
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/_AhgcJklU5W-jI7JowDifXkjubFSBNts0vprj7es_GE0eadsqiral4IVl5ghdYTSSyv9xux9sNVHGSvMF2lX-A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Planeta Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="MUSICA", Super Classics TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 
@@ -652,25 +649,6 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="CINE", Xtrema Suspenso
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nrBPn1m/ooneytunes.jpg" group-title="INFANTILES", LOONEY TUNES
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=524
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TRfcqwz/coraje.jpg" group-title="INFANTILES", CORAJE
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=519
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQXxjJS/gardfield.jpg" group-title="INFANTILES", GARDFIELD
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=812
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s5Z3s0y/chavo.jpg" group-title="INFANTILES", EL CHAVO
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=400
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KKZF5qT/chapulin.jpg" group-title="INFANTILES", CHAPULIN COLORADO
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=418
-
-
-
-
 
 
 
