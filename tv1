@@ -650,6 +650,11 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="CINE", Xtrema Suspenso
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 2
+http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60766
+
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 1
+http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60768
 
 
 
