@@ -506,23 +506,8 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazi
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MHxcAOj.png" group-title="CINE", HBO HD
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/239
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZIg4nK.png" group-title="CINE", HBO 2 HD
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4182
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zc7XbrP.png" group-title="CINE", HBO+ HD
-http://sudaka.link:25461/exequiel/exequiel/15765
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PrtPbTs.png" group-title="CINE", HBO Family HD
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4181
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xciSx3.png" group-title="CINE", DHE HD
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/220
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png" group-title="INFANTILES", Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
@@ -532,33 +517,6 @@ https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="INFANTILES", PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIzOXH8.png" group-title="CINE", Clover Channel HD
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/4187
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pRo7XnL.png" group-title="CINE", Golden Plus
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/238
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvWbTxY.png" group-title="INFANTILES", Baby TV
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/158
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CmoyrHW.png" group-title="INFANTILES", Nickelodeon
-http://sudaka.link:25461/exequiel/exequiel/17181
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqautU0.png" group-title="INFANTILES", Tooncast
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/195
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9VNdtAz.png" group-title="INFANTILES", Disney Channel HD
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/226
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L2Mhqzc.png" group-title="INFANTILES", Disney Jr
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/15
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCNi8oz.png" group-title="INFANTILES", Discovery Kids HD
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/223
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Pf2AyP.png" group-title="INFANTILES", Cartoon Network HD
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/216
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="INFANTILES", Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
@@ -589,9 +547,6 @@ https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="INFANTILES", Latino Kids TV
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="INFANTILES", Pandamax TV
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="INFANTILES", Varied TV
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
@@ -650,26 +605,72 @@ http://45.159.95.33:8080/play/mpegts/eyJpdiI6ImlFbXBjbDVRZDNmdFpYZ1Y3V3NyYUE9PSI
 #EXTINF:-1 tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/Tigo-Sport.png" group-title="EVENTOS", EVENTOS 4
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/_AhgcJklU5W-jI7JowDifXkjubFSBNts0vprj7es_GE0eadsqiral4IVl5ghdYTSSyv9xux9sNVHGSvMF2lX-A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 2
-http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60766
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Planeta Movies
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/cd80839e8eb5e7274ae7a977b79f7898.png" group-title="EVENTOS", T S Plus
-http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60767
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="MUSICA", Super Classics TV
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S
-http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60768
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="INFANTILES", Super Kaos TV
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/05edce7a53fbc1b716990013788cc28d.png" group-title="DEPORTES", DirecTV Sports 2
-http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60712
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="INFANTILES", Xtrema Cartoons
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/e68ff4d2c9bb4ad0ac5d53461340fe76.png" group-title="DEPORTES", DirecTV Sports
-http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60713
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="INFANTILES", Xtrema Retro Cartoons
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="EVENTOS", EVENTOS 5
-http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/509
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="CINE", Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 6
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/56961501723wspzero/020322zero/61975
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE", Xtrema Accion
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="CINE", Xtrema Asia
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="CINE", Xtrema Comedy
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="CINE", Xtrema Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="CINE", Xtrema Europa
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="CINE", Xtrema Family
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="CINE", Xtrema Hindi
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="CINE", Xtrema Latina
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="SERIES", Xtrema Series
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="CINE", Xtrema Suspenso
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrBPn1m/ooneytunes.jpg" group-title="INFANTILES", LOONEY TUNES
+https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=524
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TRfcqwz/coraje.jpg" group-title="INFANTILES", CORAJE
+https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=519
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQXxjJS/gardfield.jpg" group-title="INFANTILES", GARDFIELD
+https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=812
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5Z3s0y/chavo.jpg" group-title="INFANTILES", EL CHAVO
+https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=400
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KKZF5qT/chapulin.jpg" group-title="INFANTILES", CHAPULIN COLORADO
+https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=418
+
+
+
+
 
 
 
