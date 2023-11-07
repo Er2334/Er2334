@@ -656,14 +656,7 @@ http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 1
 http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60768
 
-
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/goldenedge.png" group-title="CINE", GOLDEN EDGE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-#EXTINF:0 tvg-ID="goldenedge.mx"tvg-logo="https://logo.iptveditor.com/goldenedge.png" group-title="IZZI GO",GOLDENEDGE
-https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive#KODIPROP:inputstream.adaptive.manifest_type=mpd#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw#EXTINF:0 tvg-ID="goldenedge.mx"tvg-logo="https://logo.iptveditor.com/goldenedge.png" group-title="IZZI GO",GOLDENEDGEhttps://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
 
 
