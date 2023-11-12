@@ -656,6 +656,27 @@ http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 1
 http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60768
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/269
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO plus
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/176
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/173
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Plus
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/238
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Universal Cinema
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4261
+
 
 
 
