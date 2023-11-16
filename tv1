@@ -677,6 +677,19 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4261
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DMn0KSH/descarga-2.png" group-title="CINE", HBO Family 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a74gYrFQsRSWzdX73ZyJ1g","kid":"https://dl.dropbox.com/s/y4xmfs0bfkuj1bh/KEY.HBO.FAMILY.json"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DMn0KSH/descarga-2.png" group-title="CINE", HBO Family 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"https://dl.dropbox.com/s/y4xmfs0bfkuj1bh/KEY.HBO.FAMILY.json"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+
+
 
 
 
