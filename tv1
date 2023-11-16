@@ -536,9 +536,6 @@ https://stmv5.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus TV
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +Cine
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/836_ABC_TV.png" group-title="PARAGUAY", ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
 
@@ -656,9 +653,6 @@ http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 1
 http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60768
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/269
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO plus
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
 
@@ -677,19 +671,23 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4261
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DMn0KSH/descarga-2.png" group-title="CINE", HBO Family 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a74gYrFQsRSWzdX73ZyJ1g","kid":"https://dl.dropbox.com/s/y4xmfs0bfkuj1bh/KEY.HBO.FAMILY.json"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE", HBO Family 
+http://sdmx.vip:8080/Joseluis/Joseluis123/10878
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DMn0KSH/descarga-2.png" group-title="CINE", HBO Family 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"https://dl.dropbox.com/s/y4xmfs0bfkuj1bh/KEY.HBO.FAMILY.json"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/cinesony.png" group-title="CINE", Cine Sony HD
+http://sdmx.vip:8080/Joseluis/Joseluis123/197327
 
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/tudnmx.png" group-title="DEPORTES", TUDN
+http://sdmx.vip:8080/Joseluis/Joseluis123/155675
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="CINE", Golden Edge
+http://sdmx.vip:8080/Joseluis/Joseluis123/154111
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="CINE", Golden Premier
+http://sdmx.vip:8080/Joseluis/Joseluis123/200947
+
+#EXTINF:-1 tvg-logo="http://xtream.host/imagenes/canales/golden.png" group-title="CINE", Golden
+http://sdmx.vip:8080/Joseluis/Joseluis123/154110
 
 
 
