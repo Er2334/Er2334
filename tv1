@@ -671,23 +671,15 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4261
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE", HBO Family 
-http://sdmx.vip:8080/Joseluis/Joseluis123/10878
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/257
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/cinesony.png" group-title="CINE", Cine Sony HD
-http://sdmx.vip:8080/Joseluis/Joseluis123/197327
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/269
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/tudnmx.png" group-title="DEPORTES", TUDN
-http://sdmx.vip:8080/Joseluis/Joseluis123/155675
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family hd
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4181
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="CINE", Golden Edge
-http://sdmx.vip:8080/Joseluis/Joseluis123/154111
-
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="CINE", Golden Premier
-http://sdmx.vip:8080/Joseluis/Joseluis123/200947
-
-#EXTINF:-1 tvg-logo="http://xtream.host/imagenes/canales/golden.png" group-title="CINE", Golden
-http://sdmx.vip:8080/Joseluis/Joseluis123/154110
 
 
 
