@@ -686,6 +686,46 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES", ZONATUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY CHANEL
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTILES", EL CHAVO
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/cinema-concept-cartoon-character-260nw-2077292350.jpg" group-title="INFANTILES", Cine Infantil
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY CHANNEL
+https://mx1.gt-app.com/44/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JR
+https://mx1.gt-app.com/43/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+
+#EXTINF:-1 tvg-logo="https://www.infobae.com/new-resizer/gDDr1pjxwOk8ikXEw7g68Sd-ZmQ=/768x432/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/05/02150322/Los-tres-chiflados-1920.jpg" group-title="SERIES", LOS 3 CHIFLADOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="SERIES", LA ROSA DE GUADALUPE
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="INFANTILES", CARTOONS
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-toons-retro-cartoon-character-smiley-vector-6381220.webp" group-title="INFANTILES", RETRO CARTOONS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOON NETWORK
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TOONCAST
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logoq.png" group-title="INFANTILES", EXTREMA KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+
+
+
+
 
 
 
