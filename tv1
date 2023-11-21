@@ -671,14 +671,13 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4261
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/269
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yijitpa.png" group-title="SERIES", Sony Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family hd
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4181
+
 
 
 
