@@ -719,7 +719,14 @@ http://190.61.43.117:45000/play/a045
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="INFANTILES", DISNEY CHANNEL
 http://190.61.43.117:45000/play/a06b
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="INFANTILES", Discovery Kids
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE", Golden Plus 2
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE", Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 
 
