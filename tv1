@@ -654,22 +654,19 @@ http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60
 http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60768
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO plus
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
+http://go.iptvhn.net:25461/live/7672/7672/120.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/176
+http://go.iptvhn.net:25461/live/7672/7672/122.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/173
+http://go.iptvhn.net:25461/live/7672/7672/119.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Plus
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/238
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Universal Cinema
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4261
+http://go.iptvhn.net:25461/live/7672/7672/203.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
