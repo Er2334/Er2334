@@ -608,9 +608,6 @@ https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="INFANTILES", Super Kaos TV
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="INFANTILES", Xtrema Cartoons
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="INFANTILES", Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
@@ -695,12 +692,6 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/cinema-concept-cartoon-character-260nw-2077292350.jpg" group-title="INFANTILES", Cine Infantil
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY CHANNEL
-https://mx1.gt-app.com/44/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JR
-https://mx1.gt-app.com/43/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-
 #EXTINF:-1 tvg-logo="https://www.infobae.com/new-resizer/gDDr1pjxwOk8ikXEw7g68Sd-ZmQ=/768x432/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/05/02150322/Los-tres-chiflados-1920.jpg" group-title="SERIES", LOS 3 CHIFLADOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
@@ -722,7 +713,11 @@ http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logoq.png" group-title="INFANTILES", EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" group-title="INFANTILES", DISNEY JR
+http://190.61.43.117:45000/play/a045
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="INFANTILES", DISNEY CHANNEL
+http://190.61.43.117:45000/play/a06b
 
 
 
