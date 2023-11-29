@@ -743,6 +743,30 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/163909
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3" group-title="DEPORTES", DAZN 3
 http://samuraitv.online:8000/JoseBravo/Multi736548/282097
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png" group-title="EVENTOS", TIGO SPORTS PY 1
+http://samuraitv.online:8000/JoseBravo/Multi736548/302754
+
+#EXTINF:-1 tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="EVENTOS", TIGO SPORTS PY 2
+http://samuraitv.online:8000/JoseBravo/Multi736548/241963
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="CINE", GOLDEN EDGE
+http://samuraitv.online:8000/JoseBravo/Multi736548/143711
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="CINE", GOLDEN
+http://samuraitv.online:8000/JoseBravo/Multi736548/226715
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1612.png" group-title="DEPORTES", DIRECTV 2
+http://samuraitv.online:8000/JoseBravo/Multi736548/227798
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png" group-title="DEPORTES", DIRECTV +
+http://samuraitv.online:8000/JoseBravo/Multi736548/227799
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/512px-DirecTV_Sports_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV
+http://samuraitv.online:8000/JoseBravo/Multi736548/234324
+
+
+
+
 
 
 
