@@ -530,9 +530,6 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3U
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="MUSICA", Retro Plus Music 1
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1074_Eva_Retro.png" group-title="CINE", Eva Retro
-https://stmv5.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus TV
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
@@ -727,6 +724,28 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE", Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO2 HD
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
+http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTICINEMA
+http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
