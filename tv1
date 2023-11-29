@@ -734,7 +734,14 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/223204
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="CINE", HBO FAMILY ᴴᴰ
 http://samuraitv.online:8000/JoseBravo/Multi736548/267503
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 1
+http://samuraitv.online:8000/JoseBravo/Multi736548/163908
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 2
+http://samuraitv.online:8000/JoseBravo/Multi736548/163909
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3" group-title="DEPORTES", DAZN 3
+http://samuraitv.online:8000/JoseBravo/Multi736548/282097
 
 
 
