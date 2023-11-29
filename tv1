@@ -647,29 +647,14 @@ http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 1
 http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60768
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO plus
-http://go.iptvhn.net:25461/live/7672/7672/120.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
-http://go.iptvhn.net:25461/live/7672/7672/122.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
-http://go.iptvhn.net:25461/live/7672/7672/119.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Plus
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/238
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Universal Cinema
-http://go.iptvhn.net:25461/live/7672/7672/203.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", Cine Sony
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yijitpa.png" group-title="SERIES", Sony Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
-http://go.iptvhn.net:25461/live/7672/7672/118.m3u8
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="DEPORTES", TUDN
 http://208.88.246.77:5473/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
