@@ -752,9 +752,6 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/241963
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="CINE", GOLDEN EDGE
 http://samuraitv.online:8000/JoseBravo/Multi736548/143711
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="CINE", GOLDEN
-http://samuraitv.online:8000/JoseBravo/Multi736548/226715
-
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1612.png" group-title="DEPORTES", DIRECTV 2
 http://samuraitv.online:8000/JoseBravo/Multi736548/227798
 
@@ -764,7 +761,8 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/227799
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/512px-DirecTV_Sports_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV
 http://samuraitv.online:8000/JoseBravo/Multi736548/234324
 
-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="CINE", GOLDEN
+http://samuraitv.online:8000/JoseBravo/Multi736548/143714
 
 
 
