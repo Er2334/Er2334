@@ -710,9 +710,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE", Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO2 HD
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
 http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
 
@@ -764,6 +761,8 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/234324
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="CINE", GOLDEN
 http://samuraitv.online:8000/JoseBravo/Multi736548/143714
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="CINE", HBO 2 ᴴᴰ
+http://samuraitv.online:8000/JoseBravo/Multi736548/267502
 
 
 
