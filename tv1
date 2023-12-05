@@ -764,13 +764,9 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/143714
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="CINE", HBO 2 ᴴᴰ
 http://samuraitv.online:8000/JoseBravo/Multi736548/267502
 
-#EXTINF:-1 tvg-logo="https://comparaiso.mx/sites/comparaiso.mx/files/2022-12/ Logo_Izzi.svg_.png" group-title="IZZI GO", CANAL IZZI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?
-deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
-
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/hbofamily.png?v=1.1.1.1" tvg-id="HBO Family HD" tvg-name="HBO Family HD", HBO Family HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 
