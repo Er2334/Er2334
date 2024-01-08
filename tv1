@@ -767,8 +767,6 @@ http://177.53.153.20:8001/play/a0bu/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0aw.png" group-title="CINE", UNIVERSAL CINEMA HD
 http://177.53.153.20:8001/play/a0aw/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Planeta Movies
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 
 
