@@ -542,9 +542,6 @@ https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="INFANTILES", Latino Kids TV
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="INFANTILES", Varied TV
-https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="SERIES", Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 
@@ -608,39 +605,6 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="INFANTILES", Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="CINE", Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE", Xtrema Accion
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="CINE", Xtrema Asia
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="CINE", Xtrema Comedy
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="CINE", Xtrema Drama
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="CINE", Xtrema Europa
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="CINE", Xtrema Family
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="CINE", Xtrema Hindi
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="CINE", Xtrema Latina
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="SERIES", Xtrema Series
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="CINE", Xtrema Suspenso
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 2
 http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60766
 
@@ -659,20 +623,11 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="DEPORTES", TUDN
 http://208.88.246.77:5473/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES", TUDN USA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722|user-agent=UniversoSport
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES", ZONATUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY CHANEL
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTILES", EL CHAVO
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/cinema-concept-cartoon-character-260nw-2077292350.jpg" group-title="INFANTILES", Cine Infantil
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infobae.com/new-resizer/gDDr1pjxwOk8ikXEw7g68Sd-ZmQ=/768x432/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/05/02150322/Los-tres-chiflados-1920.jpg" group-title="SERIES", LOS 3 CHIFLADOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
@@ -686,44 +641,17 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-toons-retro-cartoon-character-smiley-vector-6381220.webp" group-title="INFANTILES", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOON NETWORK
-http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TOONCAST
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logoq.png" group-title="INFANTILES", EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" group-title="INFANTILES", DISNEY JR
-http://190.61.43.117:45000/play/a045
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="INFANTILES", DISNEY CHANNEL
-http://190.61.43.117:45000/play/a06b
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="INFANTILES", Discovery Kids
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE", Golden Plus 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE", Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE", Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
-http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
-http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTICINEMA
-http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="CINE", UNIVERSAL CINEMA ᴴᴰ
-http://samuraitv.online:8000/JoseBravo/Multi736548/140006
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png" group-title="CINE", HBO ᴴᴰ
-http://samuraitv.online:8000/JoseBravo/Multi736548/223202
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/914/599/png-clipart-logo-product-design-brand-font-design-text-logo.png" group-title="CINE", HBO PLUS ᴴᴰ
 http://samuraitv.online:8000/JoseBravo/Multi736548/223204
@@ -746,9 +674,6 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/302754
 #EXTINF:-1 tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="EVENTOS", TIGO SPORTS PY 2
 http://samuraitv.online:8000/JoseBravo/Multi736548/241963
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="CINE", GOLDEN EDGE
-http://samuraitv.online:8000/JoseBravo/Multi736548/143711
-
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1612.png" group-title="DEPORTES", DIRECTV 2
 http://samuraitv.online:8000/JoseBravo/Multi736548/227798
 
@@ -758,23 +683,10 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/227799
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/512px-DirecTV_Sports_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV
 http://samuraitv.online:8000/JoseBravo/Multi736548/234324
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="CINE", GOLDEN
-http://samuraitv.online:8000/JoseBravo/Multi736548/143714
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="CINE", HBO 2 ᴴᴰ
 http://samuraitv.online:8000/JoseBravo/Multi736548/267502
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO*
-http://179.1.87.75:8098/play/a0rb/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2*
-http://179.1.87.75:8098/play/a0ee/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus*
-http://179.1.87.75:8098/play/a0ef/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family*
-http://179.1.87.75:8098/play/a0eh/index.m3u8
 
 
 
