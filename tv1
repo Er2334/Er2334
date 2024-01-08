@@ -686,6 +686,42 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/234324
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="CINE", HBO 2 ᴴᴰ
 http://samuraitv.online:8000/JoseBravo/Multi736548/267502
 
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03d.png" group-title="INFANTILES", Cartoon Network HD
+http://177.53.153.20:8001/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a020.png" group-title="CINE", Clover HD
+http://177.53.153.20:8001/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02o.png" group-title="INFANTILES", Discovery Kids HD
+http://177.53.153.20:8001/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bi.png" group-title="INFANTILES", Disney
+http://177.53.153.20:8001/play/a0bi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05i.png" group-title="INFANTILES", Disney JR
+http://177.53.153.20:8001/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a065.png" group-title="DEPORTES", ESPN  +
+http://177.53.153.20:8001/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02u.png" group-title="DEPORTES", ESPN 4 HD
+http://177.53.153.20:8001/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04e.png" group-title="DEPORTES", Fox Sports 1 MX
+http://177.53.153.20:8001/play/a04e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02v.png" group-title="Without category", FOX Sports 2 MX
+http://177.53.153.20:8001/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02d.png" group-title="DEPORTES", Fox Sports 3 MX
+http://177.53.153.20:8001/play/a02d/index.m3u8
+
+
+
+
+
+
+
 
 
 
