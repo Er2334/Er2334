@@ -740,13 +740,32 @@ http://177.53.153.20:8001/play/a07o/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0a8.png" group-title="CINE", Multipremier
 http://177.53.153.20:8001/play/a0a8/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a036.png" group-title="CULTURA", Nat Geo HD
-http://177.53.153.20:8001/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a023.png" group-title="INFANTILES", Nick HD
+http://177.53.153.20:8001/play/a023/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c0.png" group-title="SERIES", RCN Novelas
+http://177.53.153.20:8001/play/a0c0/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01t.png" group-title="CINE", Sony HD
+http://177.53.153.20:8001/play/a01t/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a06i.png" group-title="CINE", Sony Movies HD
+http://177.53.153.20:8001/play/a06i/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04o.png" group-title="INTERNACIONALES", TVChile
+http://177.53.153.20:8001/play/a04o/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a026.png" group-title="INTERNACIONALES", TVN HD
+http://177.53.153.20:8001/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a068.png" group-title="INFANTILES", Teen Nick HD
+http://177.53.153.20:8001/play/a068/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bu.png" group-title="MUSICA", Telehit HD
+http://177.53.153.20:8001/play/a0bu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0aw.png" group-title="CINE", UNIVERSAL CINEMA HD
+http://177.53.153.20:8001/play/a0aw/index.m3u8
 
 
 
