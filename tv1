@@ -602,9 +602,6 @@ http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 1
 http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60768
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Plus
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/238
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
@@ -710,8 +707,17 @@ http://177.53.153.20:8001/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02d.png" group-title="DEPORTES", Fox Sports 3 MX
 http://177.53.153.20:8001/play/a02d/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bx.png" group-title="CINE", Golden Plus HD
+http://177.53.153.20:8001/play/a0bx/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a054.png" group-title="CINE", Golden Premiere 2 HD
+http://177.53.153.20:8001/play/a054/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a053.png" group-title="CINE", Golden Premiere HD
+http://177.53.153.20:8001/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="MegaTV.py" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="PARAGUAY",Mega TV
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
 
 
