@@ -710,14 +710,39 @@ http://177.53.153.20:8001/play/a02d/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bx.png" group-title="CINE", Golden Plus HD
 http://177.53.153.20:8001/play/a0bx/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a054.png" group-title="CINE", Golden Premiere 2 HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a054.png" group-title="CINE", Golden Premier 2 HD
 http://177.53.153.20:8001/play/a054/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a053.png" group-title="CINE", Golden Premiere HD
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a053.png" group-title="CINE", Golden Premier HD
 http://177.53.153.20:8001/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="PARAGUAY",Mega TV
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cpi4u.com:45862/images/509e5f41146e278f9eab1ddaceb34515.jpg" group-title="CINE", HBO HD
+http://177.53.153.20:8001/play/a03b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04f.png" group-title="CULTURA", History 2 HD
+http://177.53.153.20:8001/play/a04f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01r.png" group-title="CULTURA", History HD
+http://177.53.153.20:8001/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0by.png" group-title="INTERNACIONALES", Las Estrellas HD
+http://177.53.153.20:8001/play/a0by/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bs.png" group-title="CULTURA", Love Nature HD
+http://177.53.153.20:8001/play/a0bs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a07o.png" group-title="CINE", Multicinema
+http://177.53.153.20:8001/play/a07o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0a8.png" group-title="CINE", Multipremier
+http://177.53.153.20:8001/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a036.png" group-title="CULTURA", Nat Geo HD
+http://177.53.153.20:8001/play/a036/index.m3u8
+
 
 
 
