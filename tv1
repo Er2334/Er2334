@@ -596,15 +596,6 @@ http://45.159.95.33:8080/play/mpegts/eyJpdiI6ImlFbXBjbDVRZDNmdFpYZ1Y3V3NyYUE9PSI
 #EXTINF:-1 tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/Tigo-Sport.png" group-title="EVENTOS", EVENTOS 4
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/_AhgcJklU5W-jI7JowDifXkjubFSBNts0vprj7es_GE0eadsqiral4IVl5ghdYTSSyv9xux9sNVHGSvMF2lX-A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="MUSICA", Super Classics TV
-https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="INFANTILES", Super Kaos TV
-https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="INFANTILES", Xtrema Retro Cartoons
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="EVENTOS", T S 2
 http://xplatinmedia.com:8080/K1discord/94nci3nd54Zlkw0Dbg5838P51lWi8L0bbsbxfN/60766
 
@@ -635,9 +626,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 #EXTINF:-1 tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="SERIES", LA ROSA DE GUADALUPE
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="INFANTILES", CARTOONS
-https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-toons-retro-cartoon-character-smiley-vector-6381220.webp" group-title="INFANTILES", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -658,6 +646,9 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/223204
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="CINE", HBO FAMILY ᴴᴰ
 http://samuraitv.online:8000/JoseBravo/Multi736548/267503
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="CINE", HBO FAMILY
+http://177.53.153.20:8001/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 1
 http://samuraitv.online:8000/JoseBravo/Multi736548/163908
@@ -686,6 +677,9 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/234324
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="CINE", HBO 2 ᴴᴰ
 http://samuraitv.online:8000/JoseBravo/Multi736548/267502
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="CINE", HBO 2
+http://177.53.153.20:8001/play/a03i/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03d.png" group-title="INFANTILES", Cartoon Network HD
 http://177.53.153.20:8001/play/a03d/index.m3u8
 
@@ -710,7 +704,7 @@ http://177.53.153.20:8001/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04e.png" group-title="DEPORTES", Fox Sports 1 MX
 http://177.53.153.20:8001/play/a04e/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02v.png" group-title="Without category", FOX Sports 2 MX
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02v.png" group-title="DEPORTES", FOX Sports 2 MX
 http://177.53.153.20:8001/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02d.png" group-title="DEPORTES", Fox Sports 3 MX
