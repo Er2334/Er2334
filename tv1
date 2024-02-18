@@ -619,15 +619,35 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/234324
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="PARAGUAY",Mega TV
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (OFFLINE) HBO 2 HD
+http://177.128.113.8:1/play/a092
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (OFFLINE) HBO Family HD
+http://177.128.113.8:1/play/a0ad
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (OFFLINE) HBO HD
+http://177.128.113.8:1/play/a08w
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (OFFLINE) HBO Plus
+http://177.128.113.8:1/play/a0af
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (OFFLINE) HBO Signature
+http://177.128.113.8:1/play/a0ag
 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="DEPORTES", DAZN 3 HD
+http://franarteaga26.chocoplus.xyz:8080/RicardMega/Sypd5X3Xyu/295
 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DEPORTES", DAZN 2 HD
+http://franarteaga26.chocoplus.xyz:8080/RicardMega/Sypd5X3Xyu/292
 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DEPORTES", DAZN 1 HD
+http://franarteaga26.chocoplus.xyz:8080/RicardMega/Sypd5X3Xyu/75112
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA HD
+http://138.59.177.34:8000/play/a07c/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
+https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8?PlaylistM3UCL
 
 
 
