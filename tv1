@@ -670,10 +670,26 @@ http://177.128.113.8:1/play/a09i
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", History Channel HD
 http://177.128.113.8:1/play/a079
 
+#EXTINF:-1 tvg-logo="http://megaxplay.com:80/images/RjZu6C4F1Mvp0Gyfx4mjmNDbg6S3eiwFyuNs_6nLW_MIbo-qbEbeYwn_fGf8qa9GtzTXfOY1RliO7qAPyOzHK9uk9CFMz8OSozODd-S7RH4.jpg" group-title="DEPORTES", ESPN PREMIUM
+http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JcsTw568AnfHXzWRyGKDg54
 
+#EXTINF:-1 tvg-logo="http://megaxplay.com:80/images/pqAT1tyQD7YTPOBOaCM--iFE-YI0K3HE_dhyuLw2l7lZDndhFTTXcKmOTsSfQ16m.jpeg" group-title="DEPORTES", TNT SPORTS ARG
+http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JWiftsi0TD_RJfqwKSIuoFE
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="DEPORTES", DAZN 1
+http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JT_64JBEEIuHm8a3OOKSp5o
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn2.png?fit=440%2C264&ssl=1" group-title="DEPORTES", DAZN 2
+http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JWU-vxn9zowaSQV5SdYLFto
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="DEPORTES", DAZN 3
+http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JXFACaUUdsyRqH8KgUdmqDQ
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1" group-title="DEPORTES", DAZN 4
+http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JbgHyiSuywsaYO_nqnB0kr4
+
+#EXTINF:-1 tvg-logo="http://megaxplay.com:80/images/pqAT1tyQD7YTPOBOaCM--ub5uXWXabYuJsIVIQAHPx7kk6ZcVb67C-1Cz8gjiOKi.png" group-title="CINE", SONY Movies
+http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JZPRdV_9U2magf7aZFDO1Sc
 
 
 
