@@ -673,15 +673,6 @@ http://209.45.101.38:7500/play/a0bu
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Eventos HD 2
 http://209.45.101.38:7500/play/a0gp
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
-http://209.45.101.38:7500/play/a0bg
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family 2
-http://209.45.101.38:7500/play/a0bh
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
-http://209.45.101.38:7500/play/a0gs
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
 http://209.45.101.38:7500/play/a09u
 
@@ -703,6 +694,17 @@ http://209.45.101.38:7500/play/a0bq
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2 
+http://200.60.124.20:19999/play/a071/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family 2
+http://200.60.124.20:19999/play/a08x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 
+http://200.60.124.20:19999/play/a070/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus 2
+http://200.60.124.20:19999/play/a08z/index.m3u8
 
 
 
