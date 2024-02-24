@@ -565,9 +565,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="PARAGUAY", ÑANDUTÍ TV
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cortos
-https://amc-cortos-1-us.plex.wurl.tv:443/6dbbaa2db12ab50781c9147553a6f01d.m3u8
-
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
@@ -649,9 +646,6 @@ https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN 2
 https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN EDGE
-http://181.78.105.146:2000/play/a08k/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", AFIZZIONADOS
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 
@@ -693,6 +687,65 @@ http://200.60.124.20:19999/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus 2
 http://200.60.124.20:19999/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/fc9749acfc2c1540f18a08701a407f98.png" group-title="CINE", Golden Edge
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/36
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZSqYLI_O_Xua0InzOH9uy_lyruszeO1JwsrgMHdP2u1mOoBmGjD6xJeApgFUnHMfQ.jpeg" group-title="CINE", Golden Premier 2
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/301439
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgxDnzKXuDS9VeNKWQwjiDeII9p1D_NhyBE-bzxXjS3vKKpCUa1xr4JlpksTLXdtAc.png" group-title="INFANTILES", Cinema Disney Pixar
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/490
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZkUu4tXeD8KzCIXeCzsr9Hx-mxu3H2HIaWiMVyMJeQCsZe7BmyAhub99raHwz6JQI.png" group-title="CINE", Cinema Universe
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/230604
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaVAzzY84SZ6dPMybtfFYE7erauspsZDf33rAcgjDpBQPnUcLRKNgiQW80VWCgfs2Q.png" group-title="INFANTILES", Disney Movies
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/230605
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CINE", Cine de Acción
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/282930
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/7d7355ebf772fd472493a6fa4cf00dbf.png" group-title="INFANTILES", Peliculas Infantiles
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/202426
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="INFANTILES", Peliculas Lego
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/297300
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="INFANTILES", DreamWorks
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/297294
+
+#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_encore_suspense_small-200.gif" group-title="CINE", Starz Suspense
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/18920
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSL1glwn4y5MCPNPIOuOcHJsxESbC9vtTG9curZULjnd4TRinwG" group-title="CINE", Starz
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/18921
+
+#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_encore_action_small-200.gif" group-title="CINE", Starz Action
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/18924
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/d8fafb5f33a6e90a65678291b85ee499.png" group-title="DEPORTES", DAZN 1
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/361213
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 2
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/279226
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 3
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/279227
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 4
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/297430
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN LaLiga
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/296662
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb8pReBzjjyrZ2R6-ds6CFAT7Uve9u18qeDP661Y0YAOBoKybjyQZuVd7GZsWy0wEw.png" group-title="DEPORTES", Claro Sports
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/264122
+
+
+
+
+
 
 
 
