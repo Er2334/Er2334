@@ -15,7 +15,7 @@ https://edge-live15-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/hdrkql1660762351.png", ESPN EXTRA
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/hdrkql1660762351.png", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
@@ -675,6 +675,34 @@ http://209.45.101.38:7500/play/a0bu
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Eventos HD 2
 http://209.45.101.38:7500/play/a0gp
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
+http://209.45.101.38:7500/play/a0bg
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family 2
+http://209.45.101.38:7500/play/a0bh
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
+http://209.45.101.38:7500/play/a0gs
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
+http://209.45.101.38:7500/play/a09u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK TOONS
+http://livex.pop-app.live/s4n/poplive/ch513/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney Channel
+http://209.45.101.38:7500/play/a0at
+
+
+
+
 
 
 
