@@ -616,80 +616,15 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/234324
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="PARAGUAY",Mega TV
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2 HD
-http://177.128.113.8:1/play/a092
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family HD
-http://177.128.113.8:1/play/a0ad
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO HD
-http://177.128.113.8:1/play/a08w
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
-http://177.128.113.8:1/play/a0af
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Signature
-http://177.128.113.8:1/play/a0ag
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA HD
-http://138.59.177.34:8000/play/a07c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
-https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover HD
-http://177.128.113.8:1/play/a0al
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Discovery Kids HD
-http://177.128.113.8:1/play/a08d
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney HD
-http://177.128.113.8:1/play/a07y
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 4 HD
-http://177.128.113.8:1/play/a08i
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5 HD
-http://177.128.113.8:1/play/a0b1
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7 HD
-http://177.128.113.8:1/play/a0b2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports CL HD
-http://177.128.113.8:1/play/a07f
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony HD
-http://177.128.113.8:1/play/a07b
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Nick HD
-http://177.128.113.8:1/play/a07j
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", History 2 HD
-http://177.128.113.8:1/play/a09i
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", History Channel HD
-http://177.128.113.8:1/play/a079
-
-#EXTINF:-1 tvg-logo="http://megaxplay.com:80/images/RjZu6C4F1Mvp0Gyfx4mjmNDbg6S3eiwFyuNs_6nLW_MIbo-qbEbeYwn_fGf8qa9GtzTXfOY1RliO7qAPyOzHK9uk9CFMz8OSozODd-S7RH4.jpg" group-title="DEPORTES", ESPN PREMIUM
-http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JcsTw568AnfHXzWRyGKDg54
-
-#EXTINF:-1 tvg-logo="http://megaxplay.com:80/images/pqAT1tyQD7YTPOBOaCM--iFE-YI0K3HE_dhyuLw2l7lZDndhFTTXcKmOTsSfQ16m.jpeg" group-title="DEPORTES", TNT SPORTS ARG
-http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JWiftsi0TD_RJfqwKSIuoFE
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="DEPORTES", DAZN 1
-http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JT_64JBEEIuHm8a3OOKSp5o
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn2.png?fit=440%2C264&ssl=1" group-title="DEPORTES", DAZN 2
-http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JWU-vxn9zowaSQV5SdYLFto
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="DEPORTES", DAZN 3
-http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JXFACaUUdsyRqH8KgUdmqDQ
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1" group-title="DEPORTES", DAZN 4
-http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JbgHyiSuywsaYO_nqnB0kr4
-
-#EXTINF:-1 tvg-logo="http://megaxplay.com:80/images/pqAT1tyQD7YTPOBOaCM--ub5uXWXabYuJsIVIQAHPx7kk6ZcVb67C-1Cz8gjiOKi.png" group-title="CINE", SONY Movies
-http://megaxtv.com:80/play/LT8WyIVVproQcAgTNl-3JZPRdV_9U2magf7aZFDO1Sc
 
 
 
