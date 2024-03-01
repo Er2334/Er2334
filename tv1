@@ -622,9 +622,6 @@ http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO SIGNATURE 
 http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY 
-http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN USA
 http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 
@@ -676,20 +673,8 @@ http://209.45.101.38:7500/play/a0at
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoon Network
 http://209.45.101.38:7500/play/a0bq
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2 
-http://200.60.124.20:19999/play/a071/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family 2
-http://200.60.124.20:19999/play/a08x/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 
-http://200.60.124.20:19999/play/a070/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus 2
-http://200.60.124.20:19999/play/a08z/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/fc9749acfc2c1540f18a08701a407f98.png" group-title="CINE", Golden Edge
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/36
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/fc9749acfc2c1540f18a08701a407f98.png" group-title="CINE", Golden Edge 
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZSqYLI_O_Xua0InzOH9uy_lyruszeO1JwsrgMHdP2u1mOoBmGjD6xJeApgFUnHMfQ.jpeg" group-title="CINE", Golden Premier 2
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/301439
@@ -699,9 +684,6 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/490
 
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZkUu4tXeD8KzCIXeCzsr9Hx-mxu3H2HIaWiMVyMJeQCsZe7BmyAhub99raHwz6JQI.png" group-title="CINE", Cinema Universe
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/230604
-
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaVAzzY84SZ6dPMybtfFYE7erauspsZDf33rAcgjDpBQPnUcLRKNgiQW80VWCgfs2Q.png" group-title="INFANTILES", Disney Movies
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/230605
 
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CINE", Cine de Acción
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/282930
@@ -745,8 +727,7 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/264122
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
 https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/836_ABC_TV.png" group-title="PARAGUAY", ABC RADIO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708992817/ei/0dTcZdvdKvSp1sQP2LKGGA/ip/186.13.198.162/id/LL4UC_g1GEs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f46JXJSJmKG-uaKNWlGTj2d9Uv29Bjq0gSFHzIkbVuE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYWHghv88NMNwEDn8Ong4Jr0QoOXX1h1ZTWlYyzINCFoCIFW_MsoWH1-JwtrSYuw9Criqyxw1cDY4QrA5PzGaBTxu/file/index.m3u8
+
 
 
 
