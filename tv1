@@ -727,7 +727,11 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/264122
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
 https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="CINE", Golden Multiplex
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfcz0zX/cine-retro-genial.png" group-title="CINE", Retro Cinema
+http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 
 
 
