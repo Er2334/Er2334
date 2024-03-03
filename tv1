@@ -563,7 +563,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="PARAGUAY", ÑANDUTÍ TV
-https://tvdatta.com:3839/live/nandutitvlive.m3u8
+https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
@@ -620,7 +620,7 @@ http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO SIGNATURE 
-http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_SIGNATURE_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN USA
 http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
@@ -632,7 +632,7 @@ https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports ARG
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(tnt_sports)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports 3
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
@@ -653,7 +653,7 @@ http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN Premium
-http://209.45.101.38:7500/play/a0bu
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(fox_sports_premium)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
 http://209.45.101.38:7500/play/a09u
@@ -668,7 +668,7 @@ http://livex.pop-app.live/s4n/poplive/ch513/playlist.m3u8
 http://181.78.105.146:2000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney Channel
-http://209.45.101.38:7500/play/a0at
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISNEY_CHANNEL)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoon Network
 http://209.45.101.38:7500/play/a0bq
@@ -677,7 +677,7 @@ http://209.45.101.38:7500/play/a0bq
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZSqYLI_O_Xua0InzOH9uy_lyruszeO1JwsrgMHdP2u1mOoBmGjD6xJeApgFUnHMfQ.jpeg" group-title="CINE", Golden Premier 2
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/301439
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_2_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgxDnzKXuDS9VeNKWQwjiDeII9p1D_NhyBE-bzxXjS3vKKpCUa1xr4JlpksTLXdtAc.png" group-title="INFANTILES", Cinema Disney Pixar
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/490
@@ -722,7 +722,7 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/297430
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/296662
 
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb8pReBzjjyrZ2R6-ds6CFAT7Uve9u18qeDP661Y0YAOBoKybjyQZuVd7GZsWy0wEw.png" group-title="DEPORTES", Claro Sports
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/264122
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CLARO_SPORTS_LATAM)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
 https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
@@ -734,13 +734,13 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="CINE", HBO
-http://sdmex.xyz:8080/Angel2021/Angel2021/10885
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="CINE", HBO Plus+
 http://sdmex.xyz:8080/Angel2021/Angel2021/10880
 
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="CINE", HBO 2
-http://sdmex.xyz:8080/Angel2021/Angel2021/10883
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_2_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE", HBO Family+
 http://sdmex.xyz:8080/Angel2021/Angel2021/10878
@@ -748,13 +748,26 @@ http://sdmex.xyz:8080/Angel2021/Angel2021/10878
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_SONY_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SP_ANDINA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Universal Cinema
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DHE
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DHE_HD)/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", HEI
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HEI_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Universo
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSO_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Sur tv
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", Aspen Classic
+https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
 
 
