@@ -496,6 +496,16 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazi
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/media/FQ4BJa-VgAALksB?format=jpg&name=medium", ESPN PREMIUM HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+https://edge-live13-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.prensario.net/multimedios/imgs/50254_750.PNG", TNT SPORT HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+https://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
@@ -735,6 +745,22 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JUNIOR
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISNEY_JUNIOR)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
+http://201.159.113.219:49000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
+http://201.159.113.219:49000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Claro Sports 2
+http://201.159.113.219:49000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
+http://201.159.113.219:49000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies HD
+http://201.159.113.219:49000/play/a04s/index.m3u8
+
 
 
 
