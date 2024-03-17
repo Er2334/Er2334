@@ -613,17 +613,8 @@ http://samuraitv.online:8000/JoseBravo/Multi736548/234324
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="PARAGUAY",Mega TV
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY 
-http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS 
-http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO SIGNATURE 
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_SIGNATURE_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN USA
-http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN 1
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
@@ -634,17 +625,11 @@ https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports ARG
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(tnt_sports)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports 3
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN 1
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN 2
 https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", AFIZZIONADOS
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MC
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
@@ -656,13 +641,10 @@ http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(fox_sports_premium)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
-http://209.45.101.38:7500/play/a09u
+http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICKELODEON
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK TOONS
-http://livex.pop-app.live/s4n/poplive/ch513/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Discovery kids
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISCOVERY_KIDS_HD)/index.m3u8
@@ -679,23 +661,8 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZSqYLI_O_Xua0InzOH9uy_lyruszeO1JwsrgMHdP2u1mOoBmGjD6xJeApgFUnHMfQ.jpeg" group-title="CINE", Golden Premier 2
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgxDnzKXuDS9VeNKWQwjiDeII9p1D_NhyBE-bzxXjS3vKKpCUa1xr4JlpksTLXdtAc.png" group-title="INFANTILES", Cinema Disney Pixar
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/490
-
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZkUu4tXeD8KzCIXeCzsr9Hx-mxu3H2HIaWiMVyMJeQCsZe7BmyAhub99raHwz6JQI.png" group-title="CINE", Cinema Universe
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/230604
-
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CINE", Cine de Acción
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/282930
-
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/7d7355ebf772fd472493a6fa4cf00dbf.png" group-title="INFANTILES", Peliculas Infantiles
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/202426
-
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="INFANTILES", Peliculas Lego
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/297300
-
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="CINE", Peliculas 
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/297294
 
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_encore_suspense_small-200.gif" group-title="CINE", Starz Suspense
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/18920
@@ -709,13 +676,13 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/18924
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/d8fafb5f33a6e90a65678291b85ee499.png" group-title="DEPORTES", DAZN 1
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/361213
 
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 2
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN LaLiga 2
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/279226
 
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 3
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 2
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/279227
 
-#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 4
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 3
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/297430
 
 #EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN LaLiga
@@ -725,7 +692,7 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/296662
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CLARO_SPORTS_LATAM)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
-https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
+https://stream.skarnetchile.com:3817/live/monitvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="CINE", Golden Multiplex
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
@@ -736,14 +703,8 @@ http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="CINE", HBO
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="CINE", HBO Plus+
-http://sdmex.xyz:8080/Angel2021/Angel2021/10880
-
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="CINE", HBO 2
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_2_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE", HBO Family+
-http://sdmex.xyz:8080/Angel2021/Angel2021/10878
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_SONY_HD)/index.m3u8
@@ -775,9 +736,6 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JUNIOR
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISNEY_JUNIOR)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports+
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN Premium+
-http://209.45.101.38:7500/play/a0bu
+
 
