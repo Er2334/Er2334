@@ -746,16 +746,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JUNIOR
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISNEY_JUNIOR)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS 3
-http://45.179.164.30:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family 1
-http://45.179.164.30:8000/play/a02i/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
-http://45.179.164.30:8000/play/a0ce/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE", HBO FAMILY 2
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE", HBO FAMILY 
 http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/58796.ts
 
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINE", HBO PLUS
@@ -775,9 +766,6 @@ http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/3749.ts
 
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/76c1bace94a580593fe6fc4638fea65a.png" group-title="24/7", DC COMICS
 http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/65654.ts
-
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/a4268df884abc2b424698f8aaf74b3b0.png" group-title="24/7", DISNEY CLASSIC
-http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/67812.ts
 
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/5bb70338c56b256a8ad75fd7a65a6315.png" group-title="24/7", ESTRENOS
 http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/3743.ts
