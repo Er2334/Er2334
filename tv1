@@ -575,9 +575,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="PARAGUAY", ÑANDUTÍ TV
 https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES", BEIN SPORTS XTRA Ñ
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
