@@ -788,6 +788,11 @@ http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/117785.ts
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/a692d56422515ef2165939ddec618e32.png" group-title="24/7", Disney Live Action
 http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/117801.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", AFIZZIONADOS 
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AFIZZIONADOS_HD)/index.m3u8
+
+
+
 
 
 
