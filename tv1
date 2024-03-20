@@ -786,7 +786,7 @@ http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/117785.ts
 http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/117801.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", AFIZZIONADOS 
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AFIZZIONADOS_HD)/index.m3u8
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN6_t2.stream/playlist.m3u8
@@ -805,6 +805,32 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS HD
 http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staytv.net/wp-content/uploads/cropped-CCC_Mesa-de-trabajo-1.png" group-title="CINE", Stay TV
+https://video.misistemareseller.com/staytv/staytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="CINE", Retrox TV
+https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="CINE", Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", ULTRA CINE
+http://138.186.20.13:23200/play/a0ew
+
+#EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="DEPORTES", DAZN 2
+http://658040558330228388.ofg0316.xyz:80/play/vi915185/NM5ddvcdSK/228388.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SHOWTIME
+http://658040558330798422.ofg0316.xyz:80/play/vi915185/NM5ddvcdSK/798422.ts
+
+
+
+
+
+
+
+
 
 
 
