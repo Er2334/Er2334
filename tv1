@@ -684,7 +684,7 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/361213
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/279226
 
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 3
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/279227
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjY0euUZtKlg1htz27aQ9T1cdSWNOw5H572yBIXbdlNtb/ts
 
 #EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 4
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/297430
@@ -856,6 +856,35 @@ https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", ZOON BACK TV
 https://panel.miplay.cl:8081/zoomback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQFO5cPoYfKrACayWItroAi1Wdp.jpg" group-title="24/7", El Chavo
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjfcxAKPOeT8lVuLvrgEVdYg/ts
+
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="**EVENTOS", Tigo Sports E
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjVtHJ-8TPZSP5OESeYCq3MO4RDPAwJxO8EhbsRMSVPzS/ts
+
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports E
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjVtHJ-8TPZSP5OESeYCq3MO4RDPAwJxO8EhbsRMSVPzS/ts
+
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports plus E
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_Amrjdpw3KIYUYmBlk0PDp_PWYvvAXRljI_AqzL7GowNrGnx/ts
+
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports plus E
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_Amrjdpw3KIYUYmBlk0PDp_PWYvvAXRljI_AqzL7GowNrGnx/ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
