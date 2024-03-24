@@ -860,18 +860,40 @@ https://panel.miplay.cl:8081/zoomback/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQFO5cPoYfKrACayWItroAi1Wdp.jpg" group-title="24/7", El Chavo
 http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjfcxAKPOeT8lVuLvrgEVdYg/ts
 
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="**EVENTOS", Tigo Sports E
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="**EVENTOS", Tigo Sports 1 E
 http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjVtHJ-8TPZSP5OESeYCq3MO4RDPAwJxO8EhbsRMSVPzS/ts
 
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports E
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports 2 E
 http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjVtHJ-8TPZSP5OESeYCq3MO4RDPAwJxO8EhbsRMSVPzS/ts
 
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports plus E
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports plus 1 E
 http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_Amrjdpw3KIYUYmBlk0PDp_PWYvvAXRljI_AqzL7GowNrGnx/ts
 
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports plus E
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports plus 2 E
 http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_Amrjdpw3KIYUYmBlk0PDp_PWYvvAXRljI_AqzL7GowNrGnx/ts
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yg-OIEGO5sk/UoLMtwfYL8I/AAAAAAAADYM/VwcEl7YCFIM/s1600/futbol+sudamericano.jpg" group-title="EVENTOS", TIGO 1 E
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjbM-hzlswXeQojVGNpjGqyA/ts
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yg-OIEGO5sk/UoLMtwfYL8I/AAAAAAAADYM/VwcEl7YCFIM/s1600/futbol+sudamericano.jpg" group-title="EVENTOS", TIGO 2 Live
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjdwcmpK6SJwkrYRWX0lSkxk/ts
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yg-OIEGO5sk/UoLMtwfYL8I/AAAAAAAADYM/VwcEl7YCFIM/s1600/futbol+sudamericano.jpg" group-title="EVENTOS", Tigo Sport 2 Live
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjboV4NhLjOXSFXboCshbJXs/ts
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yg-OIEGO5sk/UoLMtwfYL8I/AAAAAAAADYM/VwcEl7YCFIM/s1600/futbol+sudamericano.jpg" group-title="EVENTOS", Tigo Sport 3 E
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjRwDUcTsdoDQizH2B8ejwfE/ts
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/3cb64a719b66766234fc7bdfc0e5beb0.png" group-title="EVENTOS", TIGO 3 Live
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjZvGQL0By5pgrA7lsrz2_oc/ts
+
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/3cb64a719b66766234fc7bdfc0e5beb0.png" group-title="EVENTOS", TIGO 4 E
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjbmZKeQMzfwM9fTJqJa7TA8/ts
+
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Tigo 5 E
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjYcRag4qOXbW9EtA99GyMCw/ts
+
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Tigo 6 E
+http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjT1ckkGm7PTBQ3DrxWNz4zs/ts
 
 
 
