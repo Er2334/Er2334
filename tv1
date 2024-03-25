@@ -895,16 +895,14 @@ http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjYcRag4qOXbW9EtA99GyMCw/ts
 #EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Tigo 6 E
 http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjT1ckkGm7PTBQ3DrxWNz4zs/ts
 
-#EXTINF:-1 tvg-logo="https://immaa.xyz/LAreetrooplus.png" group-title="CINE", CINE PLUS
+#EXTINF:-1 tvg-logo="https://immaa.xyz/LAreetrooplus.png" group-title="CINE", Amazon 
 http://wabot.win:8080/David2024/David2024/542819
 
 #EXTINF:-1 tvg-logo="https://immaa.xyz/LAmmmgggm.png" group-title="CINE", MGM
 http://wabot.win:8080/David2024/David2024/542854
 
-#EXTINF:-1 tvg-logo="https://immaa.xyz/LAammmzprmme.png" group-title="CINE", AMAZON CINE 
-http://wabot.win:8080/David2024/David2024/542838
-
-
+#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Eventos Live
+https://rpn3.bozztv.com/ssh101/ssh101/nxhhbgddd/playlist.m3u8
 
 
 
