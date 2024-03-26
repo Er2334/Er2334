@@ -913,7 +913,8 @@ http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1  group-title="DEPORTES", FOX Sports 3 MX
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="CINE", PlanetaTV Movie
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 
 
