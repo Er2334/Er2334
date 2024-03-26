@@ -836,23 +836,11 @@ http://191.97.60.193:10000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE Family
 http://191.97.60.193:10000/play/a02w/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Movies
-http://191.97.60.193:10000/play/a02a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Family
-http://160.20.165.246:8000/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", FMH Kids
-http://191.97.60.193:10000/play/a02q/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DIOS TV Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", ROMANCE TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", VALLENATO TV
-https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", ZOON BACK TV
 https://panel.miplay.cl:8081/zoomback/index.m3u8
@@ -912,9 +900,6 @@ http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 
 #EXTINF:-1  group-title="DEPORTES", FOX Sports 3 MX
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="CINE", PlanetaTV Movie
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 
 
