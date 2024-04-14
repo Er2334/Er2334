@@ -527,9 +527,6 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3U
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="MUSICA", Retro Plus Music 1
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus TV
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/836_ABC_TV.png" group-title="PARAGUAY", ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
 
@@ -731,12 +728,6 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JUNIOR
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISNEY_JUNIOR)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE", HBO FAMILY 
-http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/58796.ts
-
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINE", HBO PLUS
-http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/58806.ts
-
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/60ae2bd8874eeb10aad6432120956e05.png" group-title="24/7", ACCIÓN
 http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/3748.ts
 
@@ -773,16 +764,13 @@ http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/117785.ts
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/a692d56422515ef2165939ddec618e32.png" group-title="24/7", Disney Live Action
 http://tv.streamid.tv:8080/live/fdo.donoso/98f12d5/117801.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", AFIZZIONADOS 
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTS Ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY HD 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://staytv.net/wp-content/uploads/cropped-CCC_Mesa-de-trabajo-1.png" group-title="CINE", Stay TV
