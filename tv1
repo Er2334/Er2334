@@ -871,6 +871,59 @@ https://dashtvcloud.online:8443/JoseBravo/Multi736548/168141
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png" group-title="CINE", SONY MOVIE
 http://spaticplas.org:8080/cambio2021/3eehYbF8qZ9N/148528
 
+#EXTINF:-1 tvg-logo="http://dashtv.tech:8000/images/9ec65a1dde93d8fbe269fd0a513061b0.png" group-title="EVENTOS 2", 09 TIGO SPORTS PY
+https://dashtvcloud.online:8443/JoseBravo/Multi736548/131704
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png" group-title="EVENTOS 2", 08 TIGO SPORTS PY
+https://dashtvcloud.online:8443/JoseBravo/Multi736548/302754
+
+#EXTINF:-1 tvg-logo="http://dashtv.tech:8000/images/9ec65a1dde93d8fbe269fd0a513061b0.png" group-title="EVENTOS 2", 07 TIGO SPORTS PY
+https://dashtvcloud.online:8443/JoseBravo/Multi736548/241963
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 01 TIGO SPORTS PY
+https://dashtvcloud.online:8443/JoseBravo/Multi736548/342229
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 02 TIGO SPORTS PY
+https://dashtvcloud.online:8443/JoseBravo/Multi736548/342230
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 03 TIGO SPORTS PY
+https://dashtvcloud.online:8443/JoseBravo/Multi736548/342231
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 04 TIGO SPORTS PY
+https://dashtvcloud.online:8443/JoseBravo/Multi736548/342232
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 05 TIGO SPORTS PY
+https://dashtvcloud.online:8443/JoseBravo/Multi736548/342233
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 06 TIGO SPORTS PY
+https://dashtvcloud.online:8443/JoseBravo/Multi736548/342234
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/FMH_Family.png" group-title="CINE", FMH FAMILY
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/92812
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/FMHMovies.png" group-title="CINE", FMH MOVIES
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/92854
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/FMH_Kids.png" group-title="INFANTILES", FMH KIDS
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/92547
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/cinefamiliar.png" group-title="CINE", CINE FAMILIAR
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/92542
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Animadas
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/63810
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Biográficas
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/65216
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Ciencia Ficcion
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/63825
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Viajes en el tiempo
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/65221
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Comedias
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/63826
 
 
 
