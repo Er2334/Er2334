@@ -868,9 +868,6 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", EL CHAVO ANIMADO
 https://dashtvcloud.online:8443/JoseBravo/Multi736548/168141
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png" group-title="CINE", SONY MOVIE
-http://spaticplas.org:8080/cambio2021/3eehYbF8qZ9N/148528
-
 #EXTINF:-1 tvg-logo="http://dashtv.tech:8000/images/9ec65a1dde93d8fbe269fd0a513061b0.png" group-title="EVENTOS 2", 09 TIGO SPORTS PY
 https://dashtvcloud.online:8443/JoseBravo/Multi736548/131704
 
@@ -898,16 +895,7 @@ https://dashtvcloud.online:8443/JoseBravo/Multi736548/342233
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 06 TIGO SPORTS PY
 https://dashtvcloud.online:8443/JoseBravo/Multi736548/342234
 
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/FMH_Family.png" group-title="CINE", FMH FAMILY
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/92812
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/FMHMovies.png" group-title="CINE", FMH MOVIES
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/92854
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/FMH_Kids.png" group-title="INFANTILES", FMH KIDS
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/92547
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/cinefamiliar.png" group-title="CINE", CINE FAMILIAR
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/cinefamiliar.png" group-title="CINE", CINEMA FAMILIAR
 http://tv.soccerplus.link:8000/Xde01/SaXde2267/92542
 
 #EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Animadas
@@ -925,6 +913,35 @@ http://tv.soccerplus.link:8000/Xde01/SaXde2267/65221
 #EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Comedias
 http://tv.soccerplus.link:8000/Xde01/SaXde2267/63826
 
+#EXTINF:-1 tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX", Netflix thriller
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50930
+
+#EXTINF:-1 tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX", Netflix thriller 2
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50931
+
+#EXTINF:-1 tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX", Netflix movies 2
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50929
+
+#EXTINF:-1 tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX", Netflix movies
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50928
+
+#EXTINF:-1 tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX", Netflix comedia
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50923
+
+#EXTINF:-1 tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX", Netflix Box office
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50922
+
+#EXTINF:-1 tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX", Netflix Accion 2
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50921
+
+#EXTINF:-1 tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX", netflix accion
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50920
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/79540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
+http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/79538
 
 
 
