@@ -602,7 +602,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE", Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1612.png" group-title="DEPORTES", DIRECTV +
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1612.png" group-title="DEPORTES", DIRECTV 2
 http://samuraitv.online:8000/JoseBravo/Multi736548/227798
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/512px-DirecTV_Sports_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV
@@ -628,12 +628,6 @@ https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN 2
 https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MC
-http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MP
-http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN Premium
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(fox_sports_premium)/index.m3u8
@@ -773,15 +767,6 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://staytv.net/wp-content/uploads/cropped-CCC_Mesa-de-trabajo-1.png" group-title="CINE", Stay TV
-https://video.misistemareseller.com/staytv/staytv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="CINE", Retrox TV
-https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="CINE", Teleclasica
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", ULTRA CINE
 http://138.186.20.13:23200/play/a0ew
 
@@ -844,23 +829,11 @@ http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjYcRag4qOXbW9EtA99GyMCw/ts
 #EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Tigo 6 E
 http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjT1ckkGm7PTBQ3DrxWNz4zs/ts
 
-#EXTINF:-1 tvg-logo="https://immaa.xyz/LAmmmgggm.png" group-title="CINE", MGM
-http://wabot.win:8080/David2024/David2024/542854
-
 #EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Eventos Live 1
 https://rpn3.bozztv.com/ssh101/ssh101/nxhhbgddd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Eventos Live 2
 https://rpn3.bozztv.com/ssh101/ssh101/jasahshsaha/playlist.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", FOX Sports MX
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", FOX Sports 2 MX
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-
-#EXTINF:-1  group-title="DEPORTES", FOX Sports 3 MX
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
