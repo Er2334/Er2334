@@ -530,9 +530,6 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/836_ABC_TV.png" group-title="PARAGUAY", ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="MUSICA", Retro Plus Music 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="INFANTILES", Latino Kids TV
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
@@ -545,30 +542,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="MUSICA", VEVO 70'S
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="MUSICA", VEVO 80'S
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="MUSICA", VEVO 90'S
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="MUSICA", VEVO 2K
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="MUSICA", VEVO POP
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="MUSICA", VEVO R&B
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="MUSICA", VEVO COUNTRY
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="MUSICA", VEVO REGGAETÓN & TRAP
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="PARAGUAY", ÑANDUTÍ TV
 https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
 
@@ -578,9 +551,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yijitpa.png" group-title="SERIES", Sony Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES", ZONATUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.infobae.com/new-resizer/gDDr1pjxwOk8ikXEw7g68Sd-ZmQ=/768x432/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/05/02150322/Los-tres-chiflados-1920.jpg" group-title="SERIES", LOS 3 CHIFLADOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
@@ -589,9 +559,6 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-toons-retro-cartoon-character-smiley-vector-6381220.webp" group-title="INFANTILES", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TOONCAST
-http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logoq.png" group-title="INFANTILES", EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
@@ -614,10 +581,10 @@ https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2c
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO SIGNATURE 
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_SIGNATURE_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN 2
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ZONA TUDN
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports ARG
