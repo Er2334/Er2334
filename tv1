@@ -877,14 +877,45 @@ http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50921
 #EXTINF:-1 tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX", netflix accion
 http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/50920
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
-http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/79540
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
-http://todoporti.eu:80/KwcQqGqVkQ/WmbVFxNXUK/79538
-
 #EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/b92d1541e81535a2279b0dd0ac51c5e7.png" group-title="DEPORTES", TNT SPORTS CHILE
 http://goldfull.pro:8880/palomarivera/yvm9EvNQ4rFe/120427
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6 
+http://138.186.20.13:23200/play/a057
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
+http://138.186.20.13:23200/play/a0fi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Tooncast
+http://138.186.20.13:23200/play/a08r
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", ULTRA FAMILIA
+http://138.186.20.13:23200/play/a0et
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", ULTRA KIDS
+http://138.186.20.13:23200/play/a0f0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", ULTRA MACHO
+http://138.186.20.13:23200/play/a0eu
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports
+http://138.186.20.13:23200/play/a04s
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES, Win Sports+
+http://138.186.20.13:23200/play/a066
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CNN Español
+http://138.186.20.13:23200/play/a0do
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR
+http://138.186.20.13:23200/play/a0du
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine Premium
+http://138.186.20.13:23200/play/a0dt
+
+
+
+
 
 
 
