@@ -901,7 +901,7 @@ http://138.186.20.13:23200/play/a0eu
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports
 http://138.186.20.13:23200/play/a04s
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES, Win Sports+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports+
 http://138.186.20.13:23200/play/a066
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CNN Español
