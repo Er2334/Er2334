@@ -913,6 +913,8 @@ http://138.186.20.13:23200/play/a0du
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine Premium
 http://138.186.20.13:23200/play/a0dt
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0675sg0i4zy6d6y/tudn.png?dl=1" group-title="DEPORTES", TUDN
+http://myfuturetv.com:8080/Mr.E2021/Florida/38483
 
 
 
