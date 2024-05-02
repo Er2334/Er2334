@@ -803,7 +803,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/nxhhbgddd/playlist.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/jasahshsaha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", EL CHAVO ANIMADO
 https://dashtvcloud.online:8443/JoseBravo/Multi736548/168141
@@ -916,7 +916,20 @@ http://138.186.20.13:23200/play/a0dt
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0675sg0i4zy6d6y/tudn.png?dl=1" group-title="DEPORTES", TUDN
 http://myfuturetv.com:8080/Mr.E2021/Florida/38483
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +CINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1418_Chilevisual_Classic.png" group-title="MUSICA", Chilevisual Classic
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1505_Chilevisual_Film.png" group-title="CINE", Chilevisual Film
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1504_Chilevisual_Kids.png" group-title="INFANTILES", Chilevisual Kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="CINE", Chilevisual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 
 
 
