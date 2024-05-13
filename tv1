@@ -848,6 +848,57 @@ https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="SERIES", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY MOVIES
+http://204.199.122.4:8000/play/b040/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/tudnmx.png" group-title="DEPORTES", TUDN MX
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2092577
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/tudnus.png" group-title="DEPORTES", TUDN USA
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2092604
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/tigosportsparaguay22.png" group-title="EVENTOS", Tigo Sports 1
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/155631
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/tigosportsplus.png" group-title="EVENTOS", Tigo Sports Plus 1
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/155632
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", Tigo Sports 2
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2122883
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", TIGO SPORTS PLUS 2
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2122884
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="DEPORTES", DIRECTV SPORTS
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/202157
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsportsplus2.png" group-title="DEPORTES", DIRECTV SPORTS +
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/203186
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports22.png" group-title="DEPORTES", DIRECTV SPORTS 2
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/203187
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/heidi.png" group-title="24/7", Heidi
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2090967
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/robotech.png" group-title="24/7", Robotech
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2090959
+
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="CINE", Moviecenter
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/186335
+
+#EXTINF:-1 tvg-logo="http://www.tendenciasports.com/wp-content/uploads/2019/06/tigo-sports-650x167.png" group-title="EVENTOS", TIGO SPORT PLUS 3
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2107640
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/3f8ab74868c49666897e95f6ab41ac99.png" group-title="EVENTOS", TIGO 1
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2107641
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/3f8ab74868c49666897e95f6ab41ac99.png" group-title="EVENTOS", TIGO 2
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2107642
+
+
+
+
 
 
 
