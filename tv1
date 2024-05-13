@@ -569,20 +569,11 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE", Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1612.png" group-title="DEPORTES", DIRECTV 2
-http://samuraitv.online:8000/JoseBravo/Multi736548/227798
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/512px-DirecTV_Sports_Latin_America_(2018).png" group-title="DEPORTES", DIRECTV
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/227797
-
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="PARAGUAY",Mega TV
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO SIGNATURE 
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_SIGNATURE_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN 2
-https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ZONA TUDN
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
@@ -761,82 +752,11 @@ https://panel.miplay.cl:8081/zoomback/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQFO5cPoYfKrACayWItroAi1Wdp.jpg" group-title="24/7", El Chavo
 http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjfcxAKPOeT8lVuLvrgEVdYg/ts
 
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="**EVENTOS", Tigo Sports 1 E
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjVtHJ-8TPZSP5OESeYCq3MO4RDPAwJxO8EhbsRMSVPzS/ts
-
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports 2 E
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjVtHJ-8TPZSP5OESeYCq3MO4RDPAwJxO8EhbsRMSVPzS/ts
-
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports plus 1 E
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_Amrjdpw3KIYUYmBlk0PDp_PWYvvAXRljI_AqzL7GowNrGnx/ts
-
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/6e2cac67bb68f5737b8efb624dadfff0.png" group-title="EVENTOS", Tigo Sports plus 2 E
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_Amrjdpw3KIYUYmBlk0PDp_PWYvvAXRljI_AqzL7GowNrGnx/ts
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yg-OIEGO5sk/UoLMtwfYL8I/AAAAAAAADYM/VwcEl7YCFIM/s1600/futbol+sudamericano.jpg" group-title="EVENTOS", TIGO 1 E
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjbM-hzlswXeQojVGNpjGqyA/ts
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yg-OIEGO5sk/UoLMtwfYL8I/AAAAAAAADYM/VwcEl7YCFIM/s1600/futbol+sudamericano.jpg" group-title="EVENTOS", TIGO 2 Live
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjdwcmpK6SJwkrYRWX0lSkxk/ts
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yg-OIEGO5sk/UoLMtwfYL8I/AAAAAAAADYM/VwcEl7YCFIM/s1600/futbol+sudamericano.jpg" group-title="EVENTOS", Tigo Sport 2 Live
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjboV4NhLjOXSFXboCshbJXs/ts
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yg-OIEGO5sk/UoLMtwfYL8I/AAAAAAAADYM/VwcEl7YCFIM/s1600/futbol+sudamericano.jpg" group-title="EVENTOS", Tigo Sport 3 E
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjRwDUcTsdoDQizH2B8ejwfE/ts
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/3cb64a719b66766234fc7bdfc0e5beb0.png" group-title="EVENTOS", TIGO 3 Live
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjZvGQL0By5pgrA7lsrz2_oc/ts
-
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/3cb64a719b66766234fc7bdfc0e5beb0.png" group-title="EVENTOS", TIGO 4 E
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjbmZKeQMzfwM9fTJqJa7TA8/ts
-
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Tigo 5 E
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjYcRag4qOXbW9EtA99GyMCw/ts
-
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Tigo 6 E
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjT1ckkGm7PTBQ3DrxWNz4zs/ts
-
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Eventos Live 1
-https://rpn3.bozztv.com/ssh101/ssh101/nxhhbgddd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://playlis15.online:8080/images/034709994c2d6ea637658f297d4fc4bf.png" group-title="EVENTOS", Eventos Live 2
-https://rpn3.bozztv.com/ssh101/ssh101/jasahshsaha/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", EL CHAVO ANIMADO
 https://dashtvcloud.online:8443/JoseBravo/Multi736548/168141
-
-#EXTINF:-1 tvg-logo="http://dashtv.tech:8000/images/9ec65a1dde93d8fbe269fd0a513061b0.png" group-title="EVENTOS 2", 09 TIGO SPORTS PY
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/131704
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png" group-title="EVENTOS 2", 08 TIGO SPORTS PY
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/302754
-
-#EXTINF:-1 tvg-logo="http://dashtv.tech:8000/images/9ec65a1dde93d8fbe269fd0a513061b0.png" group-title="EVENTOS 2", 07 TIGO SPORTS PY
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/241963
-
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 01 TIGO SPORTS PY
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/342229
-
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 02 TIGO SPORTS PY
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/342230
-
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 03 TIGO SPORTS PY
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/342231
-
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 04 TIGO SPORTS PY
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/342232
-
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 05 TIGO SPORTS PY
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/342233
-
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/7688292349843" group-title="EVENTOS 2", 06 TIGO SPORTS PY
-https://dashtvcloud.online:8443/JoseBravo/Multi736548/342234
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/cinefamiliar.png" group-title="CINE", CINEMA FAMILIAR
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/92542
 
 #EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Animadas
 http://tv.soccerplus.link:8000/Xde01/SaXde2267/63810
@@ -912,9 +832,6 @@ http://138.186.20.13:23200/play/a0du
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine Premium
 http://138.186.20.13:23200/play/a0dt
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0675sg0i4zy6d6y/tudn.png?dl=1" group-title="DEPORTES", TUDN
-http://myfuturetv.com:8080/Mr.E2021/Florida/38483
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
