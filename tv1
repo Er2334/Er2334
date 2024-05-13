@@ -896,15 +896,10 @@ http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2107641
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/3f8ab74868c49666897e95f6ab41ac99.png" group-title="EVENTOS", TIGO 2
 http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2107642
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY 2
-http://170.254.18.106/HBO_FAMILY/tracks-v1a2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE", HBO Family 2
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/10877
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS 2
-http://170.254.18.106/HBO_PLUS/tracks-v1a2/index.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="CINE", HBO +
+http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2092585
 
 
