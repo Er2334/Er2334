@@ -734,3 +734,26 @@ http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/203187
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/heidi.png" group-title="24/7", Heidi
 http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2090967
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Directv Sport
+http://38.43.151.206:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN EDGE HD
+http://45.228.234.173:4000/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN EDGE
+http://45.228.234.173:4000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN
+http://177.126.51.9:8001/play/a02b
+
+
+
+
+
+
+
+
+
+
+
+
