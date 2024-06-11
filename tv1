@@ -731,13 +731,29 @@ http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/203187
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/heidi.png" group-title="24/7", Heidi
 http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2090967
 
+#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="DEPORTES", DIRECTV SPORTS +
+http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/120548
 
+#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png" group-title="DEPORTES", DIRECTV SPORTS
+http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/167962
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN
+http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/318689
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="CINE", GOLDEN EDGE
+http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/318692
 
+#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="DEPORTES", TUDN XTRA
+http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/167771
 
+#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="DEPORTES", TUDN
+http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/394816
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN PREMIER
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN PLUS
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8
 
 
 
