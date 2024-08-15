@@ -655,6 +655,10 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDE
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Golf_Channel.json
 http://edge-live14-hr.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kXm4SxG/canal-goldenmultiplex.jpg" tvg-group="ENTRETENIMIENTO", GOLDEN MULTIPLEX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/mxkeys/goldenmultiplex.json
+https://edge2-zapopan.izzigo.tv/live4/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
 
 
