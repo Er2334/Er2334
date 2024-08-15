@@ -515,9 +515,6 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="MUSICA", Recuerdos Retro Radio TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/21_Retro_Music_Television.png" group-title="MUSICA", Retro Music Television
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="MUSICA", Retro Plus Music 1
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 
@@ -544,9 +541,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yijitpa.png" group-title="SERIES", Sony Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="SERIES", LA ROSA DE GUADALUPE
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-toons-retro-cartoon-character-smiley-vector-6381220.webp" group-title="INFANTILES", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -581,9 +575,6 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CARTO
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZSqYLI_O_Xua0InzOH9uy_lyruszeO1JwsrgMHdP2u1mOoBmGjD6xJeApgFUnHMfQ.jpeg" group-title="CINE", Golden Premier 2
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="DEPORTES", DAZN 3
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjY0euUZtKlg1htz27aQ9T1cdSWNOw5H572yBIXbdlNtb/ts
-
 #EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb8pReBzjjyrZ2R6-ds6CFAT7Uve9u18qeDP661Y0YAOBoKybjyQZuVd7GZsWy0wEw.png" group-title="DEPORTES", Claro Sports
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CLARO_SPORTS_LATAM)/index.m3u8
 
@@ -617,9 +608,6 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVE
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Sur tv
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", Aspen Classic
-https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
 
@@ -629,38 +617,14 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISNE
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTS Ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS
-http://170.254.18.106/HBO_PLUS/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", ULTRA CINE
-http://138.186.20.13:23200/play/a0ew
-
-#EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="DEPORTES", DAZN 2
-http://658040558330228388.ofg0316.xyz:80/play/vi915185/NM5ddvcdSK/228388.ts
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MX Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MX Prime
-https://marine2.miplay.cl/mxprime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", OLD Cine
 https://marine2.miplay.cl/old/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DIOS TV Kids
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", ROMANCE TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", ZOON BACK TV
-https://panel.miplay.cl:8081/zoomback/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQFO5cPoYfKrACayWItroAi1Wdp.jpg" group-title="24/7", El Chavo
-http://playlis15.online:8080/play/LwxQS7GZBuZK8GCT_AmrjfcxAKPOeT8lVuLvrgEVdYg/ts
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
@@ -674,80 +638,11 @@ http://tv.soccerplus.link:8000/Xde01/SaXde2267/63825
 #EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Comedias
 http://tv.soccerplus.link:8000/Xde01/SaXde2267/63826
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6 
-http://138.186.20.13:23200/play/a057
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
-http://138.186.20.13:23200/play/a0fi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Tooncast
-http://138.186.20.13:23200/play/a08r
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", ULTRA FAMILIA
-http://138.186.20.13:23200/play/a0et
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", ULTRA KIDS
-http://138.186.20.13:23200/play/a0f0
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", ULTRA MACHO
-http://138.186.20.13:23200/play/a0eu
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports
-http://138.186.20.13:23200/play/a04s
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports+
-http://138.186.20.13:23200/play/a066
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CNN Español
-http://138.186.20.13:23200/play/a0do
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR
-http://138.186.20.13:23200/play/a0du
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine Premium
-http://138.186.20.13:23200/play/a0dt
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +CINE
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1418_Chilevisual_Classic.png" group-title="MUSICA", Chilevisual Classic
-https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1505_Chilevisual_Film.png" group-title="CINE", Chilevisual Film
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1504_Chilevisual_Kids.png" group-title="INFANTILES", Chilevisual Kids
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="SERIES", Chilevisual Retro
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="DEPORTES", DIRECTV SPORTS 2
 http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/202157
 
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports22.png" group-title="DEPORTES", ECDF
 http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/203187
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/heidi.png" group-title="24/7", Heidi
-http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/2090967
-
-#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="DEPORTES", DIRECTV SPORTS +
-http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/120548
-
-#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png" group-title="DEPORTES", DIRECTV SPORTS
-http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/167962
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN
-http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/318689
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="CINE", GOLDEN EDGE
-http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/318692
-
-#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="DEPORTES", TUDN XTRA
-http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/167771
-
-#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="DEPORTES", TUDN
-http://venuschiletv.lat:8880/veronica140224/zwHxnKfNvq6T/394816
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN PREMIER
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8
