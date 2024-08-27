@@ -710,6 +710,11 @@ http://tv.soccerplus.link:8000/Xde01/SaXde2267/92104
 #EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DAZN-4.png" group-title="DEPORTES", DAZN 4
 http://tv.soccerplus.link:8000/Xde01/SaXde2267/92106
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
+http://181.78.8.90:16123/play/ch20
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
+http://181.78.8.90:16123/play/ch21
 
 
 
