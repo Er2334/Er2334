@@ -692,12 +692,10 @@ http://home-playtv.com:8080/powertv/W8LULsPWL9by/159125
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
 http://170.82.37.21:8000/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Malaysia",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Malaysia",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-
-
 
 
 
