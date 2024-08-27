@@ -674,17 +674,11 @@ http://home-playtv.com:8080/powertv/W8LULsPWL9by/166029
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png" group-title="DEPORTES", EVENTOS
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/56706
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
-http://200.60.124.19:29000/play/a01e/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR
 http://181.78.8.90:16123/play/ch52
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="CINE", HBO Plus
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/159125
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
-http://170.82.37.21:8000/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/HBO-Family.png" group-title="CINE", HBO FAMILY HD
 http://tv.soccerplus.link:8000/Xde01/SaXde2267/29066
@@ -692,7 +686,7 @@ http://tv.soccerplus.link:8000/Xde01/SaXde2267/29066
 #EXTINF:-1 tvg-logo="http://www.iptbest.xyz/logo/Golden-Edge.png" group-title="CINE", GOLDEN EDGE HD
 http://tv.soccerplus.link:8000/Xde01/SaXde2267/22201
 
-#EXTINF:-1 tvg-logo="http://tv.soccerplus.link:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", PPV Cinema Accion HD
+#EXTINF:-1 tvg-logo="http://tv.soccerplus.link:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Accion HD
 http://tv.soccerplus.link:8000/Xde01/SaXde2267/63798
 
 #EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema 4K
