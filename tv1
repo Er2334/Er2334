@@ -650,13 +650,10 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN PLUS
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="CINE", HBO Family
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/12854
-
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/397px-Logo_Golden_TV.svg.png" group-title="CINE", GOLDEN
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/9504
 
-#EXTINF:-1 tvg-logo="http://i.ibb.co/hX5Tjph/golden-edge.png" group-title="CINE", GPLDEN EDGE
+#EXTINF:-1 tvg-logo="http://i.ibb.co/hX5Tjph/golden-edge.png" group-title="CINE", GOLDEN EDGE
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/9349
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV
@@ -668,11 +665,8 @@ http://home-playtv.com:8080/powertv/W8LULsPWL9by/19567
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-formula-1-366.png" group-title="DEPORTES", DAZN Fórmula F1
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/59587
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
 http://170.82.37.21:8000/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="DEPORTES", TUDN
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/456663
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="DEPORTES", TUDN USA
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/166029
@@ -692,10 +686,43 @@ http://home-playtv.com:8080/powertv/W8LULsPWL9by/159125
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
 http://170.82.37.21:8000/play/a04d/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Malaysia",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/HBO-Family.png" group-title="CINE", HBO FAMILY HD
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/29066
+
+#EXTINF:-1 tvg-logo="http://www.iptbest.xyz/logo/Golden-Edge.png" group-title="CINE", GOLDEN EDGE HD
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/22201
+
+#EXTINF:-1 tvg-logo="http://tv.soccerplus.link:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", PPV Cinema Accion HD
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/63798
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema 4K
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/65852
+
+#EXTINF:-1 tvg-logo="http://tv.soccerplus.link/logo/TUDN-Mex.png" group-title="DEPORTES", TUDN HD
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/67460
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DreamWorks.png" group-title="24/7", DREAMWORKS HD
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/92487
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DAZN-1.png" group-title="DEPORTES", DAZN 1
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/22455
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DAZN-2.png" group-title="DEPORTES", DAZN 2
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/90074
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DAZN-3.png" group-title="DEPORTES", DAZN 3
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/92104
+
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DAZN-4.png" group-title="DEPORTES", DAZN 4
+http://tv.soccerplus.link:8000/Xde01/SaXde2267/92106
+
+
+
+
+
+
+
+
 
 
 
