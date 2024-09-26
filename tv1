@@ -629,80 +629,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Biográficas
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/65216
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Ciencia Ficcion
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/63825
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Comedias
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/63826
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="DEPORTES", DIRECTV SPORTS 2
-http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/202157
-
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports22.png" group-title="DEPORTES", ECDF
-http://xpz.com.mx:8080/OmDemo/RCyk6fC8mjNU/203187
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN PREMIER
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN PLUS
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/397px-Logo_Golden_TV.svg.png" group-title="CINE", GOLDEN
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/9504
-
-#EXTINF:-1 tvg-logo="http://i.ibb.co/hX5Tjph/golden-edge.png" group-title="CINE", GOLDEN EDGE
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/9349
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/158511
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/640px-Tooncast_logo.svg.png" group-title="INFANTILES", Tooncast
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/19567
-
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-formula-1-366.png" group-title="DEPORTES", DAZN Fórmula F1
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/59587
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="DEPORTES", TUDN USA
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/166029
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png" group-title="DEPORTES", EVENTOS
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/56706
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR
 http://181.78.8.90:16123/play/ch52
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="CINE", HBO Plus
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/159125
-
-#EXTINF:-1 tvg-logo="http://www.iptbest.xyz/logo/Golden-Edge.png" group-title="CINE", GOLDEN EDGE HD
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/22201
-
-#EXTINF:-1 tvg-logo="http://tv.soccerplus.link:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema Accion HD
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/63798
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="24/7", Cinema 4K
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/65852
-
-#EXTINF:-1 tvg-logo="http://tv.soccerplus.link/logo/TUDN-Mex.png" group-title="DEPORTES", TUDN HD
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/67460
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DreamWorks.png" group-title="24/7", DREAMWORKS HD
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/92487
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DAZN-1.png" group-title="DEPORTES", DAZN 1
-https://www.olacast.live/cdn/premium445/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DAZN-2.png" group-title="DEPORTES", DAZN 2
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/90074
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DAZN-3.png" group-title="DEPORTES", DAZN 3
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/92104
-
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/DAZN-4.png" group-title="DEPORTES", DAZN 4
-http://tv.soccerplus.link:8000/Xde01/SaXde2267/92106
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
 http://181.78.8.90:16123/play/ch20
@@ -710,23 +644,29 @@ http://181.78.8.90:16123/play/ch20
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
 http://181.78.8.90:16123/play/ch21
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
-http://168.197.196.98:9981/stream/channelid/23940887
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY MOVIES
-http://168.197.196.98:9981/stream/channelid/1798914357
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY
 https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10282.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 2
 https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10342.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN
+http://200.115.120.1:8000/play/ca039/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN EDGE
+http://200.115.120.1:8000/play/ca037/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
+http://200.113.4.75:7210/play/a00i/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family HD
+http://191.52.214.5:8000/play/a06q/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family HD2
+http://168.197.196.98:9981/stream/channelid/23940887
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY MOVIES
+http://168.197.196.98:9981/stream/channelid/1798914357
 
 
 
