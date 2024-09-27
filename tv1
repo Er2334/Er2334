@@ -665,6 +665,8 @@ https://clarovideo.telegratis.xyz/ext/stream.html?stream=dsports
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN
 http://200.115.120.1:8000/play/ca024/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
+http://190.211.102.42:4000/play/a06x/index.m3u8
 
 
 
