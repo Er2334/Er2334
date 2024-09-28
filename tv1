@@ -665,26 +665,6 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY MOVIES
 http://181.78.21.46:8000/play/a034
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/pe_golden-edge_l.png" group-title="CINE", Golden Edge
-http://ultrapremium.cloud:8080/63mabe34fa97te39/52mawu67wedu98/65218
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="CINE", GOLDEN
-http://ultrapremium.cloud:8080/63mabe34fa97te39/52mawu67wedu98/127
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="CINE", HBO PLUS
-http://ultrapremium.cloud:8080/63mabe34fa97te39/52mawu67wedu98/144
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rmvhsK3/M1SD.png" group-title="DEPORTES", DAZN 1
-http://ultrapremium.cloud:8080/63mabe34fa97te39/52mawu67wedu98/12348
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DEPORTES", DAZN 2
-http://ultrapremium.cloud:8080/63mabe34fa97te39/52mawu67wedu98/60357
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="DEPORTES", DAZN 3
-http://ultrapremium.cloud:8080/63mabe34fa97te39/52mawu67wedu98/12364
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="DEPORTES", DAZN 4
-http://ultrapremium.cloud:8080/63mabe34fa97te39/52mawu67wedu98/60363
 
 
 
