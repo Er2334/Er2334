@@ -665,9 +665,6 @@ http://181.78.21.46:8000/play/a034
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE", HBO Plus
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9685
 
-#EXTINF:-1 tvg-logo="Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay" group-title="DEPORTES", EVENTOS 1
-http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/84564
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjmVfLkS/PROYECTOX-DAZN-1.png" group-title="DEPORTES", DAZN 1
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9116
 
@@ -698,7 +695,17 @@ http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9656
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CINE", Golden Edge
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9658
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 3
+http://181.78.27.128:8000/play/a060/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 1
+http://181.78.27.128:8000/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus 2
+http://181.78.27.128:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="DEPORTES", Zapping Sports
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/99461.ts
 
 
 
