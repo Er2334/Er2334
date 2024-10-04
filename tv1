@@ -632,22 +632,13 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN PLUS
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR
-http://181.78.8.90:16123/play/ch52
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
 http://181.78.8.90:16123/play/ch20
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
 http://181.78.8.90:16123/play/ch21
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY
-https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10282.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 2
-https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10342.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
 http://191.52.214.5:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="MUSICA", Retro Plus Music 1
@@ -662,7 +653,7 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY MOVIES
 http://181.78.21.46:8000/play/a034
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE", HBO Plus
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE", HBO Plus HD
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9685
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjmVfLkS/PROYECTOX-DAZN-1.png" group-title="DEPORTES", DAZN 1
@@ -674,20 +665,11 @@ http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9119
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLgvFRwR/PROYECTOX-DAZN-F1.png" group-title="DEPORTES", DAZN F1
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9129
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="DEPORTES", Directv
-http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9567
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="DEPORTES", TUDN
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9603
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="DEPORTES", TUDN USA
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9605
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="DEPORTES", Directv 2
-http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9564
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="DEPORTES", Directv +
-http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9558
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png" group-title="CINE", Golden
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9656
@@ -695,19 +677,20 @@ http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9656
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CINE", Golden Edge
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9658
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 1
 http://181.78.27.128:8000/play/a060/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 2
 http://181.78.27.128:8000/play/a061/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
 http://181.78.27.128:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="DEPORTES", Zapping Sports
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/99461.ts
 
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CINE", Golden Edge 2
+http://201.161.59.7/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
 
 
 
