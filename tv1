@@ -632,12 +632,6 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="CINE",GOLDEN PLUS
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
-http://181.78.8.90:16123/play/ch20
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
-http://181.78.8.90:16123/play/ch21
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
 http://191.52.214.5:8000/play/a06q/index.m3u8
 
@@ -689,6 +683,8 @@ http://181.78.27.128:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="DEPORTES", Zapping Sports
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/99461.ts
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES", EVENTOS 3
+http://streamprostk.com:2082/azcolom654/7299688395/3122
 
 
 
