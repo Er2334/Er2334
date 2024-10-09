@@ -671,10 +671,10 @@ http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9656
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CINE", Golden Edge
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9658
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 1
 http://181.78.27.128:8000/play/a060/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 2
 http://181.78.27.128:8000/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
@@ -683,9 +683,14 @@ http://181.78.27.128:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="DEPORTES", Zapping Sports
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/99461.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES", EVENTOS 3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="EVENTOS", EVENTOS 3
 http://streamprostk.com:2082/azcolom654/7299688395/3122
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 24/7 +
+http://zonamovie.live:8080/live/eddy2023/eddy2023/855834.m3u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 24/7
+http://zonamovie.live:8080/live/eddy2023/eddy2023/857036.m3u
 
 
 
