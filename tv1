@@ -692,6 +692,11 @@ http://zonamovie.live:8080/live/eddy2023/eddy2023/855834.m3u
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 24/7
 http://zonamovie.live:8080/live/eddy2023/eddy2023/857036.m3u
 
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/ccf6d22fc26285238508588ca5bd8f8e.png" group-title="EVENTOS", EVENTOS 4
+http://didi2024.dynahost.ovh:80/086312562459/386074859446/104716
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/ccf6d22fc26285238508588ca5bd8f8e.png" group-title="EVENTOS", EVENTOS 5
+http://didi2024.dynahost.ovh:80/086312562459/386074859446/104717
 
 
 
