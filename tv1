@@ -671,6 +671,37 @@ http://zonamovie.live:8080/live/eddy2023/eddy2023/855834.m3u
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 24/7
 http://zonamovie.live:8080/live/eddy2023/eddy2023/857036.m3u
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="*DEPORTES", Dazn 1
+http://103.161.34.54:80/abel637979/5GJt52PwfT/53891.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="*DEPORTES", Dazn 2
+http://103.161.34.54:80/abel637979/5GJt52PwfT/53896.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="*DEPORTES", Dazn 3
+http://103.161.34.54:80/abel637979/5GJt52PwfT/53901.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="*DEPORTES", Dazn 4
+http://103.161.34.54:80/abel637979/5GJt52PwfT/53905.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="*DEPORTES", DAZN F1
+http://103.161.34.54:80/abel637979/5GJt52PwfT/63860.ts
+
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/49d362b1005c3d87b6a352f088a0c659.jpg" group-title="DEPORTES", ESPN 6
+http://nino4play.com:25461/JULIA/ARAUJO/14885
+
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/42d62fce294871d8304fa27dd89ab8b4.jpg" group-title="DEPORTES", ESPN 7
+http://nino4play.com:25461/JULIA/ARAUJO/14884
+
+
+
+
+
+
+
+
+
+
+
 
 
 
