@@ -704,10 +704,6 @@ http://nino4play.com:25461/JULIA/ARAUJO/155
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROkUp9tvQZHWwKMcGa9AEE09zz0cYENuHjWkShUPtB7Ih-rC6t" group-title="DEPORTES", DIRECTV SPORTS PLUS
 http://nino4play.com:25461/JULIA/ARAUJO/156
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="CINE",HBO Family (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
 
 
