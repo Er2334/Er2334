@@ -704,10 +704,12 @@ http://nino4play.com:25461/JULIA/ARAUJO/155
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROkUp9tvQZHWwKMcGa9AEE09zz0cYENuHjWkShUPtB7Ih-rC6t" group-title="DEPORTES", DIRECTV SPORTS PLUS
 http://nino4play.com:25461/JULIA/ARAUJO/156
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPD20WH/ECDF.png" tvg-group="DEPORTES", EL CANAL DEL FUTBOL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="CINE", HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/ecdf.json
-https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/hbofam.json
+https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+
+
 
 
 
