@@ -647,9 +647,6 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE", HBO Plus
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9685
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="DEPORTES", TUDN
-http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9603
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="DEPORTES", TUDN USA
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9605
 
@@ -704,9 +701,23 @@ http://nino4play.com:25461/JULIA/ARAUJO/155
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROkUp9tvQZHWwKMcGa9AEE09zz0cYENuHjWkShUPtB7Ih-rC6t" group-title="DEPORTES", DIRECTV SPORTS PLUS
 http://nino4play.com:25461/JULIA/ARAUJO/156
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/107571
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN
+http://abcnew.site:8880/48mk290025/19725549/57973
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 3
+http://abcnew.site:8880/48mk290025/19725549/57980
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 4
+http://abcnew.site:8880/48mk290025/19725549/57979
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 5
+http://abcnew.site:8880/48mk290025/19725549/58870
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 6
+http://abcnew.site:8880/48mk290025/19725549/58833
 
 
 
