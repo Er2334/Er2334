@@ -719,10 +719,10 @@ http://abcnew.site:8880/48mk290025/19725549/58870
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 6
 http://abcnew.site:8880/48mk290025/19725549/58833
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" group-title="24/7", Cinema Disney Family
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" group-title="24/7", Disney Family
 http://streamprostk.com:2082/mundosegurotv/mmundo2024/48949
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="24/7", Cinema Disney
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="24/7", Disney Cinema 4
 http://streamprostk.com:2082/mundosegurotv/mmundo2024/49063
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="24/7", Netflix Cinema 1
@@ -743,9 +743,35 @@ http://streamprostk.com:2082/mundosegurotv/mmundo2024/50736
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports.jpg" group-title="DEPORTES", ZAPPING SPORTS 2
 http://streamprostk.com:2082/mundosegurotv/mmundo2024/76741
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="24/7", Disney Cinema 1
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/51456
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="24/7", Disney Cinema 2
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/51457
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="24/7", Disney Cinema 3
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/51458
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7", Disney Pixar
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/31708
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7", Disney Clasicos
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/49822
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7", Dreamworks Cinema 
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/49653
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="24/7", Peliculas Clasicas
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/31698
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJRC5TN/el-chavo-chespirito-razon-dejaran-de-emitir-televisa-crop1596463418845-jpg-1005196607.jpg" group-title="24/7", El Chavo Del 8 TV
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/3614
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFSCG5w1/chavo.png" group-title="24/7", El Chavo del 8 
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/14720
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7", El Chapulín Colorado
+http://streamprostk.com:2082/mundosegurotv/mmundo2024/49647
 
 
 
