@@ -707,6 +707,31 @@ http://streamprostk.com:2082/mundosegurotv/mmundo2024/14720
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="24/7", El Chapulín Colorado
 http://streamprostk.com:2082/mundosegurotv/mmundo2024/49647
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115842
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115844
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115974
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png" group-title="DEPORTES", ESPN 7
+http://redima.pro:8880/stalin2024/stalin2024/327
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="DEPORTES", ESPN 6
+http://redima.pro:8880/stalin2024/stalin2024/329
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" group-title="CINE", MULTICINE
+http://redima.pro:8880/stalin2024/stalin2024/381
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="CINE", MULTIPREMIER
+http://redima.pro:8880/stalin2024/stalin2024/379
+
+
+
+
+
 
 
 
