@@ -731,10 +731,17 @@ http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/156355
 #EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/10d5a10a663e0c036a6e5f7ff0fd4093.png" group-title="CINE", Golden
 http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/30675
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png" group-title="EVENTOS", EVENTOS PY
+http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/56706
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DirecTV Sports
+http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/158511
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES", DirecTV Sports 2
+http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/456658
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DirecTV Sports +
+http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/518959
 
 
 
