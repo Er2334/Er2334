@@ -716,6 +716,23 @@ http://redima.pro:8880/stalin2024/stalin2024/381
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="CINE", MULTIPREMIER
 http://redima.pro:8880/stalin2024/stalin2024/379
 
+#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/262ad70d2f54a590841b7a7fae226fe3.png" group-title="DEPORTES", TUDN
+http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/183753
+
+#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/262ad70d2f54a590841b7a7fae226fe3.png" group-title="DEPORTES", TUDN USA
+http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/182435
+
+#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/d6e568a87d614f84eba24e02ee326c10.png" group-title="CINE", HBO Plus
+http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/30654
+
+#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/10d5a10a663e0c036a6e5f7ff0fd4093.png" group-title="CINE", Golden Edge
+http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/156355
+
+#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/10d5a10a663e0c036a6e5f7ff0fd4093.png" group-title="CINE", Golden
+http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/30675
+
+
+
 
 
 
