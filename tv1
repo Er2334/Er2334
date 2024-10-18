@@ -644,18 +644,6 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE", HBO Plus
-http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9685
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="DEPORTES", TUDN USA
-http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9605
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png" group-title="CINE", Golden
-http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9656
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CINE", Golden Edge
-http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/9658
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 1
 http://181.78.27.128:8000/play/a060/index.m3u8
 
