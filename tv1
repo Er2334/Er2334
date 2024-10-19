@@ -662,26 +662,11 @@ http://103.161.34.54:80/abel637979/5GJt52PwfT/63860.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
 http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/107571
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 3
-http://abcnew.site:8880/48mk290025/19725549/57980
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 4
-http://abcnew.site:8880/48mk290025/19725549/57979
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 5
-http://abcnew.site:8880/48mk290025/19725549/58870
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 6
-http://abcnew.site:8880/48mk290025/19725549/58833
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="24/7", Netflix Cinema 2
 http://streamprostk.com:2082/mundosegurotv/mmundo2024/51452
 
 #EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2021/09/TUDUM.jpg" group-title="24/7", Netflix Cinema 1
 http://streamprostk.com:2082/mundosegurotv/mmundo2024/50736
-
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports.jpg" group-title="DEPORTES", ZAPPING SPORTS
-http://streamprostk.com:2082/mundosegurotv/mmundo2024/76741
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="24/7", Disney Clasico
 http://streamprostk.com:2082/mundosegurotv/mmundo2024/51456
@@ -734,18 +719,8 @@ http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/30675
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png" group-title="EVENTOS", EVENTOS PY
 http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/56706
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DirecTV Sports
-http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/158511
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES", DirecTV Sports 2
-http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/456658
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES", TNT Sports Premium
 http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/12919
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DirecTV Sports +
-http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/310535
-
 
 
 
