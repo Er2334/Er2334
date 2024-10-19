@@ -647,9 +647,6 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 1
 http://181.78.27.128:8000/play/a060/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 2
-http://181.78.27.128:8000/play/a061/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 24/7 +
 http://zonamovie.live:8080/live/eddy2023/eddy2023/855834.m3u
 
@@ -737,8 +734,14 @@ http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f9
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECTV 1
 http://181.78.27.128:8000/play/a006/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png" group-title="EVENTOS", EVENTOS PY 2
+http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/56706
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 2
+http://zonamovie.live:8080/live/Freddy01/Freddy01/889100.m3u
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 3
+http://zonamovie.live:8080/live/Freddy01/Freddy01/871934.m3u
 
 
 
