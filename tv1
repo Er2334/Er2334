@@ -740,8 +740,15 @@ http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/158511
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES", DirecTV Sports 2
 http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/456658
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES", TNT Sports Premium
+http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/12919
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DirecTV Sports +
-http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/518959
+http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/310535
+
+
+
+
 
 
 
