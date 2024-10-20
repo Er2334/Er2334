@@ -719,9 +719,6 @@ http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/56706
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES", TNT Sports Premium
 http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/12919
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png" group-title="DEPORTES", DAZN 4
-http://857390922249228398.ofgd1018.xyz:80/live/VTSGE5UM4N/QbgGAQHnJHV/228398.ts
-
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS 2
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6849
 
@@ -743,6 +740,8 @@ http://zonamovie.live:8080/live/Freddy01/Freddy01/889100.m3u
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", EVENTOS 3
 http://zonamovie.live:8080/live/Freddy01/Freddy01/871934.m3u
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 4
+http://fivetv.org:25461/Darwin968/Mogollon482/41819
 
 
 
