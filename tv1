@@ -719,16 +719,23 @@ http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f9
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECTV 1
 http://181.78.27.128:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png" group-title="EVENTOS", EVENTOS PY 2
-http://home-playtv.com:8080/tVRxKnkK6ZAp/dSjXHFuQfKuQ/56706
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 4
 http://fivetv.org:25461/Darwin968/Mogollon482/41819
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png" group-title="EVENTOS", EVENTOS PY
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/56706
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="EVENTOS", EVENTOS 24/7+
+https://zonamovie.live:8443/play/NW5gRX09S8s-526DZ5_-V3HBmDPDIECkbX-kHCcFH7o/ts
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="EVENTOS", EVENTOS 2
+https://zonamovie.live:8443/play/NW5gRX09S8s-526DZ5_-V9NNGzftp5ONaPqz6Rwke_c/ts
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="EVENTOS", EVENTOS 3
+https://zonamovie.live:8443/play/NW5gRX09S8s-526DZ5_-V-IX7ei3PD8UMKXpplEAZqo/ts
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="EVENTOS", EVENTOS 24/7
+https://zonamovie.live:8443/play/NW5gRX09S8s-526DZ5_-Vz6fbj9gBrm5GW5TwD9Kyrc/ts
 
 
 
