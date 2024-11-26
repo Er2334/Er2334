@@ -204,8 +204,101 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBOXT
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO SIGNATURE 
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_SIGNATURE_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", HGTV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISCOVERY_HGTV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", HISTORY
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HISTORY_CHANNEL_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", HISTORY 2
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HISTORY_2_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", HOLA TV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HOLA_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", ID HD
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ID_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", HTV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HTV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", LA NACION AR
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LN_MAS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", LIFETIME
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LIFETIME)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", LOVE NATURE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV HITS
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_HITS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV 00s
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_00)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", NAT GEO
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NATIONAL_GEOGRAPHIC_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK JR
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_JR_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", PAKA PAKA
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PAKA_PAKA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", PARAMOUNT
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PARAMOUNT_CHANNEL_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", PASIONES 
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PASIONES_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY 
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_SONY_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SPACE
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SPACE_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STAR CHANNEL
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(STAR_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STUDIO UNIVERSAL
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(STUDIO_UNIVERSAL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", SUN CHANNEL
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUNCHANNEL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", SYFY
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SYFY_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TCM
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TCM)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TELEFE
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TELEMUNDO
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEMUNDO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TN AR
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TNT SERIES
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_SERIES_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TNT SPORTS
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_SPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TVE
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TVE)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
@@ -213,32 +306,10 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TEENNICK
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8
 
 
 
