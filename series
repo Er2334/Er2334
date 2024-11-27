@@ -154,7 +154,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(EUROP
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_13)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", EL GOURMET
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(EL_GUORMET_HD)/index.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(EL_GOURMET_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FX
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FX_HD)/index.m3u8
@@ -294,7 +294,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_H
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TNT SERIES
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_SERIES_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TNT SPORTS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_SPORTS)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TVE
