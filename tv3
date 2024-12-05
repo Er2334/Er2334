@@ -680,25 +680,10 @@ https://g4.proy-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Pl
 #EXTINF:-1 tvg-chno="1101" tvg-id="MTVSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTVLA.png?raw=true" group-title="MUSICA", MTV
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-chno="1102" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTV80.png?raw=true" tvg-aspect-ratio=4:3 aspect-ratio=4:3 group-title="MUSICA", MTV 80s
-https://webtvstream.bhtelecom.ba/hls18/mtv_80s.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
 #EXTINF:-1 tvg-chno="1104" tvg-id="MTV00s.uk" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTV00.png?raw=true" group-title="MUSICA", MTV 00s
 https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-chno="1103" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTV90.png?raw=true" group-title="MUSICA", MTV 90s
-https://webtvstream.bhtelecom.ba/hls16/mtv_90s.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-chno="1105" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLMTV.png?raw=true" group-title="MUSICA", Club MTV
-https://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
@@ -728,22 +713,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
 #EXTINF:-1 tvg-chno="1248" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VTRIX.png?raw=true" group-title="MUSICA", Vorterix
 https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
-
-#EXTINF:-1 tvg-chno="1113" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TRMIA.png?raw=true" group-title="MUSICA", Tierramia TV
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
-
-#EXTINF:-1 tvg-chno="1114" tvg-id="MusicTop.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MSTOP.png?raw=true" group-title="MUSICA", Music TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=68aa8810573e1dc11fb2d82a51d55402:d92e36380b02f531f70dadba49e95f27
-#EXTINF:-1 tvg-chno="1116" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNCRT.png?raw=true" group-title="MUSICA", Concert Channel
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CONCERT_CHANNEL_HD)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-#EXTINF:-1 tvg-id="NicktoonsLatinAmerica.us" tvg-chno="1117" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NKMUS.png?raw=true" group-title="MUSICA", Nick Music
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NICKTOONS)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
