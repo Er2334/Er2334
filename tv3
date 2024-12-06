@@ -985,9 +985,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/clients/dash/enc/4zkafrcxji/out/v1
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="NOVELAS", Novelas Turcas 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
-#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="NOVELAS", RCN Novelas 
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(RCN_TELENOVELAS)/index.m3u8
-
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="DEPORTES", Bein Sports xtra ñ
 https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
 
@@ -1000,6 +997,44 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Concert channel
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8
 
+MX Family
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+
+OLD
+https://marine2.miplay.cl/old/playlist.m3u8
+
+DIOS TV Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+
+Latinos Kids
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+
+Puro Romance TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+
+GOLDEN PLUS
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8
+
+HEI
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HEI_HD)/index.m3u8
+
+GOLDEN PREMIER
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8
+
+GOLDEN PREMIER 2
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_2_HD)/index.m3u8
+
+Aspen Classic
+https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
+
+Tigo live
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+Retro cinema
+http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8",         "icono": "https://i.ibb.co/Qfcz0zX/cine-retro-genial.png"
+
+Radio Farra tv
+http://159.203.148.226/live/farra.m3u8
 
 
 
