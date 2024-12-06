@@ -1036,15 +1036,6 @@ http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Radio Farra tv
 http://159.203.148.226/live/farra.m3u8
 
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS 2
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6849
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS +
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6850
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6851
-
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
@@ -1087,7 +1078,11 @@ https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif" group-title="CINE", Golden Edge
+http://tvhomesmart.xyz:8080/pastennyztv/92kpbhgn/65225
 
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif" group-title="CINE", Golden
+http://saypopular.com:25461/datdude25/datdude2525/52787
 
 
 
