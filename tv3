@@ -1030,7 +1030,7 @@ https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="DEPORTES", Tigo Sports live
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
-#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="CINE", Retro cinema
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://i.ibb.co/Qfcz0zX/cine-retro-genial.png?raw=true" group-title="CINE", Retro cinema
 http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8",         "icono": "https://i.ibb.co/Qfcz0zX/cine-retro-genial.png"
 
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Radio Farra tv
