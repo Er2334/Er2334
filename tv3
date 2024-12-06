@@ -831,23 +831,8 @@ https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_C/Paraguay_TV.
 #KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
 https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png" group-title="MUSICA", VEVO ´90s
-https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg" group-title="MUSICA", XITE 90s THROWBACK
-https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png" group-title="MUSICA", VEVO RETRO ROCK
-https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="MUSICA", RETRO MUSIC TELEVISION
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="MUSICA", RETRO PLUS 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="MUSICA", RETRO PLUS
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="DEPORTES", TYC SPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -879,16 +864,10 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_U
 #KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad
 https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd
 
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-todo_drama-16x9.jpg" group-title="NOVELAS", TODO DRAMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png" group-title="NOVELAS", PASIONES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dmvFF50/global-tlnovelas.png" group-title="NOVELAS", GLOBAL TELENOVELAS
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:245_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yXLvs7V/Tlnovelas-2011-logo-svg.png" group-title="NOVELAS", TL NOVELAS
 http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -952,11 +931,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/clients/dash/enc/pgub1bh7o9/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
 https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="DEPORTES", PREMIERE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50653a20839a57c8b2d3cde6ddc46cdb:8a505419dccb50ee07ecebf5a6b44c63
-https://0064-jbc.dtvott.com/dash_live_0079/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="DEPORTES", DAZN 1 ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
