@@ -997,43 +997,43 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Concert channel
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8
 
-MX Family
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="CINE", MX Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
-OLD
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="CINE", OLD
 https://marine2.miplay.cl/old/playlist.m3u8
 
-DIOS TV Kids
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="INFANTILES", DIOS TV Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
-Latinos Kids
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="INFANTILES", Latinos Kids
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
-Puro Romance TV
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Puro Romance TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 
-GOLDEN PLUS
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="CINE", GOLDEN PLUS
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8
 
-HEI
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", HEI
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HEI_HD)/index.m3u8
 
-GOLDEN PREMIER
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="CINE", GOLDEN PREMIER
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8
 
-GOLDEN PREMIER 2
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="CINE", GOLDEN PREMIER 2
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_2_HD)/index.m3u8
 
-Aspen Classic
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Aspen Classic
 https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
 
-Tigo live
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="DEPORTES", Tigo Sports live
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
-Retro cinema
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="CINE", Retro cinema
 http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8",         "icono": "https://i.ibb.co/Qfcz0zX/cine-retro-genial.png"
 
-Radio Farra tv
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Radio Farra tv
 http://159.203.148.226/live/farra.m3u8
 
 
