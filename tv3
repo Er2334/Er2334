@@ -994,12 +994,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Concert channel
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8
 
-#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="CINE", MX Family
-https://marine2.miplay.cl/mxfamily/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="CINE", OLD
-https://marine2.miplay.cl/old/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="INFANTILES", DIOS TV Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
@@ -1066,14 +1060,8 @@ https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png" group-title="INFANTILES", Opinionsur Niños
 https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1087_Opinionsur_Cine.png" group-title="CINE", Opinionsur Cine
-https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1618_Opinionsur_Series.png" group-title="SERIES", Opinionsur Series
 https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="DEPORTES", Directv Sports +
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/69954
@@ -1136,6 +1124,74 @@ http://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd
 #EXTINF:-1 group-title="CINE" ch-number="310" tvg-id="CinePremium" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", Cine Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd
+
+#EXTINF:-1 tvg-logo="https://heroeip.github.io/logo/Hallmark_1.png" group-title="CINE", HALLMARK
+https://jmp2.uk/sam-US1300001GM.m3u8
+
+#EXTINF:-1 tvg-logo="https://FLOW.vaughnsoft.net/profile/1729449963/a_neflix01.jpg" group-title="CINE", Netflix Cine
+http://bgtv.xyz/vau.php?id=a_neflix01
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="DEPORTES", TUDN 2
+http://bgtv.xyz/play/play-127.php?ul=698&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TV_Azteca_Deportes_Network_2024.svg/revision/latest/scale-to-width-down/250?cb=20240201224901" group-title="DEPORTES", AZTECA DEPORTES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=10985
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Accion ᵸᴰ
+http://bgtv.xyz/play/play-127.php?ul=1022&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Accion Sagas
+http://bgtv.xyz/play/play-127.php?ul=707&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Comedia
+http://bgtv.xyz/play/play-127.php?ul=695&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Comedia 2
+http://bgtv.xyz/play/play-127.php?ul=915&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Ficcion/Fantasia 2
+http://bgtv.xyz/play/play-127.php?ul=710&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Ficcion/Fantasia
+http://bgtv.xyz/play/play-127.php?ul=712&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Infantil
+http://bgtv.xyz/play/play-127.php?ul=702&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Infantil Sagas
+http://bgtv.xyz/play/play-127.php?ul=703&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Marvel
+http://bgtv.xyz/play/play-127.php?ul=701&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Romance 2
+http://bgtv.xyz/play/play-127.php?ul=1023&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Romance
+http://bgtv.xyz/play/play-127.php?ul=705&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="CINE", Movistar Cine
+http://bgtv.xyz/play/play-127.php?ul=371&token=dfghdfghfghdfghdfg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
