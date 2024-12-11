@@ -1164,9 +1164,6 @@ http://bgtv.xyz/play/play-127.php?ul=703&token=dfghdfghfghdfghdfg
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Marvel
 http://bgtv.xyz/play/play-127.php?ul=701&token=dfghdfghfghdfghdfg
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Romance 2
-http://bgtv.xyz/play/play-127.php?ul=1023&token=dfghdfghfghdfghdfg
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Romance
 http://bgtv.xyz/play/play-127.php?ul=705&token=dfghdfghfghdfghdfg
 
