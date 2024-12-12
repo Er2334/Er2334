@@ -1137,35 +1137,6 @@ http://bgtv.xyz/play/play-127.php?ul=698&token=dfghdfghfghdfghdfg
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TV_Azteca_Deportes_Network_2024.svg/revision/latest/scale-to-width-down/250?cb=20240201224901" group-title="DEPORTES", AZTECA DEPORTES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=10985
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Accion ᵸᴰ
-http://bgtv.xyz/play/play-127.php?ul=1022&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Accion Sagas
-http://bgtv.xyz/play/play-127.php?ul=707&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Comedia
-http://bgtv.xyz/play/play-127.php?ul=695&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Comedia 2
-http://bgtv.xyz/play/play-127.php?ul=915&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Ficcion/Fantasia 2
-http://bgtv.xyz/play/play-127.php?ul=710&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Ficcion/Fantasia
-http://bgtv.xyz/play/play-127.php?ul=712&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Infantil
-http://bgtv.xyz/play/play-127.php?ul=702&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Infantil Sagas
-http://bgtv.xyz/play/play-127.php?ul=703&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Marvel
-http://bgtv.xyz/play/play-127.php?ul=701&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="24", Cine Romance
-http://bgtv.xyz/play/play-127.php?ul=705&token=dfghdfghfghdfghdfg
 
 
 
