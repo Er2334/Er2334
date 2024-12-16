@@ -625,12 +625,11 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logoq.png" group-title="INFANTILES", EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MegaTV.py" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="NACIONALES",Mega TV
-https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS HD
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6851
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
+http://45.163.205.110:8000/play/a0fq/index.m3u8
 
 
 
