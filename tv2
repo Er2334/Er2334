@@ -610,11 +610,26 @@ https://jmp2.uk/sam-US1300001GM.m3u8
 #EXTINF:-1 tvg-logo="https://FLOW.vaughnsoft.net/profile/1729449963/a_neflix01.jpg" group-title="CINE", Netflix Cine
 http://bgtv.xyz/vau.php?id=a_neflix01
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="INFANTILES", Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="MUSICA", Recuerdos Retro Radio TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="SERIES", Classic Channel
+https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yijitpa.png" group-title="NOVELAS", Sony Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logoq.png" group-title="INFANTILES", EXTREMA KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MegaTV.py" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="NACIONALES",Mega TV
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS HD
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6851
 
 
 
