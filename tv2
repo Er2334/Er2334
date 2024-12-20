@@ -564,12 +564,6 @@ https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="DEPORTES", Directv Sports +
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/69954
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="DEPORTES", DIRECTV SPORTS
-http://tvhomesmart.xyz:8080/pastennyztv/92kpbhgn/247836
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgY2Cqyz/Direc-TV-Sports-2-Latin-America-2018.png" group-title="DEPORTES", DIRECTV SPORTS 2
-http://tvhomesmart.xyz:8080/pastennyztv/92kpbhgn/316
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="CINE",Golden 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
@@ -661,14 +655,14 @@ https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", RCN Novelas
 http://181.78.27.128:8000/play/a040/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="DEPORTES", TUDN MX
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/456663
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS +
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6850
 
-#EXTINF:-1 tvg-logo="http://www.wyattresearch.com/wp-content/uploads/2015/06/Starz_Logo-650x204.png" group-title="CINE", Starz Español
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/166117
+#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/262ad70d2f54a590841b7a7fae226fe3.png" group-title="DEPORTES", TUDN USA
+http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/182435
 
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHO-E.PNG" group-title="CINE", Starz Family Español
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/47717
+
+
 
 
 
