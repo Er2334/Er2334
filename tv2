@@ -682,8 +682,17 @@ http://streamprostk.com:2082/felipenarcelles/felipe7388/2645
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES", DIRECTV SPORTS 2 HD
 http://streamprostk.com:2082/felipenarcelles/felipe7388/37484
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS
+http://45.175.139.194:8000/play/16
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover
+http://190.13.81.218:18000/play/a02i
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Family
+http://45.181.122.201:8081/play/a04j
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", FMH kids
+http://45.181.122.201:8081/play/a04l
 
 
 
