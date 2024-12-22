@@ -670,9 +670,17 @@ http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f9
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-3-Latin-America.png" group-title="DEPORTES", Fox Sports 3 Mx
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/151
 
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS PLUS
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/4970
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="CINE", HBO Family HD
+http://streamprostk.com:2082/felipenarcelles/felipe7388/2644
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE", HBO Plus HD
+http://streamprostk.com:2082/felipenarcelles/felipe7388/2645
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES", DIRECTV SPORTS 2 HD
+http://streamprostk.com:2082/felipenarcelles/felipe7388/37484
 
 
 
