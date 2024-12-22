@@ -561,9 +561,6 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="CINE", TV Prime Peliculas
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="DEPORTES", Directv Sports +
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/69954
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="CINE",Golden 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
