@@ -765,6 +765,18 @@ https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif" group-title="CINE", PLAY TV
+https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
