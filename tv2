@@ -658,13 +658,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/win-sports.png" group-title="DEPORTES", Win Sports Plus
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/4971
 
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-Cono-Norte.png" group-title="DEPORTES", Fox Sports 2 Mx
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-Cono-Norte.png" group-title="DEPORTES", FS2 Mx
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/153
 
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-2-Latin-America.png" group-title="DEPORTES", Fox Sports Mx
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-2-Latin-America.png" group-title="DEPORTES", FS1 Mx
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/152
 
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-3-Latin-America.png" group-title="DEPORTES", Fox Sports 3 Mx
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-3-Latin-America.png" group-title="DEPORTES", FS3 Mx
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/151
 
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS PLUS
@@ -760,13 +760,10 @@ https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="CINE", HBO PLUS HD
 https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
 
-#EXTINF:-1, tvg-logo="https://pelotalibre.com/img/logo-canal/dsports.webp"  group-title="DEPORTES",Directv Sports
+#EXTINF:-1, tvg-logo="https://pelotalibre.com/img/logo-canal/dsports.webp"  group-title="DEPORTES",DIRECTV SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif" group-title="CINE", PLAY TV
-https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
 
 
 
