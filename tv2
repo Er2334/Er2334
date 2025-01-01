@@ -765,7 +765,8 @@ https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="DEPORTES", TUDN MX  HD
+https://streamtp2.com/global1.php?stream=tudn_usa
 
 
 
