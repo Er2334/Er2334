@@ -753,25 +753,29 @@ https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="CINE", HBO PLUS HD
 https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
 
-#EXTINF:-1, tvg-logo="https://pelotalibre.com/img/logo-canal/dsports.webp"  group-title="DEPORTES",DIRECTV SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/directv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dt168vnn/dazn4.png" group-title="DEPORTES", DAZN 4 HD
 http://tvvip.us:8880/play/SNlNl2UN_L9mqDzBkMDtb2AjITd0IeCMoyod380OeTE/m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115974
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg" group-title="CINE", STARZ ENCORE
 http://tvvip.us:8880/play/SNlNl2UN_L9mqDzBkMDtb9n0Umm9YdzDrJqt3RXI-io/m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Goku Tv
-http://45.181.122.201:8081/play/a03w
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSICA", Baraza TV Deep House
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS 2
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/4969
 
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6850
 
+#EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/60795c20bbca893a5335fbb9feab8384.png" group-title="DEPORTES", SPORTV 3
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/362
+
+#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/94327ab2f8c43038af8f371f8398cd56.png" group-title="MUSICA", MTV Classic
+http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/195774
 
 
 
