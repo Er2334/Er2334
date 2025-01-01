@@ -765,8 +765,19 @@ https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="DEPORTES", TUDN MX  HD
-https://streamtp2.com/global1.php?stream=tudn_usa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dt168vnn/dazn4.png" group-title="PREMIER LEAGUE", DAZN 4 HD
+http://tvvip.us:8880/play/SNlNl2UN_L9mqDzBkMDtb2AjITd0IeCMoyod380OeTE/m3u8
+
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg" group-title="CINE", STARZ ENCORE
+http://tvvip.us:8880/play/SNlNl2UN_L9mqDzBkMDtb9n0Umm9YdzDrJqt3RXI-io/m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Goku Tv
+http://45.181.122.201:8081/play/a03w
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSICA", Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+
+
 
 
 
