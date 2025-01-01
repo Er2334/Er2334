@@ -477,23 +477,22 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/clients/dash/enc/pgub1bh7o9/out/v1
 #KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
 https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="DEPORTES", DAZN 1 ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="DEPORTES", DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7tyZc/DAZN2.png" group-title="DEPORTES", DAZN 2 ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7tyZc/DAZN2.png" group-title="DEPORTES", DAZN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1QN1NQ/DAZN3.png" group-title="DEPORTES", DAZN 3 ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1QN1NQ/DAZN3.png" group-title="DEPORTES", DAZN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j5P724k/DAZN4.png" group-title="DEPORTES", DAZN 4 ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5P724k/DAZN4.png" group-title="DEPORTES", DAZN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
@@ -646,9 +645,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_
 #EXTINF:-1 tvg-chno="908" tvg-id="TBSSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTNO.png?raw=true" group-title="NOVELAS", TNT Novelas
 https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", RCN Novelas
-http://181.78.27.128:8000/play/a040/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/262ad70d2f54a590841b7a7fae226fe3.png" group-title="DEPORTES", TUDN USA
 http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/182435
 
@@ -669,9 +665,6 @@ http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f9
 
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS PLUS
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/4970
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES", DIRECTV SPORTS 2 HD
-http://streamprostk.com:2082/felipenarcelles/felipe7388/37484
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Family
 http://45.181.122.201:8081/play/a04j
@@ -765,7 +758,7 @@ https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/directv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dt168vnn/dazn4.png" group-title="PREMIER LEAGUE", DAZN 4 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dt168vnn/dazn4.png" group-title="DEPORTES", DAZN 4 HD
 http://tvvip.us:8880/play/SNlNl2UN_L9mqDzBkMDtb2AjITd0IeCMoyod380OeTE/m3u8
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg" group-title="CINE", STARZ ENCORE
