@@ -620,16 +620,6 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-chno="409" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="CINE", Sony Movies
 https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
-#EXTINF:-1 tvg-chno="453" tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="CINE", HBO Plus
-https://chromecast.cvattv.com.ar///live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
-#EXTINF:-1 tvg-chno="454" tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="CINE", HBO Family
-https://chromecast.cvattv.com.ar///live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png" group-title="DEPORTES", VTV PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
@@ -735,24 +725,6 @@ https://smt-edge03.sensa.com.ar//live/sta01/MiMusicaReggaeton/live_dash_cld/MiMu
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="MUSICA", MI MUSICA POP
 https://smt-edge03.sensa.com.ar//live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="CINE", HBO FAMILY HD
-https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="CINE", HBO PLUS HD
-https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dt168vnn/dazn4.png" group-title="DEPORTES", DAZN 4 HD
 http://tvvip.us:8880/play/SNlNl2UN_L9mqDzBkMDtb2AjITd0IeCMoyod380OeTE/m3u8
 
@@ -777,6 +749,29 @@ http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f9
 #EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/94327ab2f8c43038af8f371f8398cd56.png" group-title="MUSICA", MTV Classic
 http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/195774
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE", HBO FAMILY
+http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_family_Este_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE", HBO PLUS
+http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_Plus_Este_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="MUSICA", Nick Music
+http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(nickmusic)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="MUSICA", MTV LIVE HD
+http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_Live_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="MUSICA", CLUB MTV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_CLUB)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="RELIGIÓN", ENLACE
+http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Enlace)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="INFANTILES", Moni TV HD
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE", WoW Movies
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 
 
