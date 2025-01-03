@@ -731,9 +731,6 @@ http://tvvip.us:8880/play/SNlNl2UN_L9mqDzBkMDtb2AjITd0IeCMoyod380OeTE/m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 3 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115974
 
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg" group-title="CINE", STARZ ENCORE
-http://tvvip.us:8880/play/SNlNl2UN_L9mqDzBkMDtb9n0Umm9YdzDrJqt3RXI-io/m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSICA", Baraza TV Deep House
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
@@ -783,6 +780,38 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="NACIONALES", ROCK & POP TV
 https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="CINE", AM Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="SERIES", BBC Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="SERIES", Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="SERIES", Cinerama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="CINE", FMTV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CALoCyo.png" group-title="SERIES", LIM TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="INFANTILES", Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mnvubb.png" group-title="SERIES", Misterios sin resolver
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bde7044b-90d4-4e57-bcb7-61c20fa767bb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="SERIES", MovieFe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="MUSICA", Tropical Music TV
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+
+
 
 
 
