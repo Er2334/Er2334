@@ -725,9 +725,6 @@ https://smt-edge03.sensa.com.ar//live/sta01/MiMusicaReggaeton/live_dash_cld/MiMu
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="MUSICA", MI MUSICA POP
 https://smt-edge03.sensa.com.ar//live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dt168vnn/dazn4.png" group-title="DEPORTES", DAZN 4 HD
-http://tvvip.us:8880/play/SNlNl2UN_L9mqDzBkMDtb2AjITd0IeCMoyod380OeTE/m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 3 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115974
 
@@ -811,6 +808,8 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="MUSICA", Tropical Music TV
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.megacable.com.mx/images/canales/458_multicinema.png" group-title="CINE", MC
+https://bit.ly/Iptvpromxmc_channel_1_cdn_mx
 
 
 
