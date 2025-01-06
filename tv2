@@ -799,7 +799,7 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="MUSICA", Tropical Music TV
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 4 HD
 http://fivetv.org:25461/Darwin968/Mogollon482/41819
 
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS 2
