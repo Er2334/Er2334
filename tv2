@@ -731,15 +731,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSICA", Baraza TV Deep House
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS 2
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/4969
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6850
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/60795c20bbca893a5335fbb9feab8384.png" group-title="DEPORTES", SPORTV 3
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/362
-
 #EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/94327ab2f8c43038af8f371f8398cd56.png" group-title="MUSICA", MTV Classic
 http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/195774
 
@@ -808,9 +799,17 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="MUSICA", Tropical Music TV
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.megacable.com.mx/images/canales/458_multicinema.png" group-title="CINE", MC
-https://bit.ly/Iptvpromxmc_channel_1_cdn_mx
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 4
+http://fivetv.org:25461/Darwin968/Mogollon482/41819
 
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS 2
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6849
+
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS +
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6850
+
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6851
 
 
 
