@@ -823,8 +823,82 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc5
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV Rocks
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/160/160/0/0/12050400077728.png" group-title="MUSICA", BILLBOARD
+https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/311/CH_LOGO/160/160/0/0/182616500734.png" group-title="MUSICA", TELEHIT
+https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/160/160/0/0/32909050074718.png" group-title="DOCUMENTALES", LOVE NATURE 
+https://csc-ptn-edge01.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
+#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/727/CH_LOGO/60/40/0/0/333157600739.png" group-title="INTERNACIONALES"  , TV Chile
+https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd
+
+#EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="DEPORTES" , POKER TOUR esp
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png"  , RCN Novelas
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a040/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png"  ,⚽ TUDN
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.106.127:9000/play/ca025/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="-"  , ESPN PREMIUM ECUADOR
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://177.53.155.236:8000/play/a0c4/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="-"  , RCN COLOMBIA
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://179.189.222.226:8000/play/ch59
+
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" , Caracol Colombia
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02g
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" , ESPN Ecuador
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.23.26:45000/play/a02p
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="DEPORTES", ESPNmex
+http://181.78.106.127:9000/play/ca033/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="DEPORTES", ESPNmex 2
+http://181.78.106.127:9000/play/ca034/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="DEPORTES", ESPNmex 3
+http://181.78.106.127:9000/play/ca035/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="DEPORTES", ESPNmex 4
+http://181.78.106.127:9000/play/ca036/index.m3u8
 
 
 
