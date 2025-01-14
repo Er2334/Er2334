@@ -904,17 +904,27 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="MUSICA", TRACE BRASIL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
+
 #EXTINF:-1 ch-number="313" tvg-id="DHE.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="CINE", DHE
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DHE_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3strKmwIw6s/Xj5BlA2hgCI/AAAAAAAABVY/5RMrXxrQcSMkV-vexE11oVaKBxoYESGiQCLcBGAsYHQ/s200/showtime%2Bbeyond.png" group-title="CINE", Showtime
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/86000
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CINE", Starz
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9727
+
+#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="DEPORTES", TUDN
+http://venuschiletv.lat:8880/yimxcvyrbm/EEa8Ju8BGm4h/419108
+
+#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/818476414e6d47a629a2a804420815e6.png" group-title="CINE", Cine Amazon
+http://venuschiletv.lat:8880/yimxcvyrbm/EEa8Ju8BGm4h/305781
+
+#EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/903b89c71c4f20c1f3dcca833dee414d.png" group-title="DEPORTES", TNT SPORTS CHILE 
+http://venuschiletv.lat:8880/yimxcvyrbm/EEa8Ju8BGm4h/120425
+
+
+
 
 
 
