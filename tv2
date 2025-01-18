@@ -357,9 +357,6 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", ASPEN CLASSIC 
 https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", RETRO CINEMA 
-http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", ROMANCE TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 
@@ -407,9 +404,6 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
 #EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AZINT.png?raw=true" group-title="INTERNACIONALES", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
-
-#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ENLCE.png?raw=true" group-title="RELIGIÓN", Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CALUZ.png?raw=true" group-title="RELIGIÓN", Canal Luz
 https://g4.proy-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
@@ -834,14 +828,8 @@ https://fl1004.bozztv.com/ssh101/zoytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5NsP8sg/mascin.jpg" group-title="CINE", +Cine Classic
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ypfp7ZJ/clover.jpg" group-title="SERIES", Clover Channel
-http://190.102.246.93:9005/play/a028
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="INTERNACIONALES", Caracol
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/78700
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5LgW92w/diti2.jpg" group-title="SERIES", Diti TV
-https://ssh101-fl.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQs2XoXN3loMr6UTK_y_DVpVtxWP9AxwAymBO2Hp9&s" group-title="MUSICA", CM MUSIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -858,9 +846,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 ch-number="313" tvg-id="DHE.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="CINE", DHE
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DHE_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3strKmwIw6s/Xj5BlA2hgCI/AAAAAAAABVY/5RMrXxrQcSMkV-vexE11oVaKBxoYESGiQCLcBGAsYHQ/s200/showtime%2Bbeyond.png" group-title="CINE", Showtime
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/86000
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CINE", Starz
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9727
 
@@ -869,6 +854,126 @@ http://venuschiletv.lat:8880/yimxcvyrbm/EEa8Ju8BGm4h/419108
 
 #EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/903b89c71c4f20c1f3dcca833dee414d.png" group-title="DEPORTES", TNT SPORTS CHILE 
 http://venuschiletv.lat:8880/yimxcvyrbm/EEa8Ju8BGm4h/120425
+
+#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES", Premier 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES", Premier 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#EXTINF:-1     tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES", Premier 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
+
+#EXTINF:-1     tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES", Premier 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+#EXTINF:-1  group-title="DEPORTES" tvg-logo="https://icon2.cleanpng.com/20180601/kql/avo0uye11.webp", PREMIER LIGUE ENG
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1  group-title="DEPORTES" tvg-logo="https://img.lavdg.com/sc/Js5nyPvTqrAZ8a62MiLvVakZDRA=/480x/2023/07/03/00121688410746863246752/Foto/imaga.jpg", LA LIGA 3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6 
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1  group-title="DEPORTES" tvg-logo="https://img.lavdg.com/sc/Js5nyPvTqrAZ8a62MiLvVakZDRA=/480x/2023/07/03/00121688410746863246752/Foto/imaga.jpg", LA LIGA 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71 
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1  group-title="DEPORTES" tvg-logo="https://img.lavdg.com/sc/Js5nyPvTqrAZ8a62MiLvVakZDRA=/480x/2023/07/03/00121688410746863246752/Foto/imaga.jpg", LA LIGA 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94 
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.m
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES", DAZN 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES", DAZN 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTFMbStnL4uHOCk2wdfst7lUIY6xFDebtRA&s" ,E40
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a065/index.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/2000px-Globo_logo_and_wordmark.svg.png"  ,Globo Brasil
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://181.78.27.128:8000/play/a068/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
