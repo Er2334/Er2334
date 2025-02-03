@@ -895,8 +895,14 @@ https://xyzdddd.mizhls.ru/lb/premium539/index.m3u8|Origin=https://weblivehdplay.
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium66/index.m3u8|Origin=https://weblivehdplay.ru/
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORT 2
+http://181.78.106.127:9000/play/ca037/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGION", EWTN
+http://181.78.106.127:9000/play/ca047/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/256x256/2015/11/13/165039_flag_256x256.png" group-title="DEPORTES", DAZN 4
+http://191.96.100.120:80/live/serdark/s141023k/188405.ts
 
 
 
