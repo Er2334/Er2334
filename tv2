@@ -450,14 +450,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVvbx2s/NOVELISIMA.png" group-title="NOVELAS", NOVELÍSIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1  tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="DEPORTES",SPORTV 
-#EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHWCVvwqw7PoUhXKAWFOX9Q3012UvjUn6iQ&s" group-title="DEPORTES",SPORTV 2
-#EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
-https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
-
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="NOVELAS", Novelas Turcas 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
@@ -507,24 +499,6 @@ https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
-#EXTINF:-1 group-title="CINE" ch-number="307" tvg-id="CineFamiliar" tvg-logo="https://dl.dropbox.com/scl/fi/gm3q3q2b642htogo7rer6/cinefamiliar.jpg?rlkey=kxz5r5o947slc63z7owrhrm70&dl=1", +Cine Familiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-http://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
-#EXTINF:-1 group-title="CINE" ch-number="308" tvg-id="CineHispano" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", +Cine Hispano
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-http://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
-#EXTINF:-1 group-title="CINE" ch-number="310" tvg-id="CinePremium" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", +Cine Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-http://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd
-
 #EXTINF:-1 tvg-logo="https://heroeip.github.io/logo/Hallmark_1.png" group-title="CINE", HALLMARK
 https://jmp2.uk/sam-US1300001GM.m3u8
 
@@ -562,9 +536,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_
 #KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
 #EXTINF:-1 tvg-chno="908" tvg-id="TBSSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTNO.png?raw=true" group-title="NOVELAS", TNT Novelas
 https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
-
-#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/262ad70d2f54a590841b7a7fae226fe3.png" group-title="DEPORTES", TUDN USA
-http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/182435
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stNp4PL/Logo-Cine-Kids.jpg" group-title="INFANTILES", Cine Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
@@ -659,9 +630,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSICA", Baraza TV Deep House
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/94327ab2f8c43038af8f371f8398cd56.png" group-title="MUSICA", MTV Classic
-http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/195774
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE", HBO FAMILY
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_family_Este_HD)/index.m3u8
 
@@ -679,9 +647,6 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_C
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="RELIGIÓN", ENLACE
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Enlace)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="INFANTILES", Moni TV HD
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE", WoW Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
@@ -723,12 +688,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="SERIES", MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="MUSICA", Tropical Music TV
-http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 4
-http://fivetv.org:25461/Darwin968/Mogollon482/41819
 
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS 2
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6849
@@ -788,11 +747,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a040/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="-"  , EVENTOS ECUADOR
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://177.53.155.236:8000/play/a0c4/index.m3u8
-
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-logo="-"  , RCN COLOMBIA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
@@ -815,12 +769,6 @@ http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2gcTYQz/DMJ.jpg" group-title="SERIES", DMJ
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="CINE", FMH Movies
-https://fl1004.bozztv.com/ssh101/zoytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5NsP8sg/mascin.jpg" group-title="CINE", +Cine Classic
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="INTERNACIONALES", Caracol
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/78700
@@ -909,8 +857,19 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES", DAZN la liga
-http://181.78.106.127:9000/play/ca027/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
