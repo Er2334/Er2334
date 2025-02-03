@@ -462,11 +462,14 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="MUSICA", VClassicTV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="MUSICA", VClassicTV Latino
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="MUSICA", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" grgroup-title="MUSICA", VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8230/ngrp:8230_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="MUSICA", Retro Plus TV
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
