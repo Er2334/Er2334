@@ -902,6 +902,7 @@ https://zonamovie.live:8443/play/NW5gRX09S8s-526DZ5_-V-IX7ei3PD8UMKXpplEAZqo/ts
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3582842156.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 (6)" tvg-logo="" group-title="DEPORTES" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DAZN 4
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -910,7 +911,8 @@ https://joaquinito02.es/vavoo/3582842156.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/1739393340.m3u8
 
-
+#EXTINF:-1, tvg-id="MTV80s.us" tvg-name="MTV 80s" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=84d7&deviceDNT=0&deviceModel=0
 
 
 
