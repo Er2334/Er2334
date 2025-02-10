@@ -944,7 +944,7 @@ http://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|re
 #EXTINF:-1 group-title="CINE" ch-number="310" tvg-id="CINE PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", Cine Premium
 http://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/
 
-#EXTINF:-1 ch-number="141" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS 2" content-type="playlist", Eventos Disney
+#EXTINF:-1 ch-number="141" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS" content-type="playlist", Eventos Disney
 http://francope.elementfx.com/disney/
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png" group-title="DEPORTES", DAZN 4
@@ -959,9 +959,11 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/155624.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" group-title="CINE", AMAZON PRIME
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/235571.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w6vZ5px/STARZESP.png" group-title="CINE", STARZ
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/167707.ts
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1653__Cine_Classic.png" group-title="CINE", +Cine Classic
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8?PlaylistM3UCL
 
 
 
