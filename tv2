@@ -950,9 +950,17 @@ http://francope.elementfx.com/disney/
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png" group-title="DEPORTES", DAZN 4
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/155625.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" group-title="CINE", NETFLIX 2
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/235580.ts
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png" group-title="DEPORTES", DAZN 3 
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/155624.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" group-title="CINE", AMAZON PRIME
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/235571.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w6vZ5px/STARZESP.png" group-title="CINE", STARZ
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/167707.ts
 
 
 
