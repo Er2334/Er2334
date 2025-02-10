@@ -662,9 +662,6 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="NACIONALES", ROCK & POP TV
 https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="CINE", AM Films
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="SERIES", BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -788,9 +785,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 ch-number="313" tvg-id="DHE.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="CINE", DHE
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DHE_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CINE", Starz
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9727
-
 #EXTINF:-1 tvg-logo="http://goldfull.pro:8880/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="DEPORTES", TUDN
 http://venuschiletv.lat:8880/yimxcvyrbm/EEa8Ju8BGm4h/419108
 
@@ -903,16 +897,67 @@ https://zonamovie.live:8443/play/NW5gRX09S8s-526DZ5_-V-IX7ei3PD8UMKXpplEAZqo/ts
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/3582842156.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 (6)" tvg-logo="" group-title="DEPORTES" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DAZN 4
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://joaquinito02.es/vavoo/1739393340.m3u8
-
 #EXTINF:-1, tvg-id="MTV80s.us" tvg-name="MTV 80s" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=84d7&deviceDNT=0&deviceModel=0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+#EXTINF:-1 ch-number="115" tvg-id="tyc2" tvg-name="Tyc sport 2" tvg-logo="https://i.ibb.co/ZJMgxxp/tyc-sports2.png" group-title="DEPORTES", TYC SPORTS 2
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ==
+#EXTINF:-1 group-title="DEPORTES" ch-number="116" tvg-id="dsports" tvg-name="610#DSPORTS (ARG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports Arg
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000021/index_fk.mpd?|origin=android_mobile.directvgo.com
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ==
+#EXTINF:-1 group-title="DEPORTES" ch-number="117" tvg-id="612#DSPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports 2 Arg
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000128/index_fk.mpd?|origin=android_mobile.directvgo.com
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dbskbhEGQVe1urIqeZ0piQ","k":"xJjyqXjCPyQLGPsXH9FQyA"},{"kty":"oct","kid":"8Zw6jGONUsKrd7lWa8splg","k":"dACp-QXxctXXTX3EQHJMjg"}],"type":"temporary"}
+#EXTINF:-1 group-title="DEPORTES" ch-number="118" tvg-id="613#DSPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports + Arg
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000139/index_fk.mpd?|User-Agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1|Origin=android_mobile.directvgo.com
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NrLGt3NqWQG_QIkWpFSr-Q","k":"m9fsG6gCpxZO2sqkk8I0fA"}],"type":"temporary"}
+#EXTINF:-1 group-title="DEPORTES" ch-number="119" tvg-id="615#DSPORTS Fight" tvg-name="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="DEPORTES", D Sports Fight
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000302/index_fk.mpd?|Origin=android_mobile.directvgo.com
+
+#EXTINF:-1 group-title="DEPORTES" ch-number="120" tvg-id="GolTVLatinAmerica.us.uy" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", Gol TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://45.189.108.146:1935/btnscrtn/goltv.stream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
+#EXTINF:-1 group-title="CINE" ch-number="307" tvg-id="CINE FAMILIAR" tvg-logo="https://dl.dropbox.com/scl/fi/gm3q3q2b642htogo7rer6/cinefamiliar.jpg?rlkey=kxz5r5o947slc63z7owrhrm70&dl=1", Cine Familiar
+http://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?|referer=https://player.sensa.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
+#EXTINF:-1 group-title="CINE" ch-number="308" tvg-id="CINE HISPANO" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", Cine Hispano
+http://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|referer=https://player.sensa.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
+#EXTINF:-1 group-title="CINE" ch-number="310" tvg-id="CINE PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", Cine Premium
+http://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/
+
+#EXTINF:-1 ch-number="141" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS 2" content-type="playlist", Eventos Disney
+http://francope.elementfx.com/disney/
+
+
+
+
 
 
 
