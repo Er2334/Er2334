@@ -952,8 +952,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8?PlaylistM3UCL
 
-
-
+#EXTINF:-1 ch-number="141" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes" content-type="playlist", Eventos Disney
+http://francope.elementfx.com/disney/
 
 
 
