@@ -818,7 +818,29 @@ https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd?|r
 #EXTINF:-1 tvg-id="PLUTO" tvg-logo="https://i.imgur.com/3zNwfze.png" group-title="MUSICA",VH1 Classics
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 ch-number="506" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/oyoz88f5hzgaua0nje1tp/mimusicaromantica.jpg?rlkey=a0qrjtsg6hxnxumqidg4nftzx&dl=1" group-title="MUSICA", Mi Música Romántica
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 ch-number="507" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/1yavhav8gktbcc4i9rwo9/mimusicareggaeton.jpg?rlkey=xshw7gl137ob57qqhee5f9xh3&dl=1" group-title="MUSICA", Mi Música Reggaetón
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 ch-number="508" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/3d937mfna3nsyxztl23cl/mimusicahits.jpg?rlkey=e4w2p44563gbkx4mx707ayiot&dl=1" group-title="MUSICA", Mi Música Hit
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 ch-number="509" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/jqpghihetk0a1eg0vzetj/mimusicapop.jpg?rlkey=nsvi3mswdrf3bjhm28d5oqztq&dl=1" group-title="MUSICA", Mi Música Pop
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
