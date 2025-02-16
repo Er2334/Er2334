@@ -842,7 +842,19 @@ https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|r
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="DEPORTES",DAZN 3 HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz2.com
+#EXTVLCOPT:http-referrer=https://streamdz2.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.periquitopan.store/dazn3/tracks-v1a1/mono.m3u8?md5=R0F0uOBJTh3inhBoMqJ7dQ&expires=1739737209
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="DEPORTES",DAZN 4 HD
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz2.com
+#EXTVLCOPT:http-referrer=https://streamdz2.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.periquitopan.store/dazn4/tracks-v1a1/mono.m3u8?md5=R0F0uOBJTh3inhBoMqJ7dQ&expires=1739737209
 
 
 
