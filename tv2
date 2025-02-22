@@ -821,15 +821,41 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DEPORTES", DIRECTV SPORTS
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/69547.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DEPORTES", DIRECTV SPORTS 2 
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/69549.ts
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/DirecTV_Plus_2005_logo.png/revision/latest?cb=20201023183946&path-prefix=es" group-title="DEPORTES", DIRECTV SPORTS +
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/9464.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FS1 MX
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/651652.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_2mx.png/1200px-Fox_Sports_2mx.png" group-title="DEPORTES", FS2 MX
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592007.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Fox_Sports_3mx.png" group-title="DEPORTES", FS3 MX
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592011.ts
 
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_640_360.png" group-title="CINE", FMH Movie
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/33504.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDgKFVj/proerws232.png" group-title="DEPORTES", UNIVERSO SPORTS
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/205618.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Sky Sports
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/439269.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES", Zapping Sports
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/2373.ts
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tntsports2.png" group-title="DEPORTES", TNT SPORTS PREMIUN 2
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/9807.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="CINE", MOVIE PARAMOUNT+ 
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/235589.ts
 
 
 
