@@ -512,21 +512,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stNp4PL/Logo-Cine-Kids.jpg" group-title="INFANTILES", Cine Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/win-sports.png" group-title="DEPORTES", Win Sports Plus
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/4971
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-Cono-Norte.png" group-title="DEPORTES", FS2 Mx
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/153
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-2-Latin-America.png" group-title="DEPORTES", FS1 Mx
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/152
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Fox-Sports-3-Latin-America.png" group-title="DEPORTES", FS3 Mx
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/151
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS PLUS
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/4970
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Family
 http://45.181.122.201:8081/play/a04j
 
@@ -591,15 +576,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="SERIES", MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS 2
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6849
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS +
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6850
-
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/directv-sports.jpg" group-title="DEPORTES", DIRECTV SPORTS
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6851
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine+ Romántico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
@@ -804,12 +780,6 @@ https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 group-title="CINE" ch-number="310" tvg-id="CinePremium" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/5175.png", +Cine Premium
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_09/57e3ec818a545_QuieroHD-.png.f88129c781d195c230ea3ddf963a2296.png" group-title="MUSICA",Quiero Musica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
@@ -844,6 +814,27 @@ https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|r
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="INFANTILES", Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CINE" ch-number="310" tvg-id="CinePremium" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", +Cine Premium
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
