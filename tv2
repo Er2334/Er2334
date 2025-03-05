@@ -509,15 +509,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_
 #EXTINF:-1 tvg-chno="908" tvg-id="TBSSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTNO.png?raw=true" group-title="NOVELAS", TNT Novelas
 https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/stNp4PL/Logo-Cine-Kids.jpg" group-title="INFANTILES", Cine Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Family
-http://45.181.122.201:8081/play/a04j
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", FMH kids
-http://45.181.122.201:8081/play/a04l
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSICA", Baraza TV Deep House
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
@@ -713,9 +704,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png" group-title="MUSICA", Music PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
 
@@ -745,9 +733,6 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/155624.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" group-title="CINE", MOVIE AMAZON
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/235571.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1653__Cine_Classic.png" group-title="CINE", +Cine Classic
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8?PlaylistM3UCL
