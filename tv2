@@ -486,11 +486,6 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logoq.png" group-title="INFANTILES", EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
-#EXTINF:-1 tvg-chno="409" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="CINE", Sony Movies
-https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="MUSICA", Baraza TV Deep House
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
@@ -666,9 +661,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png" group-title="MUSICA", Music PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1063_Vintage_Music.png" group-title="MUSICA", Vintage Music
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="EVENTOS", EVENTOS 1
 https://zonamovie.live:8443/play/NW5gRX09S8s-526DZ5_-V3HBmDPDIECkbX-kHCcFH7o/ts
