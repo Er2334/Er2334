@@ -797,15 +797,35 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/9807.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="CINE", MOVIE PARAMOUNT+ 
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/235589.ts
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
+#EXTINF:-1 ch-number="333" tvg-id="SonyMoviesLatinAmerica.us.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="CINE", Sony Movies
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
+#EXTINF:-1 ch-number="501" tvg-id="Canal De La Musica" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CMMUS.png?raw=true" group-title="MUSICA", CM
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
+#EXTINF:-1 ch-number="511" tvg-id="269#Quiero Música en mi Idioma" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="MUSICA", Quiero Musica
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
+#EXTINF:-1 ch-number="605" tvg-id="LasEstrellasLatinAmerica.mx.uy" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="INTERNACIONALES", Canal De Las Estrellas
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
+#EXTINF:-1 ch-number="622" tvg-id="TVChile.cl.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="INTERNACIONALES", TV Chile
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
 
