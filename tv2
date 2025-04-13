@@ -772,7 +772,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(univer
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=6236042
 ###https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc/SyFy.mpd###
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="CINE", Retro Plus 2
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="MUSICA", Retro Plus Tv 2
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus Cine
@@ -787,7 +787,7 @@ http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9566
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="DEPORTES", Directv Sports +
 http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9559
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/Dazn.png" group-title="DEPORTES", Dazn 3
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/Dazn.png" group-title="DEPORTES", DAZN 3
 http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103711
 
 
