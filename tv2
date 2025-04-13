@@ -765,6 +765,30 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/o
 #KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(universo-east)/master.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/760.png" group-title="CINE", FMH Movie
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent="FireFox"
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=6236042
+###https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc/SyFy.mpd###
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="CINE", Retro Plus 2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus Cine
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DEPORTES", Directv Sports
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9560
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="DEPORTES", Directv Sports 2
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9566
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="DEPORTES", Directv Sports +
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9559
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/Dazn.png" group-title="DEPORTES", Dazn 3
+http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/103711
 
 
 
