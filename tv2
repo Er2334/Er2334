@@ -821,6 +821,8 @@ http://redima.pro:8880/stalin2024/stalin2024/379
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" group-title="CINE", MULTICINE
 http://redima.pro:8880/stalin2024/stalin2024/381
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX DEPORTES TUBI
+https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/playlist.m3u8
 
 
 
