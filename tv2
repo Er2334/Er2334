@@ -861,6 +861,34 @@ https://live-evg25.tv360.bitel.com.pe/bitel/creokids/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="DEPORTES", FOX DEPORTES TUBI 2
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png" group-title="DEPORTES",DAZN 3 🇪🇸
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4641842b5824390a7fe8d4ec781031d:cd156815ef05dcc9fcc3626e7d52db79
+https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png" group-title="DEPORTES",DAZN 4 🇪🇸
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436c2164392e460dae41420f53f9f396:8e0ea1289135355f0aef59266bd0070e
+https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_t
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
