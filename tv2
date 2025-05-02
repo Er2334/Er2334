@@ -642,13 +642,10 @@ https://zonamovie.live:8443/play/NW5gRX09S8s-526DZ5_-V-IX7ei3PD8UMKXpplEAZqo/ts
 #EXTINF:-1, tvg-id="MTV80s.us" tvg-name="MTV 80s" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=84d7&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV 1
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV 2
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV 3
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV 2
 https://cdnhd.iblups.com/hls/4d596146c7256a24adc9aa30e52274.m3u8
 
 
@@ -706,9 +703,6 @@ https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|r
 #KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="INFANTILES", Retro Magico
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="CINE" ch-number="310" tvg-id="CinePremium" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", +Cine Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -812,9 +806,6 @@ http://tv.proyectox.vip:8080/congaturr2/1Up0mFd1il/9926
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX DEPORTES TUBI
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +Cine
-https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="DEPORTES",TUDN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -852,9 +843,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CREO LATINO
 https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE CLUB
-https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CREO KIDS
 https://live-evg25.tv360.bitel.com.pe/bitel/creokids/chunks.m3u8
 
@@ -876,33 +864,11 @@ http://190.102.246.93:9005/play/a03t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="DEPORTES", FOX DEPORTES TUBI 2
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png" group-title="DEPORTES",DAZN 3 🇪🇸
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4641842b5824390a7fe8d4ec781031d:cd156815ef05dcc9fcc3626e7d52db79
-https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", RETRO CINEMA
+http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png" group-title="DEPORTES",DAZN 4 🇪🇸
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=436c2164392e460dae41420f53f9f396:8e0ea1289135355f0aef59266bd0070e
-https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_t
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NFGNs5T/tudn.png" group-title="DEPORTES", TUDN 🇺🇸
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
-https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", ASPEN TV
+https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
 
 
 
