@@ -518,9 +518,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="SERIES", MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine+ Romántico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV Flow Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -847,13 +844,23 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports 2 US
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TENNIS CHANNEL 2
+https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", PLANETA JUNIOR TV
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/3a89a498229b9adc9cb8ed05535ab980/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", FMH KIDS
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine+ Romántico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine+ Romántico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="DEPORTES", Fox Deportes en Tubi 2
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 
 
