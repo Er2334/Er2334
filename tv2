@@ -785,7 +785,7 @@ http://181.78.106.127:9000/play/ca028/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SKY PREMIER
 http://181.78.106.127:9000/play/ca029/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECT TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECTV
 http://181.78.106.127:9000/play/ca026/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/4fb1bf42b5000f3b2941068618b260f1.png" group-title="DEPORTES", TENNIS CHANNEL
@@ -800,10 +800,17 @@ https://ssh101.bozztv.com/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus TV
 https://ssh101.bozztv.com/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECTV 2
+http://179.51.136.19:8000/play/a112/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports
+http://190.217.23.56:1010/play/a0eg/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports+ HD
+http://190.217.23.56:1010/play/a0et/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FUTBOL EC
+http://177.234.230.206:8011/play/a09z/index.m3u8
 
 
 
