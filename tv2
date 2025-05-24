@@ -776,6 +776,39 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SKY LA LIGA
+http://181.78.106.127:9000/play/ca030/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SKY BUNDESLIGA
+http://181.78.106.127:9000/play/ca028/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SKY PREMIER
+http://181.78.106.127:9000/play/ca029/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECT TV
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://mstrtv.com:25461/images/4fb1bf42b5000f3b2941068618b260f1.png" group-title="DEPORTES", TENNIS CHANNEL
+http://mstrtv.com:25461/lozanoizzi/ngPflVZVEH/49459
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="MUSICA", Retro Plus 1
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="MUSICA", Retro Plus 2
+https://ssh101.bozztv.com/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus TV
+https://ssh101.bozztv.com/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+
 
 
 
