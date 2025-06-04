@@ -771,31 +771,14 @@ https://sam-py-edge01.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf51
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus TV
 https://ssh101.bozztv.com/ssh101/retroplustv03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1352_Chilecito_TV.png" group-title="CINE", CINE CLUB
-https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1352_Chilecito_TV.png" group-title="INFANTILES", CREO KIDS
 https://live-evg25.tv360.bitel.com.pe/bitel/creokids/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1352_Chilecito_TV.png" group-title="NACIONALES", ÑANDEPORTETE TV
 https://live.enhdtv.com:19360/capiatatv/capiatatv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1352_Chilecito_TV.png" group-title="DEPORTES", DIRECTV 1
-http://magmaplayer.com/stream/secure/AmN0KmZkZy8lBQNmBwWuZQN6ZwNjAwcyZJRkBzR3AmN6LJMyZwbkZzLjBzWxZzWsZGp0AmVm.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1352_Chilecito_TV.png" group-title="DEPORTES", DIRECTV 2
-http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1352_Chilecito_TV.png" group-title="DEPORTES", DIRECTV PLUS
-http://magmaplayer.com/stream/m3u8/Awx5KmZkAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/314.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1352_Chilecito_TV.png" group-title="DEPORTES", FOX TUBI
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 
 
