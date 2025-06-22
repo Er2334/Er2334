@@ -682,7 +682,41 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE 2", CINE CLUB
+https://live-zlr1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
 
+#EXTINF:-1 group-title="CINE 2" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg",MEGACINE
+https://cnn.hostlagarto.com/megacinetv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26NfJ14K/sony-one-exitos.png" group-title="CINE 2",SONY ONE ÉXITOS
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbscjKn/sony-one-hits-accion.png" group-title="CINE 2",SONY ONE HITS ACCIÓN
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7nP8p9X/sony-one-hits-comedia.png" group-title="CINE 2",SONY ONE HITS COMEDIA
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g095cfnw/sony-one-blacklist.png" group-title="CINE 2",SONY ONE BLACKLIST
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBWvMkj6/sony-one-logo.png" group-title="CINE 2",SONY ONE CINEMA
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Peliculas
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Accion
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Comedia
+https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Romance
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
 
 
