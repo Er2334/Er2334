@@ -763,7 +763,26 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/402193.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-name="DIRECTV" tvg-logo="https://logo.iptveditor.com/tvdirect.png" cuid="5487",Directv
 http://novabox.club/live/conectStreax/K2tbMNebMW/402217.m3u8
 
+#EXTINF:0 group-title="DEPORTES" tvg-name="TNT SPORTD PREMIUM" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" cuid="5512",TNT SPORTS CHILE
+http://novabox.club/live/conectStreax/K2tbMNebMW/373193.m3u8
 
+#EXTINF:0 group-title="DEPORTES" tvg-name="VTV + 1" tvg-logo="https://logo.iptveditor.com/vtv1.png" cuid="5515",VTV PLUS
+http://novabox.club/live/conectStreax/K2tbMNebMW/368643.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="Win Sports + OP2" tvg-logo="https://logo.iptveditor.com/winsports.png" cuid="5557",Win Sports +
+http://novabox.club/live/conectStreax/K2tbMNebMW/176909.m3u8
+
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/coco.png"  group-title="CINE 2", COCO TV
+https://otakon.bemtv.cn/STREAM/8077/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/chochotv.png" group-title="CINE 2", ChoCho TV
+https://otakon.bemtv.cn/STREAM/8079/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQgTHDJzDv9sEtEIcrLzyhC8PwZ3fBjBAFxg&s" group-title="INFANTILES", El Chavo 
+https://otakon.bemtv.cn/STREAM/23447/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP4CgcL7oP9nzqB-FbNCyhOzXsn3tIEtfJSg&s" group-title="INFANTILES", Chespirito 
+https://metalgear.bemtv.cn/STREAM/23614/playlist.m3u8
 
 
 
