@@ -718,6 +718,56 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
+#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/band_sports.png" ch-number="19" channelid="-1" type="stream",Band Sports
+https://metalgear.bemtv.cn/STREAM/8318/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://meta.nordvpn.best/win-sportplusco.png" ch-number="19",Win Sports+
+https://metalgear.bemtv.cn/STREAM/6561/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/sportv_br.png" ch-number="20" channelid="-1" type="stream",Sport TV
+https://metalgear.bemtv.cn/STREAM/8316/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/sportv2_br.png" ch-number="21" channelid="-1" type="stream",Sport TV 2
+https://metalgear.bemtv.cn/STREAM/8314/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/sportv3_br.png" ch-number="22" channelid="-1" type="stream",Sport TV 3
+https://metalgear.bemtv.cn/STREAM/8312/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/dmx1.png" ch-number="43" channelid="-1" type="stream",Directv CO
+https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/dmx1.png" ch-number="44" channelid="-1" type="stream",Directv PE
+https://otakon.bemtv.cn/STREAM/21240/playlist.m3u8
+
+#EXTINF:0 group-title="CINE" tvg-name="Sony Movies HD" tvg-logo="https://logo.iptveditor.com/sonymovies.png" cuid="772",Sony Movies
+http://200.55.244.75:8000/play/a05k/index.m3u8
+
+#EXTINF:0 group-title="INTERNACIONALES" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" cuid="726",Canal de las Estrellas
+http://200.55.244.75:8000/play/a06z/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN MEXICO" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5416",TUDN MEXICO
+http://novabox.club/live/conectStreax/K2tbMNebMW/357670.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN USA" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5417",TUDN USA
+http://novabox.club/live/conectStreax/K2tbMNebMW/357672.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="Fox Deportes" tvg-logo="https://logo.iptveditor.com/foxdeportes.png" cuid="5482",Fox Deportes
+http://novabox.club/live/conectStreax/K2tbMNebMW/401550.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="Zapping Sports op2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRRwRYdLpXv2Vvq02XwltCMAcQHrrK-2tB3T928Wu1FneN6Pe5jTI9TUtjnVCsDX8mw.png" cuid="5484",Zapping Sports
+http://novabox.club/live/conectStreax/K2tbMNebMW/402191.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="ECDF 2" tvg-logo="http://novabox.club:80/images/fIC-K1r7WE5o2UFcBxyi5CGUCLqDqyyRmMAWMeMthHD6434B76Y2BBfC8_HDhTjo471TVkI0E6Uf4Ga65M0yEbmVmFnrB_sZUpwzH7PtZj8.png" cuid="5486",ECDF 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/402193.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="DIRECTV" tvg-logo="https://logo.iptveditor.com/tvdirect.png" cuid="5487",Directv
+http://novabox.club/live/conectStreax/K2tbMNebMW/402217.m3u8
+
+
+
+
+
+
 
 
 
