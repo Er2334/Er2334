@@ -531,9 +531,6 @@ https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
 #EXTINF:-1, tvg-id="MTV80s.us" tvg-name="MTV 80s" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=84d7&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES", Moni TV
-https://tv.arkeo.cl:19360/8134/8134.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="CINE",GOLDEN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
@@ -680,21 +677,11 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", RETRO CINEMA
 http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png"  group-title="NOVELAS",TNT NOVELAS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
-https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" group-title="MUSICA", Megaclassic TV
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="MUSICA", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/dream.png" group-title="INFANTILES", Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
-https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/318px-RCN_Novelas_lo5go_2019.png" group-title="NOVELAS", RCN NOVELAS
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(RCN_TELENOVELAS)/index.m3u8
