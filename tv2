@@ -797,12 +797,30 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="MUSICA", Retro Plus
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
+#EXTINF:-1 ch-number="491" tvg-id="350#Eternal Word TV Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/366/CH_LOGO/800/542/0/0/231984100764.png" group-title="RELIGION", EWTN
+https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
+#EXTINF:-1 group-title="RELIGION" ch-number="490" tvg-id="354#Canal LUZ (ARG)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/483/CH_LOGO/800/542/0/0/4012387807349.png", Canal Luz
+https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
+#EXTINF:-1 group-title="INTERNACIONALES" ch-number="624" tvg-id="VE PLUS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1761/CH_LOGO/800/542/0/0/2565660807177.png", Ve Plus
+https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
+#EXTINF:-1 ch-number="622" tvg-id="TV Chile.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2761/CH_LOGO/800/542/0/0/655345470739.png" group-title="INTERNACIONALES", TV Chile
+https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
+#EXTINF:-1 ch-number="511" tvg-id="Quiero.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/800/542/0/0/1882958007779.png" group-title="MUSICA", Quiero Música
+https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|referer=https://player.sensa.com.ar/&webtoken=
 
 
 
