@@ -815,8 +815,8 @@ https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd?|referer=https://playe
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", Quiero Musica
 http://200.55.244.75:8000/play/a02n/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Pelis kids
+https://stream.900444.xyz/live/peliskids.m3u8
 
 
 
