@@ -336,7 +336,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", HEI
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HEI_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="CINE", NEXT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="CINE 2", NEXT
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", SONY CINE
@@ -393,10 +393,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Radio Farra tv
 http://159.203.148.226/live/farra.m3u8
 
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE 2", MY TIME MOVIES 1
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE 2", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="MUSICA", VClassicTV
@@ -817,10 +817,18 @@ https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player
 #EXTINF:-1 ch-number="622" tvg-id="TV Chile.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2761/CH_LOGO/800/542/0/0/655345470739.png" group-title="INTERNACIONALES", TV Chile
 https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
-#EXTINF:-1 ch-number="511" tvg-id="Quiero.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/800/542/0/0/1882958007779.png" group-title="MUSICA", Quiero Música
-https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|referer=https://player.sensa.com.ar/&webtoken=
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", Quiero Musica
+http://200.55.244.75:8000/play/a02n/index.m3u8
+
+#EXTINF:-1  tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tudn-usa.png" group-title="DEPORTES",TUDN USA 2
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1  tvg-id="The.Tennis.Channel.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tennis-channel-us.png" group-title="DEPORTES",TENNIS CHANNEL
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MC9tb25vLm0zdTg=.m3u8
+
+
+
+
 
 
 
