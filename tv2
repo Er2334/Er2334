@@ -907,11 +907,14 @@ http://38.199.6.1:17001/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORTS 2
 http://181.78.106.127:9000/play/ca037/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DREAMWORKS
+http://181.78.106.127:9000/play/ca054/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MP CINE
+http://38.199.6.1:17001/play/a0di/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports Chile
+http://38.199.6.1:17001/play/a036/index.m3u8
 
 
 
