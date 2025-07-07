@@ -682,9 +682,6 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE 2", CINE CLUB
 https://live-zlr1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE 2" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg",MEGACINE
-https://cnn.hostlagarto.com/megacinetv/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26NfJ14K/sony-one-exitos.png" group-title="CINE 2",SONY ONE ÉXITOS
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 
@@ -715,21 +712,6 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
-#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/band_sports.png" ch-number="19" channelid="-1" type="stream",Band Sports
-https://metalgear.bemtv.cn/STREAM/8318/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://meta.nordvpn.best/win-sportplusco.png" ch-number="19",Win Sports+
-https://metalgear.bemtv.cn/STREAM/6561/playlist.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/sportv_br.png" ch-number="20" channelid="-1" type="stream",Sport TV
-https://metalgear.bemtv.cn/STREAM/8316/playlist.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/sportv2_br.png" ch-number="21" channelid="-1" type="stream",Sport TV 2
-https://metalgear.bemtv.cn/STREAM/8314/playlist.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-logo="http://meta.nordvpn.best/sportv3_br.png" ch-number="22" channelid="-1" type="stream",Sport TV 3
-https://metalgear.bemtv.cn/STREAM/8312/playlist.m3u8
-
 #EXTINF:0 group-title="CINE" tvg-name="Sony Movies HD" tvg-logo="https://logo.iptveditor.com/sonymovies.png" cuid="772",Sony Movies
 http://200.55.244.75:8000/play/a05k/index.m3u8
 
@@ -753,18 +735,6 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/402193.m3u8
 
 #EXTINF:0 group-title="DEPORTES" tvg-name="VTV + 1" tvg-logo="https://logo.iptveditor.com/vtv1.png" cuid="5515",VTV PLUS
 http://novabox.club/live/conectStreax/K2tbMNebMW/368643.m3u8
-
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/coco.png"  group-title="INFANTILES", COCO TV
-https://otakon.bemtv.cn/STREAM/8077/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/chochotv.png" group-title="CINE 2", ChoCho TV
-https://otakon.bemtv.cn/STREAM/8079/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQgTHDJzDv9sEtEIcrLzyhC8PwZ3fBjBAFxg&s" group-title="INFANTILES", El Chavo 
-https://otakon.bemtv.cn/STREAM/23447/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP4CgcL7oP9nzqB-FbNCyhOzXsn3tIEtfJSg&s" group-title="INFANTILES", Chespirito 
-https://metalgear.bemtv.cn/STREAM/23614/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-name="LA 1 MAX PERU OP3" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg",LIGA 1 PERU
 http://novabox.club/live/conectStreax/K2tbMNebMW/324101.m3u8
