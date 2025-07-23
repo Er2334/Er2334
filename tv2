@@ -950,15 +950,7 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
 
-#EXTINF:-1 group-logo="https://logos-world.net/wp-content/uploads/2023/03/Claro-Logo-2004.png" group-title="CLARO MX" tvg-logo="https://heroeip.github.io/logo/Espn1.png", ESPN 1 PY 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=011efcb86dc0c336c1bb61d602c71691:65439188fe819667ba31731f59c7c28b
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(AE_MUNDO_HD)/manifest.mpd
+
 
 
 
