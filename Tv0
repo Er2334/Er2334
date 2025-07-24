@@ -2111,17 +2111,8 @@ https://latintop.alwaysdata.net/cine_series/samples/gen/gen.php
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qfcz0zX/cine-retro-genial.png" group-title="CINE 2", Retro Cinema
 http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Telefuturo
-http://38.211.242.128:8001/play/a0ck/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", SNT
-http://38.211.242.128:8001/play/a0cj/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FAMYTEL
 http://38.211.242.128:8001/play/a0ei/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", C9N
-http://38.211.242.128:8001/play/a0d4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN
 http://181.78.106.127:9000/play/ca025/index.m3u8
@@ -2131,30 +2122,6 @@ http://181.78.106.127:9000/play/ca070/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
 http://181.78.106.127:9000/play/a0o8/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Unicanal
-http://190.128.129.83:8000/play/a03b/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TV CAMARA
-http://190.128.129.83:8000/play/a03k/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", NPY
-http://190.128.129.83:8000/play/a02s/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", SURTV
-http://190.128.129.83:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Trece
-http://190.128.129.83:8000/play/a029/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", La Tele
-http://190.128.129.83:8000/play/a03h/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", PARAVISION
-http://190.128.129.83:8000/play/a02p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", ParaguayTV
-http://190.128.129.83:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", El Chavo
 http://38.211.242.128:8001/play/a0et/index.m3u8
@@ -2189,13 +2156,17 @@ https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Rakuten TV Top Movies
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", C9N
+https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", UnionTV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", GO TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", LIM TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
 
 
 
