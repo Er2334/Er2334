@@ -1963,12 +1963,6 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
-#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN MEXICO" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5416",TUDN MEXICO
-http://novabox.club/live/conectStreax/K2tbMNebMW/357670.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN USA" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5417",TUDN USA
-http://novabox.club/live/conectStreax/K2tbMNebMW/357672.m3u8
-
 #EXTINF:0 group-title="DEPORTES" tvg-name="Fox Deportes" tvg-logo="https://logo.iptveditor.com/foxdeportes.png" cuid="5482",FOX DEPORTES EN TUBI
 http://novabox.club/live/conectStreax/K2tbMNebMW/401550.m3u8
 
@@ -1977,9 +1971,6 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/402191.m3u8
 
 #EXTINF:0 group-title="DEPORTES" tvg-name="ECDF 2" tvg-logo="http://novabox.club:80/images/fIC-K1r7WE5o2UFcBxyi5CGUCLqDqyyRmMAWMeMthHD6434B76Y2BBfC8_HDhTjo471TVkI0E6Uf4Ga65M0yEbmVmFnrB_sZUpwzH7PtZj8.png" cuid="5486",ECDF 2
 http://novabox.club/live/conectStreax/K2tbMNebMW/402193.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="VTV + 1" tvg-logo="https://logo.iptveditor.com/vtv1.png" cuid="5515",VTV PLUS
-http://novabox.club/live/conectStreax/K2tbMNebMW/368643.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-name="LA 1 MAX PERU OP3" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg",LIGA 1 PERU
 http://novabox.club/live/conectStreax/K2tbMNebMW/324101.m3u8
@@ -2049,7 +2040,7 @@ http://38.199.6.1:17001/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORTS 2
 http://181.78.106.127:9000/play/ca037/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FREE CINE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FREE TV
 http://38.199.6.1:17001/play/a0di/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports Chile
@@ -2111,12 +2102,14 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Música", Retro Plus TV 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE", Retro Plus Cine
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE 2", Retro Plus Cine
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://monumental.com.py/wp-content/uploads/2024/11/cropped-logo-webmonu-450x290-1.png" group-title="PARAGUAY", MONUMENTAL TV
+https://latintop.alwaysdata.net/cine_series/samples/gen/gen.php
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfcz0zX/cine-retro-genial.png" group-title="CINE 2", Retro Cinema
+http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 
 
 
