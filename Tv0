@@ -2156,7 +2156,8 @@ http://190.128.129.83:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", ParaguayTV
 http://190.128.129.83:8000/play/a02e/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", El Chavo
+http://38.211.242.128:8001/play/a0et/index.m3u8
 
 
 
