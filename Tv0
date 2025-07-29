@@ -1703,7 +1703,7 @@ https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player
 #EXTINF:-1 group-title="Mundo" ch-number="625" tvg-id="UCL.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/160/160/0/0/62763250072541.png", UCL
 https://cdn.sensa.com.ar/bpk-tv/UCL/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine, Novelas y Series", NEXT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="PARAGUAY", NEXT
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", SONY CINE
@@ -1792,36 +1792,6 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="Música", TRACE BRASIL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
-
-#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES", Premier 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-
-#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES", Premier 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
-#EXTINF:-1     tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="DEPORTES", Premier 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
 
 #EXTINF:-1  group-title="DEPORTES" tvg-logo="https://icon2.cleanpng.com/20180601/kql/avo0uye11.webp", PREMIER LIGUE ENG
 #EXTVLCOPT:network-caching=1000
@@ -1959,9 +1929,6 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/401550.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-name="Zapping Sports op2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRRwRYdLpXv2Vvq02XwltCMAcQHrrK-2tB3T928Wu1FneN6Pe5jTI9TUtjnVCsDX8mw.png" cuid="5484",Zapping Sports
 http://novabox.club/live/conectStreax/K2tbMNebMW/402191.m3u8
 
-#EXTINF:0 group-title="DEPORTES" tvg-name="ECDF 2" tvg-logo="http://novabox.club:80/images/fIC-K1r7WE5o2UFcBxyi5CGUCLqDqyyRmMAWMeMthHD6434B76Y2BBfC8_HDhTjo471TVkI0E6Uf4Ga65M0yEbmVmFnrB_sZUpwzH7PtZj8.png" cuid="5486",ECDF 2
-http://novabox.club/live/conectStreax/K2tbMNebMW/402193.m3u8
-
 #EXTINF:-1 group-title="DEPORTES" tvg-name="LA 1 MAX PERU OP3" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg",LIGA 1 PERU
 http://novabox.club/live/conectStreax/K2tbMNebMW/324101.m3u8
 
@@ -2006,18 +1973,6 @@ https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/rawlight3/espn6.stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0GB6FW/worldtv2.png" group-title="ESPN" ch-number="19" type="channel",ESPN 7 PE
 https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/rawlight3/espn7.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DSPORTS +
-http://38.211.242.128:8001/play/a05h/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DSPORTS 1
-http://38.211.242.128:8001/play/a09s/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DSPORTS 2
-http://38.211.242.128:8001/play/a05g/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Mundo", AMERICA TV PE
-http://38.211.242.128:8001/play/a04i/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", +FMH Family
 http://38.199.6.1:17001/play/a0uh/index.m3u8
 
@@ -2030,7 +1985,7 @@ http://38.199.6.1:17001/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORTS 2
 http://181.78.106.127:9000/play/ca037/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FREE TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FREE TV
 http://38.199.6.1:17001/play/a0di/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports Chile
@@ -2101,20 +2056,11 @@ https://latintop.alwaysdata.net/cine_series/samples/gen/gen.php
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qfcz0zX/cine-retro-genial.png" group-title="CINE 2", Retro Cinema
 http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FAMYTEL
-http://38.211.242.128:8001/play/a0ei/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN
-http://181.78.106.127:9000/play/ca025/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
 http://181.78.106.127:9000/play/ca070/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
 http://181.78.106.127:9000/play/a0o8/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", El Chavo
-http://38.211.242.128:8001/play/a0et/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Rakuten TV Action
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
