@@ -2104,6 +2104,27 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", LIM TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
+#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN MEXICO" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5416",TUDN MEXICO
+http://novabox.club/live/conectStreax/K2tbMNebMW/357670.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN USA" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5417",TUDN USA
+http://novabox.club/live/conectStreax/K2tbMNebMW/357672.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="DIRECTV" tvg-logo="https://logo.iptveditor.com/tvdirect.png" cuid="5487",DIRECTV 1
+http://novabox.club/live/conectStreax/K2tbMNebMW/402217.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="DSPORTS ECUADOR" tvg-logo="https://logo.iptveditor.com/dsports.png" cuid="5488",DIRECTV 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/402218.m3u8
+
+#EXTINF:0 group-title="DEPORTES" tvg-name="SPORTV 2 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv2.png" cuid="5531",SPORTS TV 2
+http://novabox.club/live/conectStreax/K2tbMNebMW/355857.m3u8
+
+
+
+
+
+
+
 
 
 
