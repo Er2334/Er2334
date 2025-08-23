@@ -943,7 +943,8 @@ http://fullgo.xyz:8880/FernandoMalinarich/cued7tYpkf4A/440359
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="EVENTOS", TIGO SPORT (EVENTOS 2)
 http://fullgo.xyz:8880/FernandoMalinarich/cued7tYpkf4A/440361
 
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="DEPORTES", TIGO SPORT 24/7
+http://fullgo.xyz:8880/FernandoMalinarich/cued7tYpkf4A/440360
 
 #EXTINF:-1 tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx7996qffWXXSKQkgw7zQcUIUKzkt7Gn4Kbj1JicwSI5xHdltZ1Ho4ggEIY1L0bFjJig.png" group-title="DEPORTES", DAZN 1
 https://nxt.plus:8443/carlost/01234/256560.ts
@@ -954,16 +955,14 @@ https://nxt.plus:8443/carlost/01234/25277.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn3-hd.png" group-title="DEPORTES", DAZN 3
 https://nxt.plus:8443/carlost/01234/28955.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn4-hd.png" group-title="DEPORTES", DAZN 4
+https://nxt.plus:8443/carlost/01234/28956.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn-f1.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY ⭐️", (OFFLINE) DAZN F1 ᴴᴰ
-https://nxt.plus:8443/carlost/01234/60439.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn-f1-hd.png" group-title="DEPORTES", DAZN F1
+https://nxt.plus:8443/carlost/01234/25278.ts
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn-f1.png" group-title="DEPORTES", DAZN F1
-https://nxt.plus:8443/carlost/01234/60439.ts
 
 
 
