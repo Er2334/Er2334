@@ -961,7 +961,20 @@ https://nxt.plus:8443/carlost/01234/28956.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn-f1-hd.png" group-title="DEPORTES", DAZN F1
 https://nxt.plus:8443/carlost/01234/25278.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBV3w140/Cineen-Espanol.png" group-title="CINE", Cine En Español
+https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQb6sxDv/Canela-Cinema.png" group-title="CINE", Canela Cinema
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png" group-title="CINE", AMC en Español
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png" group-title="MUSICA", Stingray Everything '80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1  tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="CINE",COCO TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 
 
