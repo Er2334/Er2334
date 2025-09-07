@@ -1,4 +1,4 @@
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3a12a9a2d6e53a809b59df41a8475ca:9c19cb876dce492531443aae9eea0a2d
@@ -858,11 +858,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/NBC_Universo_logo.svg" group-title="DEPORTES ", UNIVERSO NBC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(universo-east)/master.mpd?|referer=https://web.app.flow.com.ar/|o
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" , FS Premium
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -954,15 +949,6 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
-#EXTINF:0 group-title="DEPORTES" tvg-name="Fox Deportes" tvg-logo="https://logo.iptveditor.com/foxdeportes.png" cuid="5482",FOX DEPORTES EN TUBI
-http://novabox.club/live/conectStreax/K2tbMNebMW/401550.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="Zapping Sports op2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRRwRYdLpXv2Vvq02XwltCMAcQHrrK-2tB3T928Wu1FneN6Pe5jTI9TUtjnVCsDX8mw.png" cuid="5484",Zapping Sports
-http://novabox.club/live/conectStreax/K2tbMNebMW/402191.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" tvg-name="LA 1 MAX PERU OP3" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg",LIGA 1 PERU
-http://novabox.club/live/conectStreax/K2tbMNebMW/324101.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTIL", Moni TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 
@@ -1004,20 +990,8 @@ https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/rawlight3/espn6.stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0GB6FW/worldtv2.png" group-title="ESPN" ch-number="19" type="channel",ESPN 7 PE
 https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/rawlight3/espn7.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", +FMH Family
-http://38.199.6.1:17001/play/a0uh/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", +FMH KIDS
-http://38.199.6.1:17001/play/a0dh/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", +FMH Movies
-http://38.199.6.1:17001/play/a0dm/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORTS 2
 http://181.78.106.127:9000/play/ca037/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FREE TV
-http://38.199.6.1:17001/play/a0di/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports Chile
 http://38.199.6.1:17001/play/a036/index.m3u8
@@ -1030,15 +1004,6 @@ http://38.199.6.1:17001/play/a036/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 #KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
 https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS", LIVE+
-http://190.128.129.83:8000/play/a03n/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS", LIVE
-http://190.128.129.83:8000/play/a03m/index.m3u8
-
-#EXTINF:-1 tvg-name="Mega cine" tvg-logo="https://i.ibb.co/H4Hxv9B/2893-294x165-FFFFFF-11zon.webp" group-title="CINE 2", Mega cine
-https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="DEPORTES", SPORTS TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1134,21 +1099,6 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", LIM TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN MEXICO" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5416",TUDN MEXICO
-http://novabox.club/live/conectStreax/K2tbMNebMW/357670.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN USA" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5417",TUDN USA
-http://novabox.club/live/conectStreax/K2tbMNebMW/357672.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="DIRECTV" tvg-logo="https://logo.iptveditor.com/tvdirect.png" cuid="5487",DIRECTV 1
-http://novabox.club/live/conectStreax/K2tbMNebMW/402217.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="DSPORTS ECUADOR" tvg-logo="https://logo.iptveditor.com/dsports.png" cuid="5488",DIRECTV 2
-http://novabox.club/live/conectStreax/K2tbMNebMW/402218.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="SPORTV 2 (MAS)" tvg-logo="https://logo.iptveditor.com/sportv2.png" cuid="5531",SPORTS TV 2
-http://novabox.club/live/conectStreax/K2tbMNebMW/355857.m3u8
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboccZ149JUF1i93WrNR4HW4Rd3ZdDJ7sBYWl5jEKGLVE29tko7Celc8k&s=10",Golden Multiplex
 #EXTVLCOPT:network-caching=1000
@@ -1271,7 +1221,21 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 4 HD
 http://fivetv.org:25461/Darwin968/Mogollon482/41819
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQb6sxDv/Canela-Cinema.png" group-title="CINE 2, Canela Cinema
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png" group-title="CINE 2, AMC en Español
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png" group-title="Música, Stingray Everything '80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1  tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="MUNDO",COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1  tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE",Xtrema Accion
+#EXTVLCOPT:http-referrerttps://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 
 
