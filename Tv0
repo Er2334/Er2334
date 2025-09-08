@@ -1237,6 +1237,33 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", CINE KIDS
 https://stream.900444.xyz/live/peliskids.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg" group-title="PARAGUAY", CANAL PRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
+https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7681/CH_LOGO/60/40/0/0/93493116074020.png" group-title="PARAGUAY", ABC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
+https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdkSYeQWCAiOfwvbcT8MiabXYI6ehMHTw3A&s" group-title="PARAGUAY", 5 DIAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
+https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
