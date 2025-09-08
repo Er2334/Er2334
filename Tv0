@@ -1221,19 +1221,16 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 4 HD
 http://fivetv.org:25461/Darwin968/Mogollon482/41819
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQb6sxDv/Canela-Cinema.png" group-title="CINE 2, Canela Cinema
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png" group-title="CINE 2, AMC en Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZDX8gGd/Amc-Espa-ol.png" group-title="CINE 2", AMC en Español
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png" group-title="Música, Stingray Everything '80s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png" group-title="Música", Stingray Everything '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1  tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="MUNDO",COCO TV (720p)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
-#EXTINF:-1  tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE",Xtrema Accion
+#EXTINF:-1  tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE 2",Xtrema Accion
 #EXTVLCOPT:http-referrerttps://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
