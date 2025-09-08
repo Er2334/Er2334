@@ -1234,8 +1234,8 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTVLCOPT:http-referrerttps://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", CINE KIDS
+https://stream.900444.xyz/live/peliskids.m3u8
 
 
 
