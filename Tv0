@@ -1249,6 +1249,48 @@ https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dream
 https://tigocloudgen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w2012384391.m3u8?K=dd3667f7cdf9c31c6282e16698b1013f282c441d5246bc378e3fa26a73826a7382d10&exp=1757354181
 
 
+#EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="DEPORTES", DAZN 1
+http://185.194.217.48:25461/Salvador/Salvador/127817
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdKG6V1v/DAZN.png" group-title="DEPORTES", DAZN 2
+http://185.194.217.48:25461/Salvador/Salvador/101526
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdKG6V1v/DAZN.png" group-title="DEPORTES", DAZN 4
+http://185.194.217.48:25461/Salvador/Salvador/101528
+
+#EXTINF:-1 tvg-logo="http://dplatino.net:8080/images/625fa0bfdb706073072b1d52884d47c6.jpg" group-title="CINE 3", AXN Movies
+http://185.194.217.48:25461/Salvador/Salvador/127930
+
+#EXTINF:-1 tvg-logo="http://dplatino.net:8080/images/2b93d0cbaaaf3dcc38addb1e4481fd76.jpg" group-title="CINE 3", M+Acción
+http://185.194.217.48:25461/Salvador/Salvador/127885
+
+#EXTINF:-1 tvg-logo="http://dplatino.net:8080/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="CINE 3", M+Comedia
+http://185.194.217.48:25461/Salvador/Salvador/127887
+
+#EXTINF:-1 tvg-logo="http://dplatino.net:8080/images/b2d0a20cd796243dd997abd858f48a20.jpg" group-title="CINE 3", M+Clasicos
+http://185.194.217.48:25461/Salvador/Salvador/127908
+
+#EXTINF:-1 tvg-logo="http://dplatino.net:8080/images/cbd345c098acfab190236276763b673c.jpg" group-title="CINE 3", M+Drama
+http://185.194.217.48:25461/Salvador/Salvador/127890
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToht20sbPhR797s_XqX35WR2trO6nXwuuHxDsKnHIeFt7OVYUBmmYjA_RZz3XUQfHMeLs&usqp=CAU" group-title="CINE 3", M+Estrenos
+http://185.194.217.48:25461/Salvador/Salvador/127879
+
+#EXTINF:-1 tvg-logo="http://dplatino.net:8080/images/2b0c10777105ad2e7ae27d16bdcf24db.jpg" group-title="CINE 3", SUNDANCE
+http://185.194.217.48:25461/Salvador/Salvador/127901
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/SkyShowtime_app_icon.png/revision/latest/scale-to-width-down/1000?cb=20220920061705" group-title="CINE 3", M+Skyshowtime
+http://185.194.217.48:25461/Salvador/Salvador/127919
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuYGSErO7zFBkp0jfi6CvExEOrgNw4T4lqg&s" group-title="CINE 3", M+Hits
+http://185.194.217.48:25461/Salvador/Salvador/127881
+
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="CINE 3", HOLLYWOOD
+http://185.194.217.48:25461/Salvador/Salvador/647
+
+
+
+
 
 
 
