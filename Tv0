@@ -1288,6 +1288,16 @@ http://185.194.217.48:25461/Salvador/Salvador/127881
 #EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="CINE 3", HOLLYWOOD
 http://185.194.217.48:25461/Salvador/Salvador/647
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdKG6V1v/DAZN.png" group-title="DEPORTES", DAZN 3
+http://185.194.217.48:25461/Salvador/Salvador/620
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN LA LIGA
+http://185.194.217.48:25461/Salvador/Salvador/595
+
+#EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="DEPORTES", DAZN F1
+http://185.194.217.48:25461/Salvador/Salvador/127823
+
+
 
 
 
