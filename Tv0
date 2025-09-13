@@ -1297,8 +1297,50 @@ http://185.194.217.48:25461/Salvador/Salvador/595
 #EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="DEPORTES", DAZN F1
 http://185.194.217.48:25461/Salvador/Salvador/127823
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1658181282503745539/xUtW5q0n_400x400.jpg" group-title="DEPORTES", DSPORTS ECUADOR
+https://593zona.live:8443/play/C0jOhC6KX5lxElQb3WWINc7sHBOT7tvg4uazTtKkZbw/ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X78fnHpK/Proyectox-Cinema-8.png" group-title="CINEMA", Cinema Accion
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95609
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1f7b4Wb/Proyectox-Cinema-10.png" group-title="CINEMA", Animacion
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95610
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5wYppV/Proyectox-Cinema-11.png" group-title="CINEMA", Aventura
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95612
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqBfj4Bp/Proyectox-Cinemax-10.png" group-title="CINEMA", Belico
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95614
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RbTpzH7/Proyectox-Cinemax-4.png" group-title="CINEMA", Comedia
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95620
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ttnccgF/Proyectox-Cinema-24.png" group-title="INFANTIL", Disney Animacion
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95622
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QTfJzsp/Proyectox-Cinema-22.png" group-title="INFANTIL", Disney Animacion
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95623
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hN2YhYP/Proyectox-Cinema.png" group-title="INFANTIL", Disney Live Action
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95624
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8jvr6mH/Proyectox-Cinema-26.png" group-title="CINEMA", Dramas
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95626
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj83Cq2X/Proyectox-Cinemax-1.png" group-title="CINEMA", Familiar
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95630
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ZXfX1L/Proyectox-Cinema-31.png" group-title="CINEMA", Fantasia
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95631
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnNwfrc7/Proyectox-Cinema-30.png" group-title="CINEMA", Infantiles
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95632
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hxh01Vxq/Proyectox-Cinemax-9.png" group-title="CINEMA", Sagas
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/94985
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CINE", Golden Plus
+http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/9661
 
 
 
