@@ -875,18 +875,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", PELIS TV
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX CLASSIC
-http://190.102.246.93:9005/play/a03h
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX FAMILY
-http://190.102.246.93:9005/play/a03i
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX PRIME
-http://190.102.246.93:9005/play/a03t
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="DEPORTES", FOX DEPORTES TUBI 2
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" group-title="Música", Megaclassic TV
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
 
@@ -1248,65 +1236,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="PARAGUAY", ROCK & POP TV 2
 https://tigocloudgen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w2012384391.m3u8?K=dd3667f7cdf9c31c6282e16698b1013f282c441d5246bc378e3fa26a73826a7382d10&exp=1757354181
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1658181282503745539/xUtW5q0n_400x400.jpg" group-title="DEPORTES", DSPORTS ECUADOR
-https://593zona.live:8443/play/C0jOhC6KX5lxElQb3WWINc7sHBOT7tvg4uazTtKkZbw/ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X78fnHpK/Proyectox-Cinema-8.png" group-title="CINEMA", Cinema Accion
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95609
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1f7b4Wb/Proyectox-Cinema-10.png" group-title="CINEMA", Animacion
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95610
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5wYppV/Proyectox-Cinema-11.png" group-title="CINEMA", Aventura
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95612
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqBfj4Bp/Proyectox-Cinemax-10.png" group-title="CINEMA", Belico
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95614
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RbTpzH7/Proyectox-Cinemax-4.png" group-title="CINEMA", Comedia
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95620
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ttnccgF/Proyectox-Cinema-24.png" group-title="INFANTIL", Disney Animacion
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95622
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QTfJzsp/Proyectox-Cinema-22.png" group-title="INFANTIL", Disney Animacion
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95623
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hN2YhYP/Proyectox-Cinema.png" group-title="INFANTIL", Disney Live Action
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95624
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8jvr6mH/Proyectox-Cinema-26.png" group-title="CINEMA", Dramas
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95626
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj83Cq2X/Proyectox-Cinemax-1.png" group-title="CINEMA", Familiar
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95630
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ZXfX1L/Proyectox-Cinema-31.png" group-title="CINEMA", Fantasia
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95631
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnNwfrc7/Proyectox-Cinema-30.png" group-title="CINEMA", Infantiles
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/95632
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hxh01Vxq/Proyectox-Cinemax-9.png" group-title="CINEMA", Sagas
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/94985
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CINE", Golden Plus
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/9661
-
-#EXTINF:-1 tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANjec5xXfqRvHlG1BRCE7KN8jhTtbE1jwDvq0Ep2-pccvQWN1sjXBDxP8xutJ8AvUok.png" group-title="DEPORTES", DAZN 1
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/94464
-
-#EXTINF:-1 tvg-logo="http://live.detodotvplay.com:8080/images/kS9zs_PQ3NKANBoyhKJl-WV_7LqI9qQN_ZMv5_Aiqdk3ymMyiQq-eRUmhwraSKO1n5tFgnMOtKNDn1an7O419E2PCIR7yQ-YveZjdVSVSmo.png" group-title="DEPORTES", DAZN 2
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/94465
-
-#EXTINF:-1 tvg-logo="https://logos.xbots.com.mx/307521.png" group-title="DEPORTES", DAZN F1
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/94466
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="DEPORTES", Dazn La Liga
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/94467
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/Dazn.png" group-title="DEPORTES", DAZN 3
-http://tv.masterplaytv.club:8080/marytrillo27/5296b0af6735/103711
 
 
 
