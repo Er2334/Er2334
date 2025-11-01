@@ -953,26 +953,40 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=bc52afcf354dd1ecad24b3ec7949f154:69d953bf75252d754bc43a493c27884a
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE8MX_HD)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Edge
+http://209.45.81.84:8000/play/a042/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden HD
+http://209.45.81.84:8000/play/a03s/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family HD
+http://209.45.81.84:8000/play/a04f/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Gol TV
+http://209.45.81.84:8000/play/a054/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", GolPeru
+http://209.45.81.84:8000/play/a03r/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Movistar Deportes
+http://209.45.81.84:8000/play/a03q/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", LIGA 1 Max
+http://209.45.81.84:8000/play/a00c/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", WEST HD
+http://38.199.6.1:17001/play/a0wn/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 2
+http://38.199.6.1:17001/play/a0dh/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Premiere
+http://38.199.6.1:17001/play/a0dj/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Fun Box
+http://38.199.6.1:17001/play/a0d4/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sport
+http://217.26.190.76:8888/play/a06a/index.m3u8
 
 
