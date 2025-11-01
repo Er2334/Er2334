@@ -989,4 +989,14 @@ http://38.199.6.1:17001/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sport
 http://217.26.190.76:8888/play/a06a/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
+http://181.119.86.68:8000/play/b044/index.m3u8
+
+
+
+
+
+
+
+
 
