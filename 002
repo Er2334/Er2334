@@ -545,11 +545,6 @@ https://cdn.cvattv.com.ar/live/c7eds//Telemundo_HD/SA_Live_dash_enc/Telemundo_HD
 https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
-#EXTINF:-1 ch-number="115" tvg-id="TyC Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png" group-title="Deportes", Sensa Eventos
-https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
 #EXTINF:-1 group-title="Cine" ch-number="307" tvg-id="CINE FAMILIAR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/160/160/0/0/38183247075481.png", Cine Familiar
 https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
@@ -974,10 +969,10 @@ http://209.45.81.84:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", LIGA 1 Max
 http://209.45.81.84:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", WEST HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", WEST HD
 http://38.199.6.1:17001/play/a0wn/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Premiere 2
 http://38.199.6.1:17001/play/a0dh/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Premiere
@@ -992,7 +987,7 @@ http://217.26.190.76:8888/play/a06a/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
 http://181.119.86.68:8000/play/b044/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png" group-title="PARAGUAY", LA TELE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png" group-title="PARAGUAY", UNIMAS HD
 http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94383.ts
 
 #EXTINF:-1 tvg-logo="http://flx.lat:8080/images/f3cf574727502c0bd62f03d23d887925.png" group-title="PARAGUAY", PARAVISION  FHD
@@ -1015,6 +1010,18 @@ http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94393.ts
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/ecj6rN4NNqyZEIVUuQCsrU3lBjxVA_vmTKqgX8BaM5WYt80yYR5AAcmoJNbjMw6isy9BMIYEoqsrkFfuIh9qHZoGru0CvLBrQ1WlFx7XS3qt61P80v5nBKzvkoH9Vyp4qjVMnWNLWtP4vD5oh6lV8ODRMBYdBEwjgyYvXMoTUXbBPtjG8LcfhAbZ-QfhEwqs2t0z7GsB4FFs1_pFgDga17OIp3ZyVTuf" group-title="PARAGUAY", ABC tv
 http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94395.ts
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
