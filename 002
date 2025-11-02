@@ -1011,13 +1011,40 @@ http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94393.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/ecj6rN4NNqyZEIVUuQCsrU3lBjxVA_vmTKqgX8BaM5WYt80yYR5AAcmoJNbjMw6isy9BMIYEoqsrkFfuIh9qHZoGru0CvLBrQ1WlFx7XS3qt61P80v5nBKzvkoH9Vyp4qjVMnWNLWtP4vD5oh6lV8ODRMBYdBEwjgyYvXMoTUXbBPtjG8LcfhAbZ-QfhEwqs2t0z7GsB4FFs1_pFgDga17OIp3ZyVTuf" group-title="PARAGUAY", ABC tv
 http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94395.ts
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY", Sur TV.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?|origin=https://web.app.flow.com.py
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.popular.com.py/wp-content/themes/popular/images/new-popu-tv-2.png" group-title="PARAGUAY", Popu TV.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
+https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd?|origin=https://web.app.flow.com.py
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png"  group-title="PARAGUAY", Unicanal.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|origin=https://web.app.flow.com.py
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/d5c3ad0/2147483647/strip/true/crop/1665x1152+0+0/resize/400x277!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F0d%2F757573ac4c0bba7301c7a61a424d%2Flogo-latele.png"  group-title="PARAGUAY", latele.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
+https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd?|origin=https://web.app.flow.com.py
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png"  group-title="PARAGUAY", NTPY.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
+https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd?|origin=https://web.app.flow.com.py
 
+#EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20230220/ourmid/pngtree-paraguay-flag-pin-badge-png-image_6610303.png"  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/01/Canal-Trece-Paraguay-en-vivo-Online-1.png"   group-title="PARAGUAY", El Trece.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|origin=https://web.app.flow.com.py
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="PARAGUAY", MEGA TV.py
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
+https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd?|origin=https://web.app.flow.com.py
 
 
 
