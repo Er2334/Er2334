@@ -992,10 +992,29 @@ http://217.26.190.76:8888/play/a06a/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
 http://181.119.86.68:8000/play/b044/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png" group-title="PARAGUAY", LA TELE HD
+http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94383.ts
 
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/f3cf574727502c0bd62f03d23d887925.png" group-title="PARAGUAY", PARAVISION  FHD
+http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94386.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="PARAGUAY", SNT HD
+http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94387.ts
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1D-d0TjwChUBOrteOTQwx-WU-C50T9JtfniY2G27b7LDpLO7L5LYhOuE-mAbfdfp-gWZ3-x5NA=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", TELEFUTURO FHD
+http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94389.ts
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0MB4rhwiHP2w7qFVf4Q6Dw7DsKXBV7ugRu3NGPe8qGeI_1rBsr00s0V94jkCs2wCsTAW3d71=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", PARAGUAY TV HD
+http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94390.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3vrIluQJ8RQBuvgkOmrqZxu-rg3ILvkv5hIpd18HZQMHsaJTRzP2WeTa8RM28RTGF_BpuZDqMz4=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", RCC
+http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94391.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2fPqcI-0--SzOZ-HwgWXIAXr_HxdalNsHw&s" group-title="PARAGUAY", C9N 2
+http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94393.ts
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/ecj6rN4NNqyZEIVUuQCsrU3lBjxVA_vmTKqgX8BaM5WYt80yYR5AAcmoJNbjMw6isy9BMIYEoqsrkFfuIh9qHZoGru0CvLBrQ1WlFx7XS3qt61P80v5nBKzvkoH9Vyp4qjVMnWNLWtP4vD5oh6lV8ODRMBYdBEwjgyYvXMoTUXbBPtjG8LcfhAbZ-QfhEwqs2t0z7GsB4FFs1_pFgDga17OIp3ZyVTuf" group-title="PARAGUAY", ABC tv
+http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94395.ts
 
 
 
