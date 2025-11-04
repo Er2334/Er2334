@@ -1465,12 +1465,41 @@ https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?|referer=https://player.sen
 #EXTINF:-1 ch-number="" tvg-id="Crea TV" tvg-logo="https://i.postimg.cc/qvPBY6X9/https://geo.edge.pontiscloud.com:9002/images/2539/CH_LOGO/160/160/0/0/61169282279262.png" group-title="Música", CREA TV
 https://cdn.sensa.com.ar/output/SMT7/VtxD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN
+http://217.26.190.76:8888/play/a0ee/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2
+http://217.26.190.76:8888/play/a0kp/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3
+http://217.26.190.76:8888/play/a0k0/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 4
+http://217.26.190.76:8888/play/a0jy/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5
+http://217.26.190.76:8888/play/a0kh/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
+http://217.26.190.76:8888/play/a0fa/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
+http://217.26.190.76:8888/play/a0g2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN Premium
+http://217.26.190.76:8888/play/a0es/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports
+http://217.26.190.76:8888/play/a0e9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT HD
+http://217.26.190.76:8888/play/a0do/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DirecTV
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DirecTV +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 
 
