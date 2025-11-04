@@ -509,7 +509,7 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/TVGALICIASD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=2ce0d00cf2a4eb71e1f70f06e2b7d3d4:ceb983f224593c2fbc75a75a6ec92c06
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/NHKHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/160/160/0/0/95118087071584.png?worldtv2 " group-title="INTERNACIONALES", AANDE
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/160/160/0/0/95118087071584.png?worldtv2 " group-title="CULTURALES", A&E
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baef272fb12886463f3b299ac6b4ffa6:bc285ae166674480abb4966f4a306327
@@ -527,7 +527,7 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ADULTSWIMHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=d014b4c7f22d490f56e2d7d3fe125c15:69864ad4b98d06e9fcf2430ed67b6c33
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/BANDAMAXHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKwKgsvt/bitme.png|WORLDTV2" group-title="INTERNACIONALES", Bitme
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKwKgsvt/bitme.png|WORLDTV2" group-title="CINE, NOVELAS Y SERIES", Bitme
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
@@ -581,7 +581,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISCOVERYWORLDHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=e69f7cb969df2eef1b60ddea0458bfef:12ec40e04cf8c533cf306321052726a8
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/DISTRITOCOMEDIAHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/312/CH_LOGO/160/160/0/0/477606810750.png?worldtv2 " group-title="CINE, NOVELAS Y SERIES", E! Entertainment
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/312/CH_LOGO/160/160/0/0/477606810750.png?worldtv2 " group-title="INTERNACIONALES", E! Entertainment
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66a5d89630a3e2263f63f42221a4f3e8:362b8d4aa289042e473ed064a722611b
@@ -605,7 +605,7 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/FOODNETHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ce1ec3e2402a170cbe13b79ce9bb30f:82fdcfde32cc02673547e58b50e2b5ae
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/FXHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDhxYxG6/holatv.png" group-title="CULTURALES", Hola TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDhxYxG6/holatv.png" group-title="INTERNACIONALES", Hola TV
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3324372c149efbd4755e94a5989f4eef:8ed2cae763c527146b490acb667e3221
@@ -755,7 +755,7 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/USAHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/WARNERHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8zpfgqD/stingray-music.png" group-title="MEXICO", Viva México
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8zpfgqD/stingray-music.png" group-title="MUSICA", Viva México
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad326d130bed72124c4b653e07b9f1f3:5b961a4988db590fb83581ff4e2b66e7
@@ -797,7 +797,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/TNTHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="CINE", SKY Sports 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="DEPORTES", SKY Sports 2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
@@ -1018,6 +1018,23 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOSIGNATUREHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
