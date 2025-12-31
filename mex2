@@ -1730,13 +1730,29 @@ http://45.160.12.200:8008/play/122/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX old
 http://45.160.12.200:8008/play/123/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", ETC TV
+http://45.160.12.200:8008/play/007/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TELEFUTURO 2
+http://200.80.230.124:8000/play/a0am/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTICINEMA
+http://186.33.40.97:8789/play/13
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FREETV-DRAMA
+http://204.157.232.39:53200/play/a0an
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FREETV-ESTELAR
+http://204.157.232.39:53200/play/a0aq
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FREETV-FAMILIA
+http://204.157.232.39:53200/play/a0ap
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FREETV-SURENO
+http://204.157.232.39:53200/play/a0ao
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FREETV-ACCION
+http://204.157.232.39:53200/play/a0ar
 
 
 
