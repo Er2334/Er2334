@@ -1676,10 +1676,82 @@ https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?|referer=https://pla
 #EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="DEPORTES", TNT Sports Arg 2
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="PARAGUAY", RPC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79e82a9d50a24829980cb16f7b85fb2b:b22ab8b9d6f7e2ebac354a12dd4f91a6
-https://apps.playme.com.ar/dash/CH_SONYMOVIES/playlist.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVDIQUdiXpQAaZfNTOqZWrwpxC8KMJvHZ6g&s" group-title="INFANTILES", MONI TV
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HPieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="PARAGUAY", ABC TV 
+https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/aide2636/live.isml/.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MIC AVI REWIND
+http://179.49.163.34:45000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH MOVIES 1
+http://201.218.140.30:9000/play/a089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Clover
+http://201.218.140.30:9000/play/a07y
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", FMH KIDS
+http://201.218.140.30:9000/play/a01e
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FUEGO TV
+http://201.218.140.30:9000/play/a01b
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZj4LkCp/FMH-FAMILY.jpg" group-title="CINE", FMH FAMILY 1
+http://204.157.232.39:53200/play/a0aa
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xt1q4jGh/adult-swim.png" group-title="INFANTILES", FMH KIDS 2
+http://45.160.12.200:8008/play/015/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Animotion
+http://45.160.12.200:8008/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Atlas
+http://45.160.12.200:8008/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Family 2
+http://45.160.12.200:8008/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Movies 2
+http://45.160.12.200:8008/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", Kizzi
+http://45.160.12.200:8008/play/a06u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX Drama HD
+http://45.160.12.200:8008/play/120/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX Classic HD
+http://45.160.12.200:8008/play/121/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX Prime HD
+http://45.160.12.200:8008/play/122/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX old
+http://45.160.12.200:8008/play/123/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
