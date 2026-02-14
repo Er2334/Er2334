@@ -1650,36 +1650,13 @@ https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TEL
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="PARAGUAY"  , C9N Paraguay
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="PARAGUAY"  , C9N
 https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_C/C9N_C4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="DEPORTES", ESPN Premium Arg 1
-https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png" group-title="DEPORTES", ESPN Premium Arg 2
-https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
-#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="DEPORTES", TNT Sports Arg 1
-https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="DEPORTES", TNT Sports Arg 2
-https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVDIQUdiXpQAaZfNTOqZWrwpxC8KMJvHZ6g&s" group-title="INFANTILES", MONI TV
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HPieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="PARAGUAY", ABC TV 
-https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/aide2636/live.isml/.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH MOVIES 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH MOVIES
 http://201.218.140.30:9000/play/a089
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Clover
@@ -1687,42 +1664,6 @@ http://201.218.140.30:9000/play/a07y
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", FMH KIDS
 http://201.218.140.30:9000/play/a01e
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XZj4LkCp/FMH-FAMILY.jpg" group-title="CINE", FMH FAMILY 1
-http://204.157.232.39:53200/play/a0aa
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xt1q4jGh/adult-swim.png" group-title="INFANTILES", FMH KIDS 2
-http://45.160.12.200:8008/play/015/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Atlas
-http://45.160.12.200:8008/play/a06x/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Family 2
-http://45.160.12.200:8008/play/a06s/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Movies 2
-http://45.160.12.200:8008/play/a06r/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", Kizzi
-http://45.160.12.200:8008/play/a06u/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX Drama HD
-http://45.160.12.200:8008/play/120/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX Classic HD
-http://45.160.12.200:8008/play/121/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX Prime HD
-http://45.160.12.200:8008/play/122/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", MX old
-http://45.160.12.200:8008/play/123/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", ETC TV
-http://45.160.12.200:8008/play/007/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TELEFUTURO 2
-http://200.80.230.124:8000/play/a0am/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTICINEMA
 http://186.33.40.97:8789/play/13
