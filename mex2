@@ -1181,74 +1181,6 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOSIGNATUREHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
-#EXTINF:-1 group-title="Cine" ch-number="307" tvg-id="CINE FAMILIAR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/160/160/0/0/38183247075481.png", Cine Familiar
-https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
-#EXTINF:-1 group-title="Cine" ch-number="308" tvg-id="CINE HISPANO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/160/160/0/0/47205068074564.png", Cine Hispano
-https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
-#EXTINF:-1 group-title="Cine" ch-number="310" tvg-id="CINE PREMIUM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1807/CH_LOGO/160/160/0/0/30781400075257.png", Cine Premium
-https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
-#EXTINF:-1 group-title="Música" ch-number="503" tvg-id="MI MUSICA ROMANTICA" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png", Mi Música Romántica
-https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
-#EXTINF:-1 group-title="Música" ch-number="504" tvg-id="MI MUSICA REGGAETON" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png", Mi Música Reggaetón
-https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
-#EXTINF:-1 group-title="Música" ch-number="505" tvg-id="MI MUSICA HITS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png", Mi Música Hits
-https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
-#EXTINF:-1 group-title="Música" ch-number="506" tvg-id="MI MUSICA K-POP" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png", Mi Música K-Pop
-https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ade94a8e7881a2ba8b3ae3185ed5ad5d:350ba306783e66182b55b761d6cff6d1
-#EXTINF:-1 ch-number="507" tvg-id="MTV HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="Música", MTV
-https://cdn.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=886601a4fdbcbfebacbabfebcb72a9ef:6513b2b8fda2b4d2f3d940c621e1c30e
-#EXTINF:-1 group-title="Música" ch-number="510" tvg-id="MTV LIVE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/864/CH_LOGO/160/160/0/0/71442745071244.png", MTV Live
-https://cdn.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
-#EXTINF:-1 ch-number="511" tvg-id="Quiero.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/160/160/0/0/1882958007779.png" group-title="Música", Quiero Música
-https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=930f2b33864637faf2b2dab6c8d0ba92:530e6561cc4197e9eab7bf7b6f35a3ed
-#EXTINF:-1 group-title="Música" ch-number="516" tvg-id="TELEHIT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/311/CH_LOGO/160/160/0/0/182616500734.png", TeleHit Música Plus
-https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6075bd0304bd40812aaa2a113b30be24:98c85fae2ce02017573a23fad09a8dfa
-#EXTINF:-1 ch-number="518" tvg-id="elfolclorico" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/160/160/0/0/46266908079132.png" group-title="Música", El Folklórico
-https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="519" tvg-id="billboard" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/160/160/0/0/12050400077728.png" group-title="Música", Billboard TV
-https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
-#EXTINF:-1 ch-number="" tvg-id="Crea TV" tvg-logo="https://i.postimg.cc/qvPBY6X9/https://geo.edge.pontiscloud.com:9002/images/2539/CH_LOGO/160/160/0/0/61169282279262.png" group-title="Música", CREA TV
-https://cdn.sensa.com.ar/output/SMT7/VtxD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN
 http://217.26.190.76:8888/play/a0ee/index.m3u8
 
@@ -1282,21 +1214,6 @@ http://217.26.190.76:8888/play/a0co/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DirecTV +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
-#EXTINF:-1 ch-number="111" tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Deportes", FOX Sports
-https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be
-#EXTINF:-1 ch-number="112" tvg-id="FOX Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="Deportes", FOX Sports 2
-https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68
-#EXTINF:-1 ch-number="113" tvg-id="FOX Sports 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="Deportes", FOX Sports 3
-https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="PARAGUAY", ROCK & POP TV
 https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
 
@@ -1315,23 +1232,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc5
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", MTV Rocks
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="DEPORTES" , POKER TOUR esp
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", IBIZA TV
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2gcTYQz/DMJ.jpg" group-title="Cine, Novelas y Series", DMJ
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="INTERNACIONALES", Caracol
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/78700
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png" group-title="Música", TOP TV
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="Música", TRACE BRASIL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png" group-title="Música", Music PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
@@ -1374,9 +1282,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="Música", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yijitpa.png" group-title="Cine, Novelas y Series", Sony Novelas
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playli
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Música", Retro Plus TV 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
@@ -1440,9 +1345,6 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", C9N
-https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
@@ -1457,13 +1359,6 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YZ1Y9P4/Stingray.png" group-title="Música", Stingray Everything '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1  tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="INTERNACIONALES",COCO TV (720p)
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
-#EXTINF:-1  tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE 2",Xtrema Accion
-#EXTVLCOPT:http-referrerttps://xtrematv.com/?p=1434
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="PARAGUAY", ROCK & POP TV 2
 https://tigocloudgen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w2012384391.m3u8?K=dd3667f7cdf9c31c6282e16698b1013f282c441d5246bc378e3fa26
@@ -1526,9 +1421,6 @@ http://38.199.6.1:17001/play/a0d4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sport
 http://217.26.190.76:8888/play/a06a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
-http://181.119.86.68:8000/play/b044/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", WEST HD
 http://38.199.6.1:17001/play/a0wn/index.m3u8
