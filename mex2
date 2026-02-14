@@ -1596,6 +1596,77 @@ https://joy.nx-pc.edge-apps.net/hls/3la6l-e802j-1ekem-6k9o6.m3u8
 #EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="DEPORTES",ESPN arg
 https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", GEN PY
+http://181.78.27.128:12543/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", LA TELE PY
+http://181.78.27.128:12543/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", NPY IPTV
+http://181.78.27.128:12543/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", ROCK AND POP PY
+http://181.78.27.128:12543/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TRECE PY
+http://181.78.27.128:12543/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", UNICANAL  PY
+http://181.78.27.128:12543/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Abc Tv PY
+http://181.78.27.128:12543/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Almaya Tv PY
+http://181.78.27.128:12543/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", C9N PY
+http://181.78.27.128:12543/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORT
+http://181.78.27.128:12543/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORT arg 2
+http://181.78.27.128:12543/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORT arg 3
+http://181.78.27.128:12543/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORT arg
+http://181.78.27.128:12543/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", PARAGUAY TV PY
+http://181.78.27.128:12543/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", PARAVISION PY
+http://181.78.27.128:12543/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", POPU TV PY
+http://181.78.27.128:12543/play/a057/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", SNT PY
+http://181.78.27.128:12543/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", SUR TV PY
+http://181.78.27.128:12543/play/a03g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TV CAMARA PY
+http://181.78.27.128:12543/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", PAKA PAKA
+http://181.78.27.128:12543/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE, NOVELAS Y SERIES", A&E HD
+http://181.78.27.128:12543/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", CM
+http://190.7.19.197:232/play/a094/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TYC SPORT HD
+http://181.78.27.128:12543/play/a04n/index.m3u8
+
+
+
 
 
 
