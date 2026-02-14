@@ -1561,7 +1561,19 @@ http://204.157.232.39:53200/play/a0ao
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", FREETV-ACCION
 http://204.157.232.39:53200/play/a0ar
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4c230dbc7f6a4bfa6ad0aa73ff792374":"4186a7c2a15f590a9399886feaec4257"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="DEPORTES", ESPN Premium arg
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtoken&token=3574401799
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bc80fa3da696e503f940fde5f681a1c5":"ea46e4e9f1132e8dd71fb77f7d55058a"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 108" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="DEPORTES", TNT Sports arg
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstoken&token=3574401799
 
 
 
