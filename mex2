@@ -1575,16 +1575,26 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtoken&token=3574
 #EXTINF:-1 108" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="DEPORTES", TNT Sports arg
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstoken&token=3574401799
 
+#EXTINF:0 tvg-id="CINE PREMIUM.ar" tvg-name="CINE PREMIUM" CUID="76" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345688/s1gwqr9b7ipbxy4jm2cp.png" group-title="CINE",CINE PREMIUM
+https://joy.nx-pc.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
 
+#EXTINF:0 tvg-id="CINE FAMILIAR.ar" tvg-name="CINE FAMILIAR" CUID="77" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345713/ikagari0fl7tttbrotfb.png" group-title="CINE",CINE FAMILIAR
+https://joy.nx-pc.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 
+#EXTINF:0 tvg-id="CINE HISPANO.ar" tvg-name="CINE HISPANO" CUID="78" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345736/dustkhfhwtbduu0zrl5n.png" group-title="CINE",CINE HISPANO
+https://joy.nx-pc.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
 
+#EXTINF:0 tvg-id="MULTIPREMIER.ar" tvg-name="MULTIPREMIER" CUID="44" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346044/hzxoskqpdbco2grcfs1k.png" group-title="CINE",MULTIPREMIER
+https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
 
+#EXTINF:0 tvg-id="DHE.ar" tvg-name="DHE" CUID="78" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcDmRkdIMcNM8GEajhM_SxqrX4TR3xWtJA_pApMUNEnVI8qGBvb_rjAUOwmZ3_VAE7VIRMBmxvxrXzj7U6kDU9qRIUCQKeORIxhDElltMI_P0e1dHgBQ8bWI49ah79c78ZJsH5-K4mLZ2-cJWt3mWQ1TfVnkRRIwEELPK8zX0WkZ2qb3bJJnOWbs6ushI/s320/DHE.png" group-title="CINE",DHE
+https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
 
+#EXTINF:0 tvg-id="QUIERO MUSICA EN MI IDIOMA.ar" tvg-name="QUIERO MUSICA EN MI IDIOMA" CUID="103" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346240/iva94ooqr6f8kvptmgmr.png" group-title="Música",QUIERO MUSICA
+https://joy.nx-pc.edge-apps.net/hls/3la6l-e802j-1ekem-6k9o6.m3u8
 
-
-
-
-
+#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="DEPORTES",ESPN arg
+https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
 
 
