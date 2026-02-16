@@ -1668,8 +1668,7 @@ http://181.78.27.128:12543/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Telefuturo PY
 http://181.78.27.128:12543/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Estrellas hd
-https://sitsastr2.qvixsolutions.com/stsa_estrellashd/index.mpd?token=d6ccd79305fd1364cd1d1a28f799023271f84483-2R4z-1766283974-1766268674
+
 
 
 
