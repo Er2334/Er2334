@@ -1668,8 +1668,8 @@ http://181.78.27.128:12543/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Telefuturo PY
 http://181.78.27.128:12543/play/a016/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0M7nrJY/educanal.png" group-title="PARAGUAY 2", EDUCANAL
+https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
 
 
