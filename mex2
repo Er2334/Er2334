@@ -1668,7 +1668,7 @@ http://181.78.27.128:12543/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Telefuturo PY
 http://181.78.27.128:12543/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0M7nrJY/educanal.png" group-title="PARAGUAY 2", EDUCANAL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0M7nrJY/educanal.png" group-title="PARAGUAY", EDUCANAL
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", VENUS MEDIA
@@ -1725,8 +1725,17 @@ http://live.btv.mx:2424/stream/168727/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECTV 2
 http://live.btv.mx:2424/stream/278976/smAVz_uhytj5REM-4pYNZbkrcB2
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png" group-title="Música", Mi Música Romántica
+https://lilac01.pontiscloud.com/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png" group-title="Música", Mi Música Reggaetón
+https://lilac01.pontiscloud.com/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png" group-title="Música", Mi Música Hits
+https://lilac01.pontiscloud.com/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="Música", Mi Música K-Pop
+https://lilac01.pontiscloud.com/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 
 
