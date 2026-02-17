@@ -1671,54 +1671,64 @@ http://181.78.27.128:12543/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0M7nrJY/educanal.png" group-title="PARAGUAY 2", EDUCANAL
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", COSMOS TV
-https://rds3gen.desdeparaguay.net/cosmostv/cosmostv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", VENUS MEDIA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", VENUS MEDIA
 https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", ROCK AND POP 
-https://rds3gen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", ÑANDUTÍ TV
-https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", MONUMENTAL TV 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", MONUMENTAL TV 
 https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", E40 TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", E40 TV
 https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", LA TELE 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", LA TELE 
 https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", NPY
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", NPY 2
 https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", TELEFUTURO 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TELEFUTURO 2
 https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", GEN TV 
-https://tigocloud.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", EL TRECE 
-https://tigocloud.desdeparaguay.net/trecetv/trecetv_alta/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", UNICANAL 
-https://tigocloud.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", SNT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", SNT 2
 https://dp7xchau0hnq3.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", C9N
-https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY 2", MEGA TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", MEGA TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", CLASSIC +
 http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 1
+http://live.btv.mx:2424/stream/168568/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 2
+http://live.btv.mx:2424/stream/168564/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 3
+http://live.btv.mx:2424/stream/168563/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 4
+http://live.btv.mx:2424/stream/168562/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 5
+http://live.btv.mx:2424/stream/168561/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 6
+http://live.btv.mx:2424/stream/168560/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 7
+http://live.btv.mx:2424/stream/168559/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX DC
+http://live.btv.mx:2424/stream/168727/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECTV 2
+http://live.btv.mx:2424/stream/278976/smAVz_uhytj5REM-4pYNZbkrcB2
+
+
+
+
+
 
 
 
