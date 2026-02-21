@@ -1436,5 +1436,32 @@ http://live.btv.mx:2424/stream/278892/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="CINE 2", CLASSIC +
 http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DirecTV+
+http://38.199.6.1:17001/play/a0vx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 2
+http://38.199.6.1:17001/play/a0dh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
+http://38.199.6.1:17001/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
+http://186.33.40.97:8789/play/28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
