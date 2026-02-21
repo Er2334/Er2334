@@ -1433,8 +1433,8 @@ http://live.btv.mx:2424/stream/286235/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="DEPORTES", DIRECTV
 http://live.btv.mx:2424/stream/278892/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="PARAGUAY",
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="CINE 2", CLASSIC +
+http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
 
 
 
