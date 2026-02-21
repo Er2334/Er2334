@@ -21,7 +21,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a01b52a
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", IBIZA TV
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="INTERNACIONALES", Caracol
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="MUNDO", Caracol
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/78700
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png" group-title="Música", TOP TV
@@ -265,13 +265,10 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=bc52afcf354dd1ecad24b3ec7949f154:69d953bf75252d754bc43a493c27884a
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE8MX_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TyC Sports
-http://38.199.6.1:17001/play/a05x/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", RCN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", RCN
 http://38.199.6.1:17001/play/a04w/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TVN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TVN
 http://38.199.6.1:17001/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE, NOVELAS Y SERIES", Novelisima
@@ -392,9 +389,6 @@ http://181.78.27.128:12543/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", PARAVISION PY
 http://181.78.27.128:12543/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", POPU TV PY
-http://181.78.27.128:12543/play/a057/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", SNT PY
 http://181.78.27.128:12543/play/a03e/index.m3u8
 
@@ -404,17 +398,8 @@ http://181.78.27.128:12543/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TV CAMARA PY
 http://181.78.27.128:12543/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", PAKA PAKA
-http://181.78.27.128:12543/play/a04x/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE, NOVELAS Y SERIES", A&E HD
 http://181.78.27.128:12543/play/a01v/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", CM
-http://190.7.19.197:232/play/a094/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TYC SPORT HD
-http://181.78.27.128:12543/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Telefuturo PY
 http://181.78.27.128:12543/play/a016/index.m3u8
@@ -470,12 +455,6 @@ http://live.btv.mx:2424/stream/278976/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTM3U url-tvg="https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
 
 nacionales, aire y noticias
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
-#EXTINF:-1 group-title="Argentina"  tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png" tvg-group="Noticias", A24 (clave cambia cada día)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://mplus.pontiscloud.com/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
@@ -607,7 +586,7 @@ https://mplus.pontiscloud.com/bpk-tv/ChacraTV/default/index.mpd?|referer=https:/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1161/CH_LOGO/160/160/0/0/62114771072283.png" group-title="Corrientes", T5 Satelital
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1161/CH_LOGO/160/160/0/0/62114771072283.png" group-title="Argentina", T5 Satelital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://mplus.pontiscloud.com/bpk-tv/T5Satelital/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
