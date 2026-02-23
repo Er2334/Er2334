@@ -443,14 +443,90 @@ http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DirecTV+
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 2
-http://38.199.6.1:17001/play/a0dh/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
 http://38.199.6.1:17001/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
 http://186.33.40.97:8789/play/28
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN
+http://186.33.40.97:8789/play/20
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2
+http://186.33.40.97:8789/play/21
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3
+http://186.33.40.97:8789/play/19
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 4
+http://186.33.40.97:8789/play/57
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5
+http://186.33.40.97:8789/play/54
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
+http://186.33.40.97:8789/play/56
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
+http://186.33.40.97:8789/play/51
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM 2
+http://186.33.40.97:8789/play/22
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", AMC
+http://201.218.140.30:9000/play/a06c
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", CREO LATINO
+http://201.218.140.30:9000/play/wser
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", ETC
+http://201.218.140.30:9000/play/a093
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden
+http://201.218.140.30:9000/play/a08o
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Studio Universal
+http://201.218.140.30:9000/play/a09f
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT
+http://201.218.140.30:9000/play/a092
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT 2
+http://201.218.140.30:9000/play/a08v
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", TNT Novelas
+http://201.218.140.30:9000/play/a07c
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", TNT Series
+http://201.218.140.30:9000/play/a07m
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", MI TV CLASICA
+http://201.218.140.30:9000/play/a07p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", RETRO MAGICO
+http://201.218.140.30:9000/play/a09y
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", RETRO TV ONLINE
+http://201.218.140.30:9000/play/a09s
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", RETRO TV PALMARES
+http://201.218.140.30:9000/play/a09r
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", RETRO X PLUS
+http://201.218.140.30:9000/play/a09u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", MTV
+http://201.218.140.30:9000/play/a048
+
+
+
+
+
+
+
+
+
+
 
 
 
