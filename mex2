@@ -671,6 +671,33 @@ http://38.199.6.1:17001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Las Estrellas
 http://38.199.6.1:17001/play/a06d/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinemax
+http://201.218.140.30:9000/play/a08m
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", America TV EC
+http://38.199.6.1:17001/play/a0aw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
+http://38.199.6.1:17001/play/a0un/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
