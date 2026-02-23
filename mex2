@@ -665,9 +665,11 @@ http://38.199.6.1:17001/play/a05x/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", USA
 http://38.199.6.1:17001/play/a0px/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", Pasiones
+http://38.199.6.1:17001/play/a03z/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Las Estrellas
+http://38.199.6.1:17001/play/a06d/index.m3u8
 
 
 
