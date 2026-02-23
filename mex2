@@ -461,7 +461,7 @@ http://186.33.40.97:8789/play/54
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
 http://186.33.40.97:8789/play/56
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", De Pelicula
 http://186.33.40.97:8789/play/51
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM 2
@@ -571,6 +571,72 @@ http://38.199.6.1:17001/play/a0xt/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telesur
 http://38.199.6.1:17001/play/a0dp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine Latino
+http://38.199.6.1:17001/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinecanal
+http://38.199.6.1:17001/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinemax
+http://38.199.6.1:17001/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoon Network
+http://38.199.6.1:17001/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoonito
+http://38.199.6.1:17001/play/a0gr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney
+http://38.199.6.1:17001/play/a040/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney Junior
+http://38.199.6.1:17001/play/a0s8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery H&H
+http://38.199.6.1:17001/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery
+http://38.199.6.1:17001/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery HGTV
+http://38.199.6.1:17001/play/a0de/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Discovery Kids
+http://38.199.6.1:17001/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Science
+http://38.199.6.1:17001/play/a0dd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Theater
+http://38.199.6.1:17001/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Turbo
+http://38.199.6.1:17001/play/a0bf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery World
+http://38.199.6.1:17001/play/a052/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
