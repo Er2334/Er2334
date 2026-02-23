@@ -413,9 +413,6 @@ http://live.btv.mx:2424/stream/298424/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="CINE", WARNER
 http://live.btv.mx:2424/stream/278454/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="CINE", AMAZON PRIME
-http://live.btv.mx:2424/stream/168557/smAVz_uhytj5REM-4pYNZbkrcB2
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="INFANTILES", ULTRA KIDS
 http://live.btv.mx:2424/stream/180637/smAVz_uhytj5REM-4pYNZbkrcB2
 
@@ -479,7 +476,7 @@ http://201.218.140.30:9000/play/wser
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", ETC
 http://201.218.140.30:9000/play/a093
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN 
 http://201.218.140.30:9000/play/a08o
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Studio Universal
@@ -575,8 +572,17 @@ http://38.199.6.1:17001/play/a0xt/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telesur
 http://38.199.6.1:17001/play/a0dp/index.m3u8
 
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Cinemax
-https://broker.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="WIN SPORTS", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png", WIN SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2747488564e7e1f8e0f8bb25d349e3ba:edbcebc4f3b9ac228eed0cc29739bc0c
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="DEPORTES" tvg-id="WIN PREMIUM", tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png", WIN SPORTS +
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
 
 
 
