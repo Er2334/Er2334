@@ -51,9 +51,6 @@ https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DIOS TV KIDS 
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zxjmbLC/toonz-kids.png" group-title="INFANTILES", TOONZ KIDS
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Música", RETRO MUSIC TELEVISION
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -491,9 +488,6 @@ http://201.218.140.30:9000/play/a09f
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT
 http://201.218.140.30:9000/play/a092
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT 2
-http://201.218.140.30:9000/play/a08v
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", TNT Novelas
 http://201.218.140.30:9000/play/a07c
 
@@ -518,14 +512,68 @@ http://201.218.140.30:9000/play/a09u
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", MTV
 http://201.218.140.30:9000/play/a048
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", A&E
+http://201.218.140.30:9000/play/a03u
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox sport Arg
+http://201.218.140.30:9000/play/a08n
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox sport 2 Arg
+http://201.218.140.30:9000/play/a08x
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox sport 3 Arg
+http://201.218.140.30:9000/play/a08y
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
+http://38.199.6.1:17001/play/a05e/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
+http://38.199.6.1:17001/play/a06i/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
+http://38.199.6.1:17001/play/a056/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO MUNDI
+http://38.199.6.1:17001/play/a0yj/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO POP
+http://38.199.6.1:17001/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
+http://38.199.6.1:17001/play/a0by/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Signature
+http://38.199.6.1:17001/play/a0bz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO XTREME
+http://38.199.6.1:17001/play/a06j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", UNIVERSAL CHANNEL
+http://38.199.6.1:17001/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", UNIVERSAL COMEDY
+http://38.199.6.1:17001/play/a0dk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", UNIVISION
+http://38.199.6.1:17001/play/a0dc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Universal Cinema
+http://38.199.6.1:17001/play/a0uv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", Universal Premiere
+http://38.199.6.1:17001/play/a0dg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Nuestra Tele
+http://38.199.6.1:17001/play/a0ph/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telefé
+http://38.199.6.1:17001/play/a0pr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telemundo
+http://38.199.6.1:17001/play/a0xt/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telesur
+http://38.199.6.1:17001/play/a0dp/index.m3u8
 
 
 
