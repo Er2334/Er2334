@@ -227,13 +227,13 @@ http://217.26.190.76:8888/play/a06a/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", RCN
+http://live.btv.mx:2424/stream/279394/smAVz_uhytj5REM-4pYNZbkrcB2
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports Chile 
+http://live.btv.mx:2424/stream/278991/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TVN
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE, NOVELAS Y SERIES", Novelisima
-
+http://live.btv.mx:2424/stream/278994/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
@@ -402,7 +402,7 @@ http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
-
+http://live.btv.mx:2424/stream/298484/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
 
@@ -486,43 +486,43 @@ http://201.218.140.30:9000/play/a08x
 http://201.218.140.30:9000/play/a08y
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
-
+http://live.btv.mx:2424/stream/278493/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
-
+http://live.btv.mx:2424/stream/298428/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
-
+http://live.btv.mx:2424/stream/298556/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO MUNDI
-
+http://live.btv.mx:2424/stream/298429/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO POP
-
+http://live.btv.mx:2424/stream/298500/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
-
+http://live.btv.mx:2424/stream/298501/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Signature
-
+http://live.btv.mx:2424/stream/298503/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO XTREME
-
+http://live.btv.mx:2424/stream/298504/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", UNIVERSAL CHANNEL
-
+http://live.btv.mx:2424/stream/278449/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", UNIVERSAL COMEDY
-
+http://live.btv.mx:2424/stream/298487/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", UNIVISION
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Universal Cinema
-
+http://live.btv.mx:2424/stream/298486/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", Universal Premiere
-
+http://live.btv.mx:2424/stream/298488/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Nuestra Tele
 
@@ -537,10 +537,10 @@ http://201.218.140.30:9000/play/a08y
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine Latino
-
+http://live.btv.mx:2424/stream/278521/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinecanal
-
+http://live.btv.mx:2424/stream/158778/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoon Network
 
@@ -555,52 +555,52 @@ http://201.218.140.30:9000/play/a08y
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery H&H
-
+http://live.btv.mx:2424/stream/278411/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery
-
+http://live.btv.mx:2424/stream/278619/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery HGTV
-
+http://live.btv.mx:2424/stream/278429/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Discovery Kids
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Science
-
+http://live.btv.mx:2424/stream/278621/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Theater
-
+http://live.btv.mx:2424/stream/278623/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Turbo
-
+http://live.btv.mx:2424/stream/278396/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery World
-
+http://live.btv.mx:2424/stream/278626/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Space
-
+http://live.btv.mx:2424/stream/278516/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DHE
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FX
-
+http://live.btv.mx:2424/stream/298421/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", History 2
-
+http://live.btv.mx:2424/stream/298376/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", History Channel
-
+http://live.btv.mx:2424/stream/298377/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Love Nature
-
+http://live.btv.mx:2424/stream/296574/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Nat Geo
-
+http://live.btv.mx:2424/stream/278637/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Nick
 
@@ -612,13 +612,13 @@ http://201.218.140.30:9000/play/a08y
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STAR CHANNEL
-
+http://live.btv.mx:2424/stream/278439/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TCM
-
+http://live.btv.mx:2424/stream/278406/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony
-
+http://live.btv.mx:2424/stream/278405/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Tooncast
 
@@ -630,18 +630,40 @@ http://201.218.140.30:9000/play/a08y
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", Pasiones
-
+http://live.btv.mx:2424/stream/278436/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Las Estrellas
-
+http://live.btv.mx:2424/stream/285545/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinemax
-
+http://live.btv.mx:2424/stream/278468/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", America TV EC
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
+http://live.btv.mx:2424/stream/278311/smAVz_uhytj5REM-4pYNZbkrcB2
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", ANIMAL PLANET 
+http://live.btv.mx:2424/stream/278616/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
+
+
+
 
 
 
