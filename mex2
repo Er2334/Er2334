@@ -182,9 +182,6 @@ https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música", Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports Chile
-http://38.199.6.1:17001/play/a036/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS", TIGO 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -199,77 +196,44 @@ https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/in
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Fun Box
-http://38.199.6.1:17001/play/a0d4/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sport
 http://217.26.190.76:8888/play/a06a/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", WEST HD
-http://38.199.6.1:17001/play/a0wn/index.m3u8
-
 #EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE", tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp", FOX ONE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b9f674aca77e6e2d9e087d744ef9518:9c79efe8f7510efe6a768ac4be5f93ff
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONEMX_HD)/manifest.mpd
+
 
 #EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 1", tvg-logo="https://i.postimg.cc/YjmsfyGJ/FOXONE1-t-290x163.webp", FOX ONE 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da13bd9d503a6d8bbe34f9b185dfe521:787ecfe954108c152284ec89e379d7eb
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE1MX_HD)/manifest.mpd
+
 
 #EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 2", tvg-logo="https://i.postimg.cc/c68bM5g2/FOXONE2-t-290x163.webp", FOX ONE 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfd77a8855b7ccc941248454fc126340:1518034ce1918f249005fb270ff9a2c9
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE2MX_HD)/manifest.mpd
+
 
 #EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 3", tvg-logo="https://i.postimg.cc/xqb4yFJw/FOXONE3-t-290x163.webp", FOX ONE 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bd0bc0772acc1708445948f2c7bb25f:426afdc873d71265183d15cd7f9cb612
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE3MX_HD)/manifest.mpd
+
 
 #EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 4", tvg-logo="https://i.postimg.cc/xqb4yFNV/FOXONE4-t-290x163.webp", FOX ONE 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08aa48fc120a9a1ab174a67529ead92c:be211d980305712d93ff195e97f3e5b2
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE4MX_HD)/manifest.mpd
+
 
 #EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 5", tvg-logo="https://i.postimg.cc/bscF6HkV/FOXONE5-t-290x163.webp", FOX ONE 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69f650e8f202e290ca41f0c83ca4147b:a17dab4751f1e9116a0417b4f4fc325d
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE5MX_HD)/manifest.mpd
+
 
 #EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 6", tvg-logo="https://i.postimg.cc/gnFBMq8B/FOXONE6-t-290x163.webp", FOX ONE 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c62498b3eaed2d4bf5aa46104409abb:50f016b2bc9ec4d4fc607205703c2a1b
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE6MX_HD)/manifest.mpd
+
 
 #EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 7", tvg-logo="https://i.postimg.cc/14NjcYnY/FOXONE7-t-290x163.webp", FOX ONE 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bdbf106a7ba89a7a4e768cb65e2e57:edac5064d8cb1600f5dd65a4945bb7ba
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE7MX_HD)/manifest.mpd
+
 
 #EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 8", tvg-logo="https://i.postimg.cc/hh75b3zC/FOXONE8-t-290x163.webp", FOX ONE 8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc52afcf354dd1ecad24b3ec7949f154:69d953bf75252d754bc43a493c27884a
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE8MX_HD)/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", RCN
-http://38.199.6.1:17001/play/a04w/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TVN
-http://38.199.6.1:17001/play/a03x/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE, NOVELAS Y SERIES", Novelisima
-http://38.199.6.1:17001/play/a0ux/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
@@ -435,13 +399,13 @@ http://live.btv.mx:2424/stream/278892/smAVz_uhytj5REM-4pYNZbkrcB2
 http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DirecTV+
-http://38.199.6.1:17001/play/a0vx/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
-http://38.199.6.1:17001/play/a05c/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
-http://186.33.40.97:8789/play/28
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN
 http://186.33.40.97:8789/play/20
@@ -522,163 +486,163 @@ http://201.218.140.30:9000/play/a08x
 http://201.218.140.30:9000/play/a08y
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
-http://38.199.6.1:17001/play/a05e/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
-http://38.199.6.1:17001/play/a06i/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
-http://38.199.6.1:17001/play/a056/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO MUNDI
-http://38.199.6.1:17001/play/a0yj/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO POP
-http://38.199.6.1:17001/play/a038/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
-http://38.199.6.1:17001/play/a0by/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Signature
-http://38.199.6.1:17001/play/a0bz/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO XTREME
-http://38.199.6.1:17001/play/a06j/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", UNIVERSAL CHANNEL
-http://38.199.6.1:17001/play/a04m/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", UNIVERSAL COMEDY
-http://38.199.6.1:17001/play/a0dk/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", UNIVISION
-http://38.199.6.1:17001/play/a0dc/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Universal Cinema
-http://38.199.6.1:17001/play/a0uv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", Universal Premiere
-http://38.199.6.1:17001/play/a0dg/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Nuestra Tele
-http://38.199.6.1:17001/play/a0ph/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telefé
-http://38.199.6.1:17001/play/a0pr/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telemundo
-http://38.199.6.1:17001/play/a0xt/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telesur
-http://38.199.6.1:17001/play/a0dp/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine Latino
-http://38.199.6.1:17001/play/a0dn/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinecanal
-http://38.199.6.1:17001/play/a053/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoon Network
-http://38.199.6.1:17001/play/a059/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoonito
-http://38.199.6.1:17001/play/a0gr/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney
-http://38.199.6.1:17001/play/a040/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney Junior
-http://38.199.6.1:17001/play/a0s8/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery H&H
-http://38.199.6.1:17001/play/a04j/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery
-http://38.199.6.1:17001/play/a06f/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery HGTV
-http://38.199.6.1:17001/play/a0de/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Discovery Kids
-http://38.199.6.1:17001/play/a04i/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Science
-http://38.199.6.1:17001/play/a0dd/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Theater
-http://38.199.6.1:17001/play/a04k/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Turbo
-http://38.199.6.1:17001/play/a0bf/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery World
-http://38.199.6.1:17001/play/a052/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Space
-http://38.199.6.1:17001/play/a035/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DHE
-http://38.199.6.1:17001/play/a06e/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FX
-http://38.199.6.1:17001/play/a04u/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
-http://38.199.6.1:17001/play/a04p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", History 2
-http://38.199.6.1:17001/play/a06h/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", History Channel
-http://38.199.6.1:17001/play/a030/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Love Nature
-http://38.199.6.1:17001/play/a065/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Nat Geo
-http://38.199.6.1:17001/play/a051/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Nick
-http://38.199.6.1:17001/play/a03d/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Nick Jr
-http://38.199.6.1:17001/play/a0pb/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", Nick Music
-http://38.199.6.1:17001/play/a0pi/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STAR CHANNEL
-http://38.199.6.1:17001/play/a067/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TCM
-http://38.199.6.1:17001/play/a0q0/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony
-http://38.199.6.1:17001/play/a032/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Tooncast
-http://38.199.6.1:17001/play/a0bt/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TyC Sports
-http://38.199.6.1:17001/play/a05x/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", USA
-http://38.199.6.1:17001/play/a0px/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", Pasiones
-http://38.199.6.1:17001/play/a03z/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Las Estrellas
-http://38.199.6.1:17001/play/a06d/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinemax
-http://201.218.140.30:9000/play/a08m
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", America TV EC
-http://38.199.6.1:17001/play/a0aw/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
-http://38.199.6.1:17001/play/a0un/index.m3u8
+
 
 
 
