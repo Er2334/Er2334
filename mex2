@@ -626,8 +626,8 @@ http://live.btv.mx:2424/stream/278405/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Tooncast
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TyC Sports
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TyC Sports
+https://cablered.iptvperu.tv:1936/transcoder/dreamworks_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", USA
 
