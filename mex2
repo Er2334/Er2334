@@ -661,10 +661,8 @@ http://live.btv.mx:2424/stream/278481/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", QUIERO MÚSICA 
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/quieromusica/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINEMAX 2
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cinemax_hd/output.mpd
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DirecTV +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 
 
