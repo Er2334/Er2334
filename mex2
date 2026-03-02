@@ -591,7 +591,7 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dhe/output.mpd
 http://live.btv.mx:2424/stream/278427/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
-
+https://cablered.iptvperu.tv:1936/transcoder/espn7_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", History 2
 http://live.btv.mx:2424/stream/298376/smAVz_uhytj5REM-4pYNZbkrcB2
