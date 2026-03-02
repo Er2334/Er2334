@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" group-title="MEXICO", Canal 5
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
