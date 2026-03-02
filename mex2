@@ -643,10 +643,8 @@ http://live.btv.mx:2424/stream/278468/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", America TV EC
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
 http://live.btv.mx:2424/stream/278311/smAVz_uhytj5REM-4pYNZbkrcB2
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", ANIMAL PLANET 
 http://live.btv.mx:2424/stream/278616/smAVz_uhytj5REM-4pYNZbkrcB2
@@ -663,8 +661,8 @@ http://live.btv.mx:2424/stream/278481/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINEMAX 2
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cinemax/output.mpd
 
 
 
