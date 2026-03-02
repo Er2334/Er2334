@@ -546,16 +546,16 @@ http://live.btv.mx:2424/stream/278521/smAVz_uhytj5REM-4pYNZbkrcB2
 http://live.btv.mx:2424/stream/158778/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoon Network
-
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cartoon/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoonito
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney
-
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/disney/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney Junior
-
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/disneyjr/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery H&H
 http://live.btv.mx:2424/stream/278411/smAVz_uhytj5REM-4pYNZbkrcB2
@@ -567,7 +567,7 @@ http://live.btv.mx:2424/stream/278619/smAVz_uhytj5REM-4pYNZbkrcB2
 http://live.btv.mx:2424/stream/278429/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Discovery Kids
-
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/disc_kids/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Science
 http://live.btv.mx:2424/stream/278621/smAVz_uhytj5REM-4pYNZbkrcB2
@@ -585,7 +585,7 @@ http://live.btv.mx:2424/stream/278626/smAVz_uhytj5REM-4pYNZbkrcB2
 http://live.btv.mx:2424/stream/278516/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DHE
-
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dhe/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FX
 http://live.btv.mx:2424/stream/278427/smAVz_uhytj5REM-4pYNZbkrcB2
@@ -609,7 +609,7 @@ http://live.btv.mx:2424/stream/278637/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Nick Jr
-
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/nickjr/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", Nick Music
 
@@ -658,11 +658,11 @@ http://live.btv.mx:2424/stream/285421/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN EDGE 
 http://live.btv.mx:2424/stream/278481/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", QUIERO MÚSICA 
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/quieromusica/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINEMAX 2
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cinemax/output.mpd
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cinemax_hd/output.mpd
 
 
 
