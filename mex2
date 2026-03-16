@@ -196,48 +196,6 @@ https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/in
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sport
-http://live.btv.mx:2424/stream/280018/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sport +
-http://live.btv.mx:2424/stream/280081/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE", tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp", FOX ONE
-
-
-#EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 1", tvg-logo="https://i.postimg.cc/YjmsfyGJ/FOXONE1-t-290x163.webp", FOX ONE 1
-
-
-#EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 2", tvg-logo="https://i.postimg.cc/c68bM5g2/FOXONE2-t-290x163.webp", FOX ONE 2
-
-
-#EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 3", tvg-logo="https://i.postimg.cc/xqb4yFJw/FOXONE3-t-290x163.webp", FOX ONE 3
-
-
-#EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 4", tvg-logo="https://i.postimg.cc/xqb4yFNV/FOXONE4-t-290x163.webp", FOX ONE 4
-
-
-#EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 5", tvg-logo="https://i.postimg.cc/bscF6HkV/FOXONE5-t-290x163.webp", FOX ONE 5
-
-
-#EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 6", tvg-logo="https://i.postimg.cc/gnFBMq8B/FOXONE6-t-290x163.webp", FOX ONE 6
-
-
-#EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 7", tvg-logo="https://i.postimg.cc/14NjcYnY/FOXONE7-t-290x163.webp", FOX ONE 7
-
-
-#EXTINF:-1 group-title="FOX ONE" tvg-id="FOX ONE 8", tvg-logo="https://i.postimg.cc/hh75b3zC/FOXONE8-t-290x163.webp", FOX ONE 8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", RCN
-http://live.btv.mx:2424/stream/279394/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports Chile 
-http://live.btv.mx:2424/stream/278991/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TVN
-http://live.btv.mx:2424/stream/278994/smAVz_uhytj5REM-4pYNZbkrcB2
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
 #EXTINF:-1   tvg-logo="https://television-libre.online/img/genpy.png" group-title="PARAGUAY"  , Gen TV
@@ -335,81 +293,6 @@ https://dp7xchau0hnq3.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", MEGA TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 1
-http://live.btv.mx:2424/stream/168568/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 2
-http://live.btv.mx:2424/stream/168564/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 3
-http://live.btv.mx:2424/stream/168563/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 4
-http://live.btv.mx:2424/stream/168562/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX 5
-http://live.btv.mx:2424/stream/168561/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NETFLIX", NETFLIX DC
-http://live.btv.mx:2424/stream/168727/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECTV 2
-http://live.btv.mx:2424/stream/278976/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="DEPORTES", TNT Sport arg
-http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="DEPORTES", ESPN PREMIUM ARG
-http://live.btv.mx:2424/stream/283887/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="DEPORTES", ESPN PREMIUM CH
-http://live.btv.mx:2424/stream/278981/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="DEPORTES", TUDN
-http://live.btv.mx:2424/stream/278559/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="DEPORTES", TENNIS CHANNEL
-http://live.btv.mx:2424/stream/158845/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="CINE", GOLDEN PREMIER 
-http://live.btv.mx:2424/stream/298425/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="CINE", GOLDEN MULTIPLEX 
-http://live.btv.mx:2424/stream/298424/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="CINE", WARNER
-http://live.btv.mx:2424/stream/278454/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="INFANTILES", ULTRA KIDS
-http://live.btv.mx:2424/stream/180637/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="INFANTILES", BITME
-http://live.btv.mx:2424/stream/278523/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="INFANTILES", TEENNICK 
-http://live.btv.mx:2424/stream/158669/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="INFANTILES", NICKELODEON 
-http://live.btv.mx:2424/stream/158666/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="MÚSICA", VEVO 90'S
-http://live.btv.mx:2424/stream/286235/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="DEPORTES", DIRECTV
-http://live.btv.mx:2424/stream/278892/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="CINE 2", CLASSIC +
-http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TYC SPORT 
-http://live.btv.mx:2424/stream/166563/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Movies
-http://live.btv.mx:2424/stream/278471/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN
 http://186.33.40.97:8789/play/20
 
@@ -488,68 +371,8 @@ http://201.218.140.30:9000/play/a08x
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox sport 3 Arg
 http://201.218.140.30:9000/play/a08y
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
-http://live.btv.mx:2424/stream/278493/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family
-http://live.btv.mx:2424/stream/298428/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
-http://live.btv.mx:2424/stream/298493/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO MUNDI
-http://live.btv.mx:2424/stream/298368/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO POP
-http://live.btv.mx:2424/stream/298369/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
-http://live.btv.mx:2424/stream/298501/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Signature
-http://live.btv.mx:2424/stream/298371/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO XTREME
-http://live.btv.mx:2424/stream/298430/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", UNIVERSAL CHANNEL
-http://live.btv.mx:2424/stream/278449/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", UNIVERSAL COMEDY
-http://live.btv.mx:2424/stream/298487/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", UNIVISION
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Universal Cinema
-http://live.btv.mx:2424/stream/158697/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", Universal Premiere
-http://live.btv.mx:2424/stream/298488/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Nuestra Tele
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telefé
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telemundo
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Telesur
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine Latino
-http://live.btv.mx:2424/stream/278521/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinecanal
-http://live.btv.mx:2424/stream/158778/smAVz_uhytj5REM-4pYNZbkrcB2
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoon Network
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cartoon/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoonito
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/disney/output.mpd
@@ -569,94 +392,12 @@ http://live.btv.mx:2424/stream/278429/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Discovery Kids
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/disc_kids/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Science
-http://live.btv.mx:2424/stream/278621/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Theater
-http://live.btv.mx:2424/stream/278623/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery Turbo
-http://live.btv.mx:2424/stream/278396/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Discovery World
-http://live.btv.mx:2424/stream/278626/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Space
-http://live.btv.mx:2424/stream/278516/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DHE
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dhe/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FX
-http://live.btv.mx:2424/stream/278427/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
-https://cablered.iptvperu.tv:1936/transcoder/espn7_t2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", History 2
-http://live.btv.mx:2424/stream/298376/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", History Channel
-http://live.btv.mx:2424/stream/298377/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Love Nature
-http://live.btv.mx:2424/stream/296574/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", Nat Geo
-http://live.btv.mx:2424/stream/278637/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Nick
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Nick Jr
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/nickjr/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", Nick Music
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STAR CHANNEL
-http://live.btv.mx:2424/stream/278439/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TCM
-http://live.btv.mx:2424/stream/278406/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony
-http://live.btv.mx:2424/stream/278405/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Tooncast
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TyC Sports
-https://cablered.iptvperu.tv:1936/transcoder/dreamworks_t2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", USA
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine, Novelas y Series", Pasiones
-http://live.btv.mx:2424/stream/278436/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", Las Estrellas
-http://live.btv.mx:2424/stream/285545/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinemax
-http://live.btv.mx:2424/stream/278468/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", America TV EC
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CNN Español
-http://live.btv.mx:2424/stream/278311/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", ANIMAL PLANET 
-http://live.btv.mx:2424/stream/278616/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SKY CINE
-http://live.btv.mx:2424/stream/285413/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SKY CINE 2
-http://live.btv.mx:2424/stream/285421/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN EDGE 
-http://live.btv.mx:2424/stream/278481/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", QUIERO MÚSICA 
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/quieromusica/output.mpd
