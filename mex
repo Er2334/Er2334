@@ -585,7 +585,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(universal_channel)/manifest
 #EXTINF:-1 tvg-logo="" group-title="DISH", SONY
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"896f730715176bb90484f8385512cba7":"7372951666a6653c2dbff9f2646c1c5d"}
+#KODIPROP:inputstream.adaptive.license_key={896f730715176bb90484f8385512cba7:7372951666a6653c2dbff9f2646c1c5d}
 https://dish.akamaized.net/Content/DASH/Live/channel(sony)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="DISH", WARNER CHANNEL
