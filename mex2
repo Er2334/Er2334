@@ -693,22 +693,35 @@ https://joy.nx-pc.edge-apps.net/hls/l4b0l-njg9j-4ic97-4c15b.m3u8
 #EXTINF:0 tvg-id="QUIERO MUSICA EN MI IDIOMA.ar" tvg-name="QUIERO MUSICA EN MI IDIOMA" CUID="103" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346240/iva94ooqr6f8kvptmgmr.png" group-title="MÚSICA",QUIERO MUSICA 2
 https://joy.nx-pc.edge-apps.net/hls/3la6l-e802j-1ekem-6k9o6.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TELEMUNDO
+http://186.33.40.97:8789/play/73
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", UNIVISION
+http://186.33.40.97:8789/play/95
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH-FAMILY
+http://204.157.232.39:53200/play/a0aa
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TRECE PY
+http://181.78.27.128:12543/play/a04l/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", UNICANAL  PY
+http://181.78.27.128:12543/play/a04p/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", SUR TV
+http://181.78.27.128:12543/play/a03g/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", Abc Tv
+http://181.78.27.128:12543/play/a05r/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TELEFE
+http://181.78.27.128:12543/play/a04h/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", POPU TV
+http://181.78.27.128:12543/play/a057/index.m3u8
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPAN 7
+http://186.33.40.97:8789/play/55
 
 
 
