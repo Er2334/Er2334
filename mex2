@@ -405,8 +405,8 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/quieromusica/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DirecTV +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES",ESPN PREMIUM ARG 
+https://sitsastr2.qvixsolutions.com/stsa_foxsportspremiumhd/index.mpd?token=d6ccd79305fd1364cd1d1a28f799023271f84483-2R4z-1766283974-1766268674
 
 
 
