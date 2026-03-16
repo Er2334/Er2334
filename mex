@@ -591,8 +591,8 @@ https://dish.akamaized.net/Content/DASH/Live/channel(sony)/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="DISH", WARNER CHANNEL
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"79dc87836d93d0fb7c1bb10e301bab82":"8b0e2a78cad3b2fe84b116adb0a9d9ef"}
-https://dish.akamaized.net/Content/DASH/Live/channel(warner_channel)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"98aa90cb620b972a0d0d66a51cdaca56":"6e8bd53378356ed7f5103d91efb5e54e"}
+https://live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="DISH", MAS CHIC
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
