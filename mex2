@@ -705,11 +705,29 @@ http://204.157.232.39:53200/play/a0aa
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", POPU TV
 http://181.78.27.128:12543/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
-http://186.33.40.97:8789/play/55
+#EXTINF:-1 tvg-id=\"ESPN HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES", ESPN 🇨🇴
+http://38.44.109.41:8003/play/a03x/index.m3u8
 
+#EXTINF:-1 tvg-id=\"ESPN 2 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES", ESPN 2 🇨🇴
+http://38.44.109.41:8003/play/a03u/index.m3u8
 
+#EXTINF:-1 tvg-id=\"ESPN 3 HD.uy\" group-title="DEPORTES" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" ,ESPN 3 🇨🇴
+http://38.44.109.41:8003/play/a03v/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
+#EXTINF:-1 tvg-id="Sony HD.uy" tvg-name="Sony Channel" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" group-title="CINE",Sony Channel
+https://cdn.cvattv.com.ar/live/c7eds//SonyHD/SA_Live_dash_enc_C/SonyHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
+#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-name="Sony Movies" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="CINE",Sony Movies
+https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_C/Sony_Movies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-name="Universal Cinema" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="CINE",Universal Cinema
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd
 
 
 
