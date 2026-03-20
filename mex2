@@ -731,9 +731,21 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Univers
 https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd?hdnts=exp%3D1769873456%7Eacl%3D%2F*%7Eid%3D9e35e299-eff3-5c9f-b5ad-50c2223ab7a1%7Ehmac%3Ddbfd35fb5d4eb584910355a92c8af7b24cf1b9d898b9f924452ddfe6cec9bc79&tokenization=true&da=1&country=AR&accountType=OTT&accountId=9e35e299-eff3-5c9f-b5ad-50c2223ab7a1&deviceType=web&channelId=CH0100000000021&deviceId=b824da03-60cb-40cb-84bb-8987d5097684
 
 
+#EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Studio_Universal_logo.svg/512px-Studio_Universal_logo.svg.png" group-title="Canales Premium",Studio Universal
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"c831981f7e0c4d5d943b7a7a5e9ebc6c","k":"5232c2ded3bacfb8e5a4332f0653b719"},{"kty":"oct","kid":"9640df05ee9557808ac98878b78f2e1b","k":"9b4828f71f9dbaa38a4b2854e0dede53"},{"kty":"oct","kid":"d31cbd01b19357e38415f4c511b4198d","k":"9b52d0103a6a7563e9a4343879f7497d"},{"kty":"oct","kid":"de5255dd92e15aee8c74d68f33bee1c9","k":"8a72719b28d1090ef38548053c9495ba"},{"kty":"oct","kid":"2669509884ce361c9646b56ca5d51e7f","k":"292bb70bac7757546a69e43f778c3cdc"}],"type":"temporary"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://1210-aws.akamaized.net/v1/84929120e4dd4047acf8d8a2bc610b41/manifest.mpd?hdnts=exp%3D1769946579%7Eacl%3D%2F*%7Eid%3D9e35e299-eff3-5c9f-b5ad-50c2223ab7a1%7Ehmac%3Df595f7fdf3564a80388a13c32577b751e03405c02761ece7f5075a8306801d35&tokenization=true&da=1&country=AR&accountType=OTT&accountId=9e35e299-eff3-5c9f-b5ad-50c2223ab7a1&deviceType=web&channelId=CH0100000000259&deviceId=b824da03-60cb-40cb-84bb-8987d5097684
 
-
-
+#EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Studio_Universal_logo.svg/512px-Studio_Universal_logo.svg.png" group-title="Canales Premium",Studio Universal 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c831981f7e0c4d5d943b7a7a5e9ebc6c:5232c2ded3bacfb8e5a4332f0653b719,9640df05ee9557808ac98878b78f2e1b:9b4828f71f9dbaa38a4b2854e0dede53,d31cbd01b19357e38415f4c511b4198d:9b52d0103a6a7563e9a4343879f7497d,de5255dd92e15aee8c74d68f33bee1c9:8a72719b28d1090ef38548053c9495ba,2669509884ce361c9646b56ca5d51e7f:292bb70bac7757546a69e43f778c3cdc
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://1210-aws.akamaized.net/v1/84929120e4dd4047acf8d8a2bc610b41/manifest.mpd?hdnts=exp%3D1769946579%7Eacl%3D%2F*%7Eid%3D9e35e299-eff3-5c9f-b5ad-50c2223ab7a1%7Ehmac%3Df595f7fdf3564a80388a13c32577b751e03405c02761ece7f5075a8306801d35&tokenization=true&da=1&country=AR&accountType=OTT&accountId=9e35e299-eff3-5c9f-b5ad-50c2223ab7a1&deviceType=web&channelId=CH0100000000259&deviceId=b824da03-60cb-40cb-84bb-8987d5097684
 
 
 
