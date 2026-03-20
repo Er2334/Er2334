@@ -41,8 +41,6 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/discovery/output.mp
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|Referer=https://www.flow.com.ar/
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/amc/output.mpd
 
-# Agrega más entradas similares con el nombre que prefieras para cada URL...
-# Por ejemplo para Studio Universal (st_universal):
 #EXTINF:-1 tvg-name="Studio Universal" group-title="Cine y Series",Studio Universal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
