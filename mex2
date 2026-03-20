@@ -725,7 +725,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Univers
 
 #EXTINF:-1 tvg-name="DSPORTS ARG" tvg-logo="https://example.com/logo-dsports.png" group-title="DEPORTES",DSPORTS ARG
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey   // o prueba widevine si es real Widevine
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=bcabc0fba912433fb12f40542783c726:7af404173b1cbb725934e4725a274b9c
 #KODIPROP:inputstream=inputstream.adaptive
 https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd?hdnts=exp%3D1769873456%7Eacl%3D%2F*%7Eid%3D9e35e299-eff3-5c9f-b5ad-50c2223ab7a1%7Ehmac%3Ddbfd35fb5d4eb584910355a92c8af7b24cf1b9d898b9f924452ddfe6cec9bc79&tokenization=true&da=1&country=AR&accountType=OTT&accountId=9e35e299-eff3-5c9f-b5ad-50c2223ab7a1&deviceType=web&channelId=CH0100000000021&deviceId=b824da03-60cb-40cb-84bb-8987d5097684
