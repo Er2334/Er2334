@@ -723,11 +723,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_C/Sony_Movies.
 #EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-name="Universal Cinema" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="CINE",Universal Cinema
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
-#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-name="Universal Cinema" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="DEPORTES",DIRECTV 2
-https://1063-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1063/3e35a42c033746b790824260a2df8f88/manifest.mpd?hdnts=exp%3D1769873521%7Eacl%3D%2F*%7Eid%3D9e35e299-eff3-5c9f-b5ad-50c2223ab7a1%7Ehmac%3D7c89c967e7ba7f4abf1eef9ee7dafdf8280745bd64471d4aafedf34fd2c4a165&tokenization=true&da=1&country=AR&accountType=OTT&accountId=9e35e299-eff3-5c9f-b5ad-50c2223ab7a1&deviceType=web&channelId=CH0100000000128&deviceId=b824da03-60cb-40cb-84bb-8987d5097684
+ 
 
 
 
