@@ -30,9 +30,6 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/disneyjr/output.mpd
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/nickelodeon/output.mpd
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="Documentales",Discovery
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|Referer=https://www.flow.com.ar/
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/discovery/output.mpd
 
 #EXTINF:-1 tvg-name="AMC" tvg-logo="" group-title="Series",AMC
