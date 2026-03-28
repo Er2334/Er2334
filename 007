@@ -1290,8 +1290,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE8MX_HD)/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 1
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/a/output.mpd
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", Canal 26
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/canal26/output.mpd
@@ -1458,9 +1457,6 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tvfcanal2/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", CANAL 13
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tvfcanal3/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 2
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/q9apwz2yfhqf00000009g4tjh6i5vhtm/output.mpd
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", CANAL 18
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tvfcanal18/output.mpd
 
@@ -1473,56 +1469,23 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/disney/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", CARTOON NETWORT
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cartoon/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", ESPN 2
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 4
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/ru781yu5ky3qg50ajt6w1q000002637e/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", ESPN 3
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 7
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", ESPN 4
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 8
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/pgxsrniofp0xmay8kxgl00000051o6ua/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 9
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/njy9w577ew1e94zny2f00000275123nj/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",10
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/m9agf00000276ohwdbwina1g749hclsi/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",11
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/zi19j9ry7r00000052tzlkotjd1msy9q/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",12
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/KXeez4tMX0dqJo6G7PchjtT2cDvK8tQ5/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",13
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/hstka3rh00000022su7qx9sa20clueyn/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", GOLF TV 
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/golf/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",14
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/aql85vnv5iz5c2u00000002x2d0qqv8n/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 15
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/ssc4ln4movbqlr1qczb00000005dktih/output.mpd
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", EL NUEVE
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/elnueve/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",16
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cfmpu0h00000004iyi5jdg8ca027sk5z/output.mpd
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", EL TRECE
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/el13/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 17
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/uw45tuta52qit00000079809ua4g9xrn/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", DHE
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dhe/output.mpd
@@ -1533,7 +1496,7 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/sony/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", WARNER TV 
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/warner/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", 18
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", A&E
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/j26j2rzpt800000288vtpyar1sx5a31e/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", AXN
@@ -1551,22 +1514,10 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/fx/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", EUROPA EUROPA 
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/europa/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",19
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/txlqeu6iv2b1iu000002455g7hqgivpn/output.mpd
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", SPACE 
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/space/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",20
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/gm7w7kgdfnc09b6g8b1g00000246n0na/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",21
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/bta4hb7lmj4lhrefwh000002531fcr5y/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", PARAMOUNT 
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/paramount/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",UNIVERSAL 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",UNIVERSAL CHANNEL 
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/universal/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",FILM ARTS
@@ -1602,7 +1553,7 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/disc_idar/output.mp
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", DISCOVERY TLC 
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dsc_tlc/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",22
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",ADULT SWIM
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/trutv/output.mpd
 
 
