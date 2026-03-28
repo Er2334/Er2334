@@ -1304,7 +1304,7 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cnne/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", TV CHILE
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/tvchile/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", LNMAS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", LN+
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/lnmas/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", GARAGE
@@ -1451,16 +1451,7 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/boliviatv/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", DW
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/dw/output.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", CANAL 12
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tvfcanal2/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", CANAL 13
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tvfcanal3/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", CANAL 18
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tvfcanal18/output.mpd
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", DISCOVERY KIDS 
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/disc_kids/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE", DISCOVERY KIDS 
