@@ -723,9 +723,10 @@ https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_C/Sony_Movies.
 #EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-name="Universal Cinema" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="PARAGUAY", EL TRECE
 https://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_cenc/RPC_C4.mpd
 
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79e82a9d50a24829980cb16f7b85fb2b:b22ab8b9d6f7e2ebac354a12dd4f91a6
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-name="Universal Cinema" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="PARAGUAY", SONY MOVIES 
+https://apps.playme.com.ar/dash/CH_SONYMOVIES/playlist.mpd
 
 
 
