@@ -44,7 +44,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_cenc/KZO.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
 #EXTINF:-1 tvg-id="MIX TV" tvg-name="MIX TV" tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" group-title="Argentina" ch-number="18" type="channel",Mix TV
-https://chromecast.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_cenc_C/MixTV.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_cenc_/MixTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
@@ -109,7 +109,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_cenc/TyCSport.
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="ESPN" ch-number="21" type="channel",ESPN AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="Deportes" ch-number="21" type="channel",ESPN AR
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_cenc/ESPN2HD.mpd
 
 
@@ -120,8 +120,8 @@ https://chromecast.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_cenc/ESPN_UY.mp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="ESPN" ch-number="24" type="channel",ESPN 2 AR
-https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes" ch-number="24" type="channel",ESPN 2 AR
+https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_cenc/ESPN2_Arg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
@@ -130,7 +130,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_cenc/ESPN2_UY.
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="ESPN" ch-number="27" type="channel",ESPN 3 AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="Deportes" ch-number="27" type="channel",ESPN 3 AR
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_cenc/ESPN3.mpd
 
 
@@ -157,7 +157,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_cenc/FoxS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 #EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/12041360073463.png" group-title="Deportes" ch-number="107" type="channel",ESPN 7
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_cenc/FoxSports2_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
@@ -169,94 +169,43 @@ https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_c
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium
 https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="ESPN", ESPN 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.postimg.cc/mksxWpNC/espn2-logo-white.png" group-title="ESPN", ESPN 2 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" group-title="ESPN" tvg-logo="https://i.postimg.cc/1t6xT16y/ESPN3.png" ,ESPN 3 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
 #EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="FOX Sports" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Deportes" ch-number="111" type="channel",FOX Sports
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_cenc/FoxSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
 #EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-name="FOX Sports 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true" group-title="Deportes" ch-number="112" type="channel",FOX Sports 2
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_cenc/FoxSports2HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
 #EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-name="FOX Sports 3" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="Deportes" ch-number="113" type="channel",FOX Sports 3
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_cenc/FoxSports3HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2
 #EXTINF:-1 tvg-id="America Sports.ar" tvg-name="América Sports" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMESP.png?raw=true" group-title="Deportes" ch-number="116" type="channel",América Sports
-https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_cenc/America_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
 #EXTINF:-1 tvg-id="SHOW SPORTS CORDOBA" tvg-name="Show Sports Córdoba" tvg-logo="https://i.ibb.co/QnqdqBV/ss.png" group-title="Deportes" ch-number="117" type="channel",Show Sports Córdoba
-https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_cenc/Show_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
 #EXTINF:-1 tvg-id="El Garage Tv.ar" tvg-name="Garage TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true" group-title="Deportes" ch-number="118" type="channel",Garage TV
-https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_cenc/El_Garage.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
 #EXTINF:-1 tvg-id="NBA TV.ar" tvg-name="NBA TV" tvg-logo="http://stacypaetz.com/wp-content/uploads/2014/07/nbatv.png" group-title="Deportes" ch-number="119" type="channel",NBA TV
-https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220" group-title="DEPORTES", Bein Sport Ñ
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="124",DSports
-http://38.56.98.38:8050/play/a06p/index.m3u8
+https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_cenc/NBA_TV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="125",DSports 2
 http://201.230.121.85:8000/play/a0yv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="126",DSports +
-http://209.45.81.84:8000/play/a03d
-
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
-http://38.199.6.1:17001/play/a0d0/index.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
-http://38.199.6.1:17001/play/a0vx/index.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports2.png" group-title="Deportes", DSPORTS 2 NO FUNCIONA
-http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9904
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
@@ -267,17 +216,17 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
 #EXTINF:-1 tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes" ch-number="141" type="channel",Flow Sportss 1
-https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_cenc/Eventos_HD_Uy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
 #EXTINF:-1 tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes" ch-number="142" type="channel",Flow Sports 2
-https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_cenc/Eventos_2_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
 #EXTINF:-1 tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes" ch-number="143" type="channel",Flow Sports 3
-https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_cenc/Eventos3_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
