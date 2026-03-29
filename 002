@@ -112,6 +112,11 @@ https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_cenc/TyCSport.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="Deportes" ch-number="21" type="channel",ESPN AR
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_cenc/ESPN2HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="Deportes" ch-number="21" type="channel",ESPN PY
+https://chromecast.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_cenc/ESPN_PY.mpd
+4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
@@ -122,6 +127,12 @@ https://chromecast.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_cenc/ESPN_UY.mp
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes" ch-number="24" type="channel",ESPN 2 AR
 https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_cenc/ESPN2_Arg.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes" ch-number="24" type="channel",ESPN 2 PY
+https://chromecast.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_cenc/ESPN2_PY.mpd
+0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
@@ -215,17 +226,17 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
-#EXTINF:-1 tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes" ch-number="141" type="channel",Flow Sportss 1
+#EXTINF:-1 tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="EVENTOS" ch-number="141" type="channel",Flow Sportss UY 1
 https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_cenc/Eventos_HD_Uy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
-#EXTINF:-1 tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes" ch-number="142" type="channel",Flow Sports 2
+#EXTINF:-1 tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="EVENTOS" ch-number="142" type="channel",Flow Sports UY 2
 https://chromecast.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_cenc/Eventos_2_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
-#EXTINF:-1 tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes" ch-number="143" type="channel",Flow Sports 3
+#EXTINF:-1 tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="EVENTOS" ch-number="143" type="channel",Flow Sports UY 3
 https://chromecast.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_cenc/Eventos3_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -280,7 +291,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_cenc/FXHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
-#EXTINF:-1 tvg-id="Golden.ar" tvg-name="Golden" tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="Cine" ch-number="317" type="channel",Golden
+#EXTINF:-1 tvg-id="Golden.ar" tvg-name="Golden" tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="Cine" ch-number="317" type="channel",GOLDEN
 https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_cenc/Golden.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -686,10 +697,10 @@ https://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 2
 http://217.26.190.76:8888/play/a0jf/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Edge
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN EDGE
 http://217.26.190.76:8888/play/a0he/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Premiere
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER
 http://217.26.190.76:8888/play/a0jk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/47226827072588.png" group-title="PARAGUAY", HEI NOW
@@ -793,25 +804,35 @@ https://chromecast.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_cenc/EWTN.mpd
 #KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
 https://chromecast.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_cenc/Senal_Maria.mpd
 
-#EXTINF:-1 tvg-id="temp" tvg-logo="" group-title="PREMIER Y LA LIGA", temp
+#EXTINF:-1 tvg-id="temp" tvg-logo="" group-title="EVENTOS PY", EVENTOS PY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-https://live12-dash.cdns.cdn.orangetv.orange.es/hpVkPAjFFpE3JSIKY3SY-Q/1727923395/104469517/132089857/87/cmaf/r12_mcampeones/dash_high.mpd
+#KODIPROP:inputstream.adaptive.license_key=2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e
+https://chromecast.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_cenc/Eventos_PY.mpd
 
-#EXTINF:-1 tvg-id="temp2" tvg-logo="" group-title="PREMIER Y LA LIGA", temp2
+#EXTINF:-1 tvg-id="temp2" tvg-logo="" group-title="EVENTOS PY", EVENTOS PY 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-https://live12-dash.cdns.cdn.orangetv.orange.es/iq4WJaz32_VUr7xNQ9equw/1727923395/104469517/132089857/88/cmaf/r12_mcampeones2/dash_high.mpd
+#KODIPROP:inputstream.adaptive.license_key=0900ce66b82de0fd07aa8f12a48f29a2:e5556dba688fda637374ab5c87d7cda6
+https://chromecast.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_cenc/Eventos2_PY.mpd
 
-#EXTINF:-1 tvg-id="temp3" tvg-logo="" group-title="PREMIER Y LA LIGA", temp3
+#EXTINF:-1 tvg-id="temp3" tvg-logo="" group-title="EVENTOS", EVENTOS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-https://live12-dash.cdns.cdn.orangetv.orange.es/OLkJsl8kjz_zmLTZ6yehxQ/1727923404/104469517/132089857/91/cmaf/r12_mcampeones5/dash_high.mpd
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_cenc/Eventos1HD.mpd
 
 #EXTINF:-1 tvg-id="temp4" tvg-logo="" group-title="PREMIER Y LA LIGA", temp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
 https://live12-dash.cdns.cdn.orangetv.orange.es/r-VxaiNv4ggV7yG757OzXA/1727923404/104469517/132089857/92/cmaf/r12_mcampeones6/dash_high.mpd
+
+#EXTINF:-1 tvg-id="laligatv" tvg-logo="" group-title="PREMIER Y LA LIGA", laligatv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="laligatv" tvg-logo="" group-title="PREMIER Y LA LIGA", laligatv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
 #EXTINF:-1 tvg-id="laligatv" tvg-logo="" group-title="PREMIER Y LA LIGA", laligatv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
