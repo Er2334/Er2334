@@ -1056,6 +1056,17 @@ https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|origin=
 #KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
 https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|origin=https://web.app.flow.com.py
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", GOLDEN PREMIER 2
+http://217.26.190.76:8888/play/a0jf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Golden
+http://217.26.190.76:8888/play/a0h7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Golden Edge
+http://217.26.190.76:8888/play/a0he/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Golden Premiere
+http://217.26.190.76:8888/play/a0jk/index.m3u8
 
 
 
