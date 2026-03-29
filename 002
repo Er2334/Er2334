@@ -331,7 +331,8 @@ https://chromecast.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_cenc/Pasiones.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
 #EXTINF:-1 tvg-id="Sony HD.uy" tvg-name="Sony Channel" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" group-title="Cine" ch-number="332" type="channel",Sony Channel
-https://chromecast.cvattv.com.ar/live/c7eds//SonyHD/SA_Live_dash_cenc/SonyHD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_cenc/SonyHD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
@@ -396,7 +397,8 @@ https://chromecast.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_cenc/USA_Ne
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 #EXTINF:-1 tvg-id="Warner HD.uy" tvg-name="Warner" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="Cine" ch-number="349" type="channel",Warner
-https://chromecast.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_cenc/WarnerHD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_cenc/WarnerHD.mpd
+069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
