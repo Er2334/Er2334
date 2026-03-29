@@ -818,6 +818,111 @@ https://live12-dash.cdns.cdn.orangetv.orange.es/r-VxaiNv4ggV7yG757OzXA/172792340
 #KODIPROP:inputstream.adaptive.license_key=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/799px-Golf_Channel_Logo.png" group-title="⚽ DEPORTES ", GOLF CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
+https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyBzQVp/f80c472f1f5707fddcd3da2fc2a53a42.jpg" group-title="⚽ DEPORTES ", PX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad
+https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="⚽ DEPORTES", TYC SPORT INTERNACIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="⚽ DEPORTES", TYC SPORT INTERNACIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqPNtN1/mtv.png" group-title="🎵 MÚSICA", MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
+https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="🎵 MÚSICA", HTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
+https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="🎵 MÚSICA", ESENCIALES VORTERIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
+https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuXpg2iXCKbblA1tSg8Grd0E4T-cfHFm9_Gat3S8&s" group-title="🎵 MÚSICA", EN ALTA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
+https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD.ar" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png" group-title="👩‍👦‍👦 INFANTILES", DISCOVERY KIDS CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISNEY JR.ar" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/DISNEYJUNIOR/EXPORTACION_WEB/SS/DISNEYJUNIOR_t-290x163.png" group-title="👩‍👦‍👦 INFANTILES", DISNEY JUNIOR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
+https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1  tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NICKJRHD/EXPORTACION_WEB/SS/NICKJRHD_t-290x163.png" group-title="👩‍👦‍👦 INFANTILES", NICK JR HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
+https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD.ar" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CARTOONNETWORKHD/EXPORTACION_WEB/SS/CARTOONNETWORKHD_t-290x163.png" group-title="👩‍👦‍👦 INFANTILES", CARTOON NETWORK HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
+https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISNEY HD.ar" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/DISNEYHD/EXPORTACION_WEB/SS/DISNEYHD_t-290x163.png" group-title="👩‍👦‍👦 INFANTILES", DISNEY HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
+https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="PAKA PAKA.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuA8tEXOS5jkf7FLCrb0eOj6Q-MKH90aPOog&s" group-title="👩‍👦‍👦 INFANTILES", PAKA_PAKA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
+https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahKbF7oVhf8aw1QDynXB4myFf6nhJVQ96AA&s" group-title="👩‍👦‍👦 INFANTILES", Tooncast
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="NICKELODEON.ar" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title="👩‍👦‍👦 INFANTILES", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
+https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.2899505360.2673/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="👩‍👦‍👦 INFANTILES", Boomerang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
+https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="BABY TV.ar" tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" group-title="👩‍👦‍👦 INFANTILES", BABY TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
+https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/KG2cJ5f/Plim-Plim.png" group-title="👩‍👦‍👦 INFANTILES", PLIM PLIM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
+https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzxBWZj/Dream-Works-Channel.png" group-title="👩‍👦‍👦 INFANTILES", DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
+https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+
+
+
 
 
 
