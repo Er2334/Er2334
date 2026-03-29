@@ -44,7 +44,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_cenc/KZO.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
 #EXTINF:-1 tvg-id="MIX TV" tvg-name="MIX TV" tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" group-title="Argentina" ch-number="18" type="channel",Mix TV
-https://chromecast.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_cenc_/MixTV.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_cenc/MixTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
