@@ -1544,7 +1544,8 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dsc_tlc/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",ADULT SWIM
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/trutv/output.mpd
 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIBRE",Sony Movies 
+https://trs.cdn.rcs.net.ar/mnp/sonymovies/output.mpd
 
 
 
