@@ -23,11 +23,6 @@ https://lilac01.pontiscloud.com/live/sta01/CineHispano/live_dash_cld/CineHispano
 https://lilac01.pontiscloud.com/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1679d392f2604d897edf5d6e775259cf:77a5d1ec5fa2b6b7cd46165ac839f7e1
-#EXTINF:-1 tvg-id="INTI" tvg-name="INTI" tvg-logo="https://i.ibb.co/x8yfbT1/inti-network-tv.png" group-title="Nuevo" ch-number="" type="channel", HBO FAMILY
-https://edge52035.telecentro.net.ar/bpk-token/1ac@ykuvdvbcrwoughvdfsvdmilhktwcn3inym5prtba/HBOFAMILYEHD/HBOFAMILYEHD.isml/manifest.mpd?bkm-query
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae5d967526f90c80102fab021e3dd282:226f3cfc4f00e03dbe39e2a88760293f
 #EXTINF:-1 tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://i.postimg.cc/m2NZDyZh/canal-claro.png" group-title="Variedades" ch-number="" type="channel",Canal Claro
 https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(CANAL_CLARO_HD)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
