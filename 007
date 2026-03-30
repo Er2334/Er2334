@@ -6,6 +6,11 @@
 https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(INTI_HD)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ffc07feeea3545eaf3bea6ec016dd76:9497fa8cf44510f8e3f9166e486f685f
+#EXTINF:-1 tvg-id="INTI" tvg-name="INTI" tvg-logo="https://i.ibb.co/x8yfbT1/inti-network-tv.png" group-title="Variedades" ch-number="" type="INFANTILES", FUN BOX
+https://cdn-live.mundogo.cl/funbox/funbox.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae5d967526f90c80102fab021e3dd282:226f3cfc4f00e03dbe39e2a88760293f
 #EXTINF:-1 tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://i.postimg.cc/m2NZDyZh/canal-claro.png" group-title="Variedades" ch-number="" type="channel",Canal Claro
 https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(CANAL_CLARO_HD)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
