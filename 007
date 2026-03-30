@@ -360,7 +360,7 @@ https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db61dc785664ffa25a061f2dcbaa5932:94f6b0deb7436265c839d6faf0112f21
 #EXTINF:-1 ch-number="318" tvg-id="Golden Edge.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/160/160/0/0/86179590071069.png" group-title="Nuevo", Golden Edge
-https://cdn02.gigared.com.ar/live/eds/Golden_Edge/sa_live_dash/Golden_Edge.mpd
+https://cdn03.gigared.com.ar/live/eds/Golden_Edge/sa_live_dash/Golden_Edge.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dead023f7a81634339ae639990c1517a:ba970222b4466c61d0deccc67ab34452
