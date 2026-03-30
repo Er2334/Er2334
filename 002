@@ -933,17 +933,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH MOVIES
 http://201.218.140.30:9000/play/a089
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", Clover
-http://201.218.140.30:9000/play/a07y
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", FMH KIDS
 http://201.218.140.30:9000/play/a01e
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", BEIN SPORTS Ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", PELIS KIDS
-https://stream.900444.xyz/live/peliskids.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", ASPEN CLASSIC 
 https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
@@ -953,9 +947,6 @@ https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", MONUMENTAL TV 
 https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 2", CLASSIC TV
-http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", E40
 https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
