@@ -946,6 +946,72 @@ https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvacci
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", EDUCANAL 
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TROPICALIA
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", RCC
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE HISPANO 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE PREMIUM 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS PY", EVENTOS FUTBOL PY
+http://45.170.130.224:8000/play/a04i/index.m3u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", BAND TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", SBT 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", BRAZIL TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", GLOBO TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a04t.png" group-title="DEPORTES", TUDN 1
+http://45.5.117.57:8999/play/a04t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0ef.png" group-title="DEPORTES", TUDN 2
+http://45.5.117.57:8999/play/a0ef/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0e5.png" group-title="DEPORTES", Azteca Deportes
+http://45.5.117.57:8999/play/a0e5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MC
+http://186.33.40.97:8789/play/13
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
+http://186.33.40.97:8789/play/28
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM CHI
+http://186.33.40.97:8789/play/22 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", UNIVISION
+http://190.238.43.117:8000/play/a07b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", BITME
+http://190.238.43.117:8000/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DSPORTS2 HD
+http://190.238.43.117:8000/play/a09g/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
