@@ -57,6 +57,9 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICA
 https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSO_HD)/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal 26.uy" tvg-name="Canal 26.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" group-title="INTERNACIONALES" ch-number="26" type="channel",Canal 26
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", A24 AR
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(A24)/index.m3u8
 
@@ -111,6 +114,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(COMED
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DEPORTV)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", DISCOVERY CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISCOVERY_CHANNEL_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISCOVERY KIDS
@@ -123,6 +127,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISCO
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TLC_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", DISCOVERY THEATER
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISCOVERY_THEATER_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", DISCOVERY TURBO
@@ -165,6 +170,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_S
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(EUROPA_EUROPA_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CANAL 13 AR
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_13)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", EL GOURMET
@@ -186,9 +192,11 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_S
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_2_LATAM)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_3_LATAM)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PLUS
@@ -442,6 +450,7 @@ http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_Li
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_CLUB)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="RELIGIÓN", ENLACE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/24.m3u8
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Enlace)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KezV7um.png" group-title="MUSICA",MTV 00s
@@ -495,6 +504,7 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 
 #EXTINF:-1 ch-number="313" tvg-id="DHE.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="CINE", DHE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DHE_HD)/index.m3u8
 
 #EXTINF:-1  group-title="DEPORTES" tvg-logo="https://icon2.cleanpng.com/20180601/kql/avo0uye11.webp", PREMIER LIGUE ENG
@@ -686,24 +696,6 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE 2", Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
-#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN MEXICO" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5416",TUDN MEXICO
-http://novabox.club/live/conectStreax/K2tbMNebMW/357670.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="TUDN USA" tvg-logo="https://logo.iptveditor.com/tudn.png" cuid="5417",TUDN USA
-http://novabox.club/live/conectStreax/K2tbMNebMW/357672.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="Zapping Sports op2" tvg-logo="http://novabox.club:80/images/N3tGkcRlSnSjLql4JaShRRwRYdLpXv2Vvq02XwltCMAcQHrrK-2tB3T928Wu1FneN6Pe5jTI9TUtjnVCsDX8mw.png" cuid="5484",Zapping Sports
-http://novabox.club/live/conectStreax/K2tbMNebMW/402191.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="ECDF 2" tvg-logo="http://novabox.club:80/images/fIC-K1r7WE5o2UFcBxyi5CGUCLqDqyyRmMAWMeMthHD6434B76Y2BBfC8_HDhTjo471TVkI0E6Uf4Ga65M0yEbmVmFnrB_sZUpwzH7PtZj8.png" cuid="5486",ECDF 2
-http://novabox.club/live/conectStreax/K2tbMNebMW/402193.m3u8
-
-#EXTINF:0 group-title="DEPORTES" tvg-name="VTV + 1" tvg-logo="https://logo.iptveditor.com/vtv1.png" cuid="5515",VTV PLUS
-http://novabox.club/live/conectStreax/K2tbMNebMW/368643.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" tvg-name="LA 1 MAX PERU OP3" tvg-logo="https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg",LIGA 1 PERU
-http://novabox.club/live/conectStreax/K2tbMNebMW/324101.m3u8
-
 #EXTINF:-1 group-title="MUSICA" tvg-id="billboard" tvg-name="BillBoard TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/600/600/0/0/12050400077728.png" ch-number="519",BillBoard TV
 https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -723,6 +715,7 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
 #EXTINF:-1 ch-number="491" tvg-id="350#Eternal Word TV Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/366/CH_LOGO/800/542/0/0/231984100764.png" group-title="RELIGIÓN", EWTN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/27.m3u8
 https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -765,12 +758,12 @@ https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/PNwE9t/espn5.stream/pl
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfL7phRm/worldtv2.png" group-title="ESPN" ch-number="18" type="channel",ESPN 6 PE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfL7phRm/worldtv2.png" group-title="ESPN" ch-number="18" type="channel",ESPN 6
 https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/rawlight3/espn6.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0GB6FW/worldtv2.png" group-title="ESPN" ch-number="19" type="channel",ESPN 7 PE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0GB6FW/worldtv2.png" group-title="ESPN" ch-number="19" type="channel",ESPN 7
 https://cors-proxy.cooks.fyi/bantel-cdn4.iptvperu.tv:1935/rawlight3/espn7.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
