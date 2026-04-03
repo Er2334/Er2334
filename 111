@@ -235,18 +235,22 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_S
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISCOVERY_HGTV)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", HISTORY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HISTORY_CHANNEL_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", HISTORY 2
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HISTORY_2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", HOLA TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/38.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HOLA_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", ID HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ID_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", HTV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HTV)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", LA NACION AR
@@ -280,18 +284,23 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PAKA_
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PARAMOUNT_CHANNEL_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", PASIONES 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/47.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PASIONES_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_SONY_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SPACE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SPACE_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STAR CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(STAR_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STUDIO UNIVERSAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(STUDIO_UNIVERSAL)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", SUN CHANNEL
@@ -304,12 +313,15 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TCM)/
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFE)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TELEMUNDO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEMUNDO)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TN AR
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/55.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TN)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TNT SERIES
@@ -337,21 +349,27 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UCL)/
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL COMEDY 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_COMEDY_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL CRIME
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CRIME_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL PREMIERE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_PREMIERE_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL REALITY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_REALITY_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", WARNER CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(WARNER_CHANNEL_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", WOW TV
@@ -395,6 +413,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-chno="807" tvg-id="DWEspanol.de" tvg-logo="https://git.io/JOTLM" group-title="INTERNACIONALES", Deutsche Welle
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/102.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-chno="817" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVPEI.png?raw=true" group-title="INTERNACIONALES", TV Perú Internacional
