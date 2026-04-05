@@ -71,10 +71,15 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(A24)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", A&E
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-71.playlist.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AE_MUNDO_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", AMC
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-76.playlist.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AMC_HD)/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="Cine, Novelas y Series" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp", AMC Series
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", AMERICA TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AMERICA_TV)/index.m3u8
@@ -84,6 +89,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AXN_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", ANIMAL PLANET
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-45.playlist.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ANIMAL_PLANET_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", BABY TV 
@@ -228,6 +234,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBOMUNDI)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO POP
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-108.playlist.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBOPOP)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO XTREME 
@@ -276,6 +283,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_H
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_HITS)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", NAT GEO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NATIONAL_GEOGRAPHIC_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK
@@ -332,7 +340,11 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TNT SERIES
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-64.playlist.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_SERIES_HD)/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="Cine, Novelas y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/500px-Logo_TNT_Novelas.png", TNT Novelas
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/57.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_SPORTS)/index.m3u8
