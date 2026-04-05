@@ -24,6 +24,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
 uhttps://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NOTICIAS_PY)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", PARAGUAY TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 https://pylocaltstvhls.l7cdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Paraguay_TV)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", PARAVISION 
@@ -45,6 +46,9 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEF
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", EL TRECE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(RPC)/index.m3u8
+
+#EXTINF:-26 tvg-id="TigoSports.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/TigoSports.py.png",TIGO SPORTS
+https://copacogen.desdeparaguay.net@live.enhdtv.com:8081/8160/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", CAMARA TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TV_CAMARA)/index.m3u8
