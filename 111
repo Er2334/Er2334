@@ -213,15 +213,12 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_S
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_3_LATAM)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PLUS
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 
 http://217.26.190.76:8888/play/a0jk/index.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 2
-http://217.26.190.76:8888/play/a0jk/index.m3u8
+http://177.10.184.193:8000/play/a02v/index.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_2_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
@@ -439,9 +436,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/102.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="817" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVPEI.png?raw=true" group-title="INTERNACIONALES", TV Perú Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-
 #EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AZINT.png?raw=true" group-title="INTERNACIONALES", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
@@ -457,9 +451,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yXLvs7V/Tlnovelas-2011-logo-svg.png" group-title="NOVELAS", TL NOVELAS
 http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVvbx2s/NOVELISIMA.png" group-title="NOVELAS", NOVELÍSIMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="MUSICA", Radio Farra tv
 http://159.203.148.226/live/farra.m3u8
 
@@ -471,9 +462,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="MUSICA", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yijitpa.png" group-title="NOVELAS", Sony Novelas
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logoq.png" group-title="INFANTILES", EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
@@ -492,20 +480,9 @@ http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_Pl
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="MUSICA", Nick Music
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(nickmusic)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="MUSICA", MTV LIVE HD
-http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_Live_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="MUSICA", MTV CLUB
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_CLUB)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="RELIGIÓN", ENLACE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/24.m3u8
 http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Enlace)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KezV7um.png" group-title="MUSICA",MTV 00s
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
-https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="INFANTILES", ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -513,58 +490,21 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="NACIONALES", ROCK & POP TV
 https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="SERIES", BBC Drama
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="SERIES", Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="SERIES", FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="INFANTILES", Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8mnvubb.png" group-title="SERIES", Misterios sin resolver
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bde7044b-90d4-4e57-bcb7-61c20fa767bb
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV Flow Latino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV Rocks
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="DEPORTES" , POKER TOUR esp
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", IBIZA TV
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2gcTYQz/DMJ.jpg" group-title="SERIES", DMJ
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="INTERNACIONALES", Caracol
-http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/78700
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png" group-title="MUSICA", TOP TV
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="MUSICA", TRACE BRASIL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
-
 #EXTINF:-1 ch-number="313" tvg-id="DHE.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="CINE", DHE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DHE_HD)/index.m3u8
-
-#EXTINF:-1  group-title="DEPORTES" tvg-logo="https://icon2.cleanpng.com/20180601/kql/avo0uye11.webp", PREMIER LIGUE ENG
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png" group-title="MUSICA", Music PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
@@ -619,9 +559,6 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="MUSICA", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/318px-RCN_Novelas_lo5go_2019.png" group-title="NOVELAS", RCN NOVELAS
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(RCN_TELENOVELAS)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", AZ CORAZÓN
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
