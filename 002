@@ -200,17 +200,17 @@ https://chromecast.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_cenc/Ame
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
 #EXTINF:-1 tvg-id="SHOW SPORTS CORDOBA" tvg-name="Show Sports Córdoba" tvg-logo="https://i.ibb.co/QnqdqBV/ss.png" group-title="Deportes" ch-number="117" type="channel",Show Sports Córdoba
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_cenc/Show_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
 #EXTINF:-1 tvg-id="El Garage Tv.ar" tvg-name="Garage TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true" group-title="Deportes" ch-number="118" type="channel",Garage TV
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_cenc/El_Garage.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
 #EXTINF:-1 tvg-id="NBA TV.ar" tvg-name="NBA TV" tvg-logo="http://stacypaetz.com/wp-content/uploads/2014/07/nbatv.png" group-title="Deportes" ch-number="119" type="channel",NBA TV
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_cenc/NBA_TV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="125",DSports 2
 http://201.230.121.85:8000/play/a0yv/index.m3u8
@@ -239,37 +239,37 @@ https://chromecast.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_cenc/Evento
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
 #EXTINF:-1 tvg-id="AandE HD.uy" tvg-name="A&E" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" group-title="Cine, Novelas y Series" ch-number="301" type="channel",A&E
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_cenc/AEHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
 #EXTINF:-1 tvg-id="AMC HD.uy" tvg-name="AMC" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="Cine" ch-number="302" type="channel",AMC
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_cenc/AMC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
 #EXTINF:-1 tvg-id="AXN HD.uy" tvg-name="AXN" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="Cine, Novelas y Series" ch-number="303" type="channel",AXN
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_cenc/AXNHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
 #EXTINF:-1 tvg-id="A3 Cine HD.uy" tvg-name="Atrescine" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A3CIN.png?raw=true" group-title="Cine" ch-number="304" type="channel",Atrescine
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_cenc/A3_Cine.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
 #EXTINF:-1 tvg-id="A3 Series HD.uy" tvg-name="Atreseries" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A3SER.png?raw=true" group-title="Cine, Novelas y Series" ch-number="305" type="channel",Atreseries
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_cenc/A3_Series.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
 #EXTINF:-1 tvg-id="Cinecanal HD.uy" tvg-name="Cinecanal" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" group-title="Cine" ch-number="306" type="channel",Cinecanal
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_cenc/CinecanalHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-name="Cinemax" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" group-title="Cine" ch-number="309" type="channel",Cinemax
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_cenc/Cinemax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
