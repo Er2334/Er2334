@@ -50,8 +50,8 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEF
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(RPC)/index.m3u8
 
-#EXTINF:-26 tvg-id="TigoSports.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/TigoSports.py.png" group-title="NACIONALES", TIGO SPORTS
-https://copacogen.desdeparaguay.net@live.enhdtv.com:8081/8160/index.m3u8
+#EXTINF:-26 tvg-id="TigoSports.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/TigoSports.py.png" group-title="EVENTOS PY", TIGO INTERMEDIA
+https://copacogen.desdeparaguay.net@live.enhdtv.com:8081/8160https://chromecast.cvattv.com.ar/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", CAMARA TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TV_CAMARA)/index.m3u
