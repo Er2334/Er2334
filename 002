@@ -114,7 +114,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_cenc/ESPN2HD.mp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="Deportes" ch-number="21" type="channel",ESPN PY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="Deportes" ch-number="21" type="channel",ESPN 2 PY
 https://chromecast.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_cenc/ESPN_PY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -129,7 +129,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_cenc/ESPN2_Ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes" ch-number="24" type="channel",ESPN 2 PY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes" ch-number="24" type="channel",ESPN PY
 https://chromecast.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_cenc/ESPN2_PY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -696,7 +696,7 @@ http://217.26.190.76:8888/play/a0he/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER
 http://217.26.190.76:8888/play/a0jk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/47226827072588.png" group-title="PARAGUAY", HEI NOW
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/47226827072588.png" group-title="MÚSICA", HEI NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
 https://chromecast.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_cenc/HEI_NOW.mpd
@@ -927,7 +927,7 @@ http://201.218.140.30:9000/play/a089
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", FMH KIDS
 http://201.218.140.30:9000/play/a01e
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", BEIN SPORTS Ñ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTS Ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", ASPEN CLASSIC 
@@ -945,7 +945,7 @@ https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvacci
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", EDUCANAL 
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TROPICALIA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", TROPICALIA
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", RCC
@@ -992,12 +992,6 @@ http://186.33.40.97:8789/play/28
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM CHI
 http://186.33.40.97:8789/play/22 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", UNIVISION
-http://190.238.43.117:8000/play/a07b/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", BITME
-http://190.238.43.117:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DSPORTS2 HD
 http://190.238.43.117:8000/play/a09g/index.m3u8
