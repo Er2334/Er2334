@@ -1049,6 +1049,13 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(RPC)/
 #EXTINF:-26 tvg-id="TigoSports.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/TigoSports.py.png" group-title="EVENTOS PY", TIGO INTERMEDIA
 https://copacogen.desdeparaguay.net@live.enhdtv.com:8081/8160https://chromecast.cvattv.com.ar/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", UNICANAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", POPU TV
+https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSO_HD)/index.m3u8
 
 
 
