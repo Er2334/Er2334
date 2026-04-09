@@ -1057,7 +1057,10 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICA
 https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSO_HD)/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", AMC
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/amc/output.mpd
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-76.playlist.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AMC_HD)/index.m3u8
 
 
 
