@@ -1394,7 +1394,7 @@ http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95.playl
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png", ESPN PREMIUN
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-02.playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes 1" ch-number="109" type="channel",TNT SPORTS POR TWITCH
 https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
@@ -1408,7 +1408,7 @@ http://190.60.39.195:8000/play/a0xq/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", WIN SPORTS
 http://190.60.39.195:8000/play/a0ug/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", GOLDEN EDGE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", GOLDEN EDGE HD
 http://181.118.158.103:8000/play/a014/index.m3u8
 
 
