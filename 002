@@ -1363,34 +1363,13 @@ https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-01.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="EVENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXYV4tsiGr55sgm2a61eSApDf8od8y1KMeA&s", EVENTOS PVV 3
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-03.playlist.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" group-title="EVENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXYV4tsiGr55sgm2a61eSApDf8od8y1KMeA&s", EVENTOS PVV 4
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-05.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="EVENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXYV4tsiGr55sgm2a61eSApDf8od8y1KMeA&s", EVENTOS PVV 5
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-06.playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png", ESPN SUR
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
-
-#EXTINF:-1,ESPN 2 SUR
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png", ESPN SUR 2
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png", ESPN SUR 3
-
-
-#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png", ESPN SUR 4
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95.playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png", ESPN 5
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png", ESPN PREMIUN
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-02.playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes 1" ch-number="109" type="channel",TNT SPORTS POR TWITCH
 https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
