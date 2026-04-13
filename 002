@@ -1390,13 +1390,13 @@ http://181.118.158.103:8000/play/a014/index.m3u8
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-02.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png", ESPN 5
-http://45.170.130.224:8000/play/a01w/index.m3u8
+http://38.41.8.1:8000/play/a0rm
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png", ESPN ARG
 http://45.170.130.224:8000/play/a04l/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png", ESPN CO
-http://45.170.130.224:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", BITME
+http://181.118.158.103:8000/play/a032/index.m3u8
 
 
 
