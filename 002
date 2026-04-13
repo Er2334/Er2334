@@ -1139,7 +1139,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBOMUNDI)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO POP
-
+http://38.41.8.1:8000/play/a0rq
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO XTREME 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
@@ -1363,7 +1363,7 @@ https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-01.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="EVENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXYV4tsiGr55sgm2a61eSApDf8od8y1KMeA&s", EVENTOS PVV 3
-
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-03.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="EVENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXYV4tsiGr55sgm2a61eSApDf8od8y1KMeA&s", EVENTOS PVV 4
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-05.playlist.m3u8
@@ -1385,6 +1385,19 @@ http://190.60.39.195:8000/play/a0ug/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", GOLDEN EDGE HD
 http://181.118.158.103:8000/play/a014/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png", ESPN PREMIUN
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-02.playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png", ESPN 5
+http://45.170.130.224:8000/play/a01w/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png", ESPN ARG
+http://45.170.130.224:8000/play/a04l/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png", ESPN CO
+http://45.170.130.224:8000/play/a034/index.m3u8
+
 
 
 
