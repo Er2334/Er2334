@@ -341,7 +341,6 @@ https://chromecast.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_cenc/Pasiones.
 #EXTINF:-1 tvg-id="Sony HD.uy" tvg-name="Sony Channel" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" group-title="Cine" ch-number="332" type="channel",Sony Channel
 https://chromecast.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_cenc/SonyHD.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
 #EXTINF:-1 tvg-id="Sony Movies.uy" tvg-name="Sony Movies" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="Cine" ch-number="333" type="channel",Sony Movies
