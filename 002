@@ -1400,6 +1400,17 @@ http://181.118.158.103:8000/play/a032/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png", TYC SPORTS
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7dadd66644141569d4ce038d1776783:8eb22801adc53ec4a5f5982dff2247e6
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes AR" ch-number="108" type="channel",ESPN Premium
+https://apps.playme.com.ar/dash/CH_ESPNPREMIUM/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9e584f3882242f9aeefdf4ebe712425:99181bc0a325071fe8d47c893e233815
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes AR" ch-number="109" type="channel",TNT Sports Premium
+https://apps.playme.com.ar/dash/CH_TNTSPORTS/playlist.mpd
+
+
 
 
 
