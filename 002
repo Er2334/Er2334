@@ -1406,13 +1406,14 @@ http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playl
 https://apps.playme.com.ar/dash/CH_ESPNPREMIUM/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9e584f3882242f9aeefdf4ebe712425:99181bc0a325071fe8d47c893e233815
+#KODIPROP:inputstream.adaptive.license_key=cac7b52cb14661fe3db0449020791d97:0c2780acce4ef9d7334ef25be445ceb4
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes AR" ch-number="109" type="channel",TNT Sports Premium
-https://apps.playme.com.ar/dash/CH_TNTSPORTS/playlist.mpd
+https://cdn03.gigared.com.ar/live/eds/TyC_Sports/sa_live_dash/TyC_Sports.mpd
 
 
 
-
+https://cdn03.gigared.com.ar/live/eds/TyC_Sports/sa_live_dash/TyC_Sports.mpd
+cac7b52cb14661fe3db0449020791d97:0c2780acce4ef9d7334ef25be445ceb4
 
 
 
