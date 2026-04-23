@@ -25,260 +25,262 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY SCIENCE 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/13.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/14.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINEMAX 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/15.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY THEATER 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DE PELICULA 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY THEATER 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/17.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY TLC 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DE PELICULA 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STAR CHANNEL 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY TLC 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/19.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", PASIONES 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STAR CHANNEL 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/20.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY TURBO 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", PASIONES 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/21.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY TURBO 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/22.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY WORLD 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/24.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FX
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/23.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY WORLD 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/25.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY  ID 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/27.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/26.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PLUS 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", DISCOVERY  ID 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/28.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", HGTV 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PLUS 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/29.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", HGTV 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/30.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/31.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", HISTORY 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", HISTORY 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/34.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", NAT GEO 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", NAT GEO 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/36.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO POP 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/37.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO XTREME 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/39.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/40.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO SIGNATURE 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/41.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TELEMUNDO INTERNACIONAL 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/43.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/27.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY CHANNEL 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/46.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/47.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE SONY 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/48.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/49.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SPACE 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/50.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/51.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CNN 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/52.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STUDIO UNIVERSAL 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/53.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", STUDIO UNIVERSAL 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL CHANNEL 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/57.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/59.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", WARNER CHANNEL 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/62.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/66.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", FOOD NETWORK 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/72.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOON NETWORK 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/73.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", EL GOURMET 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/74.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISCOVERY KIDS 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/75.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", LIFETIME 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/76.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JUNIOR 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/77.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/78.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", UNIVERSO 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/79.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TNT NOVELAS 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOON NETWORK 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/80.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK JR 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", EL GOURMET 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/81.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TL NOVELAS 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISCOVERY KIDS 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/82.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS MX 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", LIFETIME 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/84.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TNT SERIES 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JUNIOR 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/85.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/86.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY CHANNEL 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/87.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TRUTV 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", UNIVERSO 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/88.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ADRENALINA SPORTS 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TNT NOVELAS 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/89.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORTS 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/92.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK JR 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/90.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TL NOVELAS 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/91.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT MX 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/93.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 2
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/94.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TNT SERIES 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/95.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/106.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY CHANNEL 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/96.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS PLUS 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TRUTV 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/97.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ADRENALINA SPORTS 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/98.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORTS 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 1
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 2
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 3
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/109.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 4
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/110.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN DEPORTES 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/125.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS PLUS 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", UNIVISION 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/117.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/156.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", WAPA 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/130.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/635.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/280.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/362.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO MUNDI 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/281.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/282.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL CRIME 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/283.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL PREMIERE 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/284.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", HISTORY 2
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/286.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", USA 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/289.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL REALITY 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/290.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TCM
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/291.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN F1
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/292.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX DEPORTES 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/294.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TYC SPORT 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/298.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TOONCAST 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/300.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CRONICA TV 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS ARG 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/364.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL CRIME 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/365.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL PREMIERE 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/366.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", HISTORY 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/368.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", USA 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/371.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL REALITY 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/372.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS ARG 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TCM
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/373.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS CHILE 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN F1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX DEPORTES 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/376.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TYC SPORT 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TOONCAST 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/383.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CRONICA TV 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/851.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS ARG 3
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS ARG 1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS CHILE 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/462.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TV PUBLICA ARG
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/377.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/463.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", ETC TV
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/478.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/578.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CARACOL TV
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/488.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/607.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", RCN 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/491.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/611.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EUROSPORT 1
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/498.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/618.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EUROSPORT 2
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/499.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CANAL 5 MX
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/534.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/655.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", DISTRITO COMEDIA
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/539.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/660.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CANAL DE LAS ESTRELLAS 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/622.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/759.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOONITO 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/623.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/760.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN 2
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/634.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/791.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS ARG 2
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/688.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN COL
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/689.m3u8
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10532.m3u8
