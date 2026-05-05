@@ -950,14 +950,8 @@ https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", RCC
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR 
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE HISPANO 
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE PREMIUM 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN F1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS PY", EVENTOS FUTBOL PY
 http://45.170.130.224:8000/play/a04i/index.m3u
@@ -972,10 +966,22 @@ http://45.170.130.224:8000/play/a04i/index.m3u
 
 
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a04t.png" group-title="DEPORTES", TUDN 1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN DEPORTES 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS PLUS 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", UNIVISION 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/156.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", WAPA 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/635.m3u8
 
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0ef.png" group-title="DEPORTES", TUDN 2
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/791.m3u8
 
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0e5.png" group-title="DEPORTES", Azteca Deportes
 http://45.5.117.57:8999/play/a0e5/index.m3u8
@@ -1044,7 +1050,40 @@ https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?a
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/amc/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", BABY TV 
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/babytv/output.mpd
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", RAI
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/rai/output.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TVE
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tve/output.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", BBC
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/bbc/output.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", BOLIVIA TV 
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/boliviatv/output.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", GOLF TV 
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/golf/output.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", EL NUEVE
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/elnueve/output.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", EL TRECE ARG
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/el13/output.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", ETC TV
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/578.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CANAL 5 MX
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/655.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CARACOL TV
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/607.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", RCN 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/611.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOONITO
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/boomerang/output.mpd
@@ -1244,6 +1283,9 @@ https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/512px-NBCSN_logo_%28flat%29.svg.png", NBC SPORTS
 https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
 
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes 1" ch-number="109" type="channel",TNT SPORTS
+
+
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes 1" ch-number="109" type="channel",TNT SPORTS POR TWITCH
 https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
 
@@ -1259,7 +1301,10 @@ http://190.60.39.195:8000/play/a0ug/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", GOLDEN EDGE HD
 http://181.118.158.103:8000/play/a014/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png", ESPN PREMIUN
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png", ESPN PREMIUN 1
+
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png", ESPN PREMIUN 2
 
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png", ESPN 5
