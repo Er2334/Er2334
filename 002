@@ -1064,14 +1064,20 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/disc_kids/output.mp
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JUNIOR
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/disneyjr/output.mpd
 
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png", ESPN
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png", ESPN CO
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10685.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 2
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 3
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/109.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 4
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY/output.mpd
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/110.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", EUROPA EUROPA
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/europa/output.mpd
@@ -1079,12 +1085,11 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/europa/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", FX
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/fx/output.mpd
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 7
-
+http://181.118.158.103:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 6
-
+http://181.118.158.103:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", GOLDEN PREMIER 
 http://217.26.190.76:8888/play/a0jk/index.m3u8
@@ -1093,36 +1098,34 @@ http://217.26.190.76:8888/play/a0jk/index.m3u8
 http://177.10.184.193:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/31.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO 2
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO MUNDI 
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO POP
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO XTREME 
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/40.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO SIGNATURE 
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/nickelodeon/output.mpd
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK JR
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/nickjr/output.mpd
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", SONY 
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/47.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", SPACE
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/51.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", STAR CHANNEL
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/20.m3u8
