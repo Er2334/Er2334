@@ -945,40 +945,37 @@ https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvacci
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", TROPICALIA
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", RCC
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE HISPANO 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE PREMIUM 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS PY", EVENTOS FUTBOL PY
 http://45.170.130.224:8000/play/a04i/index.m3u
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", BAND TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", SBT 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", BRAZIL TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", GLOBO TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a04t.png" group-title="DEPORTES", TUDN 1
-http://45.5.117.57:8999/play/a04t/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0ef.png" group-title="DEPORTES", TUDN 2
-http://45.5.117.57:8999/play/a0ef/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0e5.png" group-title="DEPORTES", Azteca Deportes
 http://45.5.117.57:8999/play/a0e5/index.m3u8
@@ -996,82 +993,64 @@ http://186.33.40.97:8789/play/22
 http://190.238.43.117:8000/play/a09g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", ABC TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ABC)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", CN9
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CN9)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", GEN TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1415.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GEN_TV)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", MEGA TV
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", LA TELE
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LA_TELE)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", NOTICIAS PY
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
-uhttps://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NOTICIAS_PY)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", PARAGUAY TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
-https://pylocaltstvhls.l7cdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Paraguay_TV)/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="NACIONALES" tvg-logo="https://i.imgur.com/kEcOYML.png", Monumental Tv
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", PARAVISION 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PARAVISION)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", SNT
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", SUR TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", TELEFUTURO
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", EL TRECE
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(RPC)/index.m3u8
+
 
 #EXTINF:-26 tvg-id="TigoSports.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/TigoSports.py.png" group-title="EVENTOS PY", TIGO INTERMEDIA
 https://copacogen.desdeparaguay.net@live.enhdtv.com:8081/8160https://chromecast.cvattv.com.ar/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", UNICANAL
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", POPU TV
 https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSO_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", AMC
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/amc/output.mpd
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-76.playlist.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AMC_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", BABY TV 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(BABY_TV)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOONITO
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/boomerang/output.mpd
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(BOOMERANG)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOON NETWORK 
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cartoon/output.mpd
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CARTOON_NETWORK_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", CINECANAL 
 http://177.10.184.193:8000/play/a059/index.m3u8
@@ -1088,7 +1067,7 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/disneyjr/output.mpd
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 2
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
 
-EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 3
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 4
@@ -1181,9 +1160,6 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE 1", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", ÑANDUTÍ TV
 https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
 
@@ -1197,7 +1173,6 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-chno="807" tvg-id="DWEspanol.de" tvg-logo="https://git.io/JOTLM" group-title="INTERNACIONALES", Deutsche Welle
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/102.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AZINT.png?raw=true" group-title="INTERNACIONALES", Azteca Internacional
