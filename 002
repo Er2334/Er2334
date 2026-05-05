@@ -1179,16 +1179,16 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE 1", HBO FAMILY
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE 1", HBO PLUS
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="NACIONALES", ROCK & POP TV
 https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
 
 #EXTINF:-1 ch-number="313" tvg-id="DHE.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="CINE 1", DHE
-
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dhe/output.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="CINE 1",GOLDEN
 http://217.26.190.76:8888/play/a0h7/index.m3u8
@@ -1204,7 +1204,7 @@ http://217.26.190.76:8888/play/a0h7/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CANAL DE LAS ESTRELLAS 
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/759.m3u8
 
 #EXTINF:-1 ch-number="622" tvg-id="TV Chile.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2761/CH_LOGO/800/542/0/0/655345470739.png" group-title="INTERNACIONALES", TV Chile
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/tvchile/output.mpd
@@ -1231,13 +1231,13 @@ https://live.enhdtv.com:8081/8150/index.m3u8
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTUSaL5q1VtS-E1wCfb1nvO4/m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png", FOX
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://i.ibb.co/YjrQ0CQ/fs2.png", FOX 2
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10532.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://i.ibb.co/SBkkDxq/fs3.png", FOX 3
-
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06589c968882b19431e883df28f54cf.webp" aspect-ratio="16:9", FOX DEPORTES
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
@@ -1264,7 +1264,7 @@ http://181.118.158.103:8000/play/a014/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png", ESPN 5
-
+http://181.118.158.103:8000/play/a03c/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png", ESPN ARG
 http://45.170.130.224:8000/play/a04l/index.m3u8
@@ -1273,6 +1273,7 @@ http://45.170.130.224:8000/play/a04l/index.m3u8
 http://181.118.158.103:8000/play/a032/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png", TYC SPORTS
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.m3u8
 
 
 
